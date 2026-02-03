@@ -8609,6 +8609,7 @@ analytics.ml.homedepot.ca
 analytics.mlstatic.com
 analytics.mobile.yandex.net
 analytics.mondotv.jp
+analytics.morphe.software
 analytics.mouthshut.com
 analytics.moviepilot.de
 analytics.mpay.samsung.com
@@ -9079,6 +9080,7 @@ api.collect.data.intl.miui.com
 api.comm.miui.com
 api.competition.intl.miui.com
 api.content.intl.miui.com
+api.croct.io
 api.cupid.ptqy.gitv.tv
 api.d.xiaomi.com
 api.developer.xiaomi.com
@@ -12513,6 +12515,7 @@ cdl.booksy.com
 cdl.lvsafe.io
 cdl2.booksy.com
 cdn-a.amazon-adsystem.com
+cdn-a.raptor.digital
 cdn-aas-campaigns.alphonso.tv
 cdn-aas-ssai.alphonso.tv
 cdn-channels-pixel.ex.co
@@ -19313,6 +19316,7 @@ foxt.actonservice.com
 foxtinfo.foxt.com
 foxtrotdata.com
 fp-cdn.azureedge.net
+fp-flame.vercel.app
 fp-upload.dun.163.com
 fp.bizjournals.com
 fp.kakaku.com
@@ -24768,6 +24772,7 @@ ligxyv.hackers.co.kr
 like.reply.de
 likethedog.com
 lilogy.actonservice.com
+limecodesign.com
 limepeal.com
 limone.iltrovatore.it
 lincoln-financial.lfd.com
@@ -28515,6 +28520,7 @@ melodyglobe.com
 meltmilk.com
 member-app.rightwayhealthcare.com
 member.usenix.org
+membernook.com
 members.atomcomplete.com
 members.simplicity.coop
 membership.mortonarb.org
@@ -30490,6 +30496,7 @@ mos-ortb-api.ad.intl.xiaomi.com
 mosapi.ad.intl.xiaomi.com
 mosvnx.livup.com.br
 motion.kollmorgen.com
+motionarray.net
 motionflowers.com
 motionlessbelief.com
 motionlessmeeting.com
@@ -31822,6 +31829,7 @@ ooefrrv5.alphonso.tv
 oopt.norauto.es
 ooqbml.tac-school.co.jp
 oossod.potterybarn.ae
+op-mobile.opera.com
 opalquill.com
 opbdps.bonprix.fi
 open-test.wynk.in
@@ -34513,6 +34521,7 @@ rum.ingress.layer0.co
 rum.layer0.co
 rum.marquardmedia.hu
 rum.mauve.eu
+rum.optimizely.com
 rum.perfops.net
 rum.uptime.com
 rumsey.actonservice.com
@@ -46541,6 +46550,7 @@ tracker.gamemonkey.org
 tracker.gleanview.com
 tracker.grupanya.com
 tracker.hdtvcloud.com
+tracker.hollandandbarrett.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -46589,6 +46599,7 @@ trackerapi.truste.com
 trackercollect.ddxq.mobi
 trackerfeed.ddxq.mobi
 trackersimulator.org
+trackhorizon.nnmtools.com
 trackid.globoid.globo.com
 tracking-adnet.vivo.com.cn
 tracking-api-4lasu2nlcq-ew.a.run.app
@@ -49073,6 +49084,7 @@ visit.sendheirloom.com
 visit.tenplay.com.au
 visit.xchina.pics
 visitor-microservice.ext.p-a.im
+visitor-speed.com
 visitor.arabiancentres.com
 visitor.hotelex.cn
 visitor.novartisoncology.us
