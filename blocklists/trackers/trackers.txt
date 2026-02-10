@@ -2011,6 +2011,7 @@
 66e861d4132e485389b61cdbb42ca997.fp.measure.office.com
 66ecbaadd43049ba86496cee481fc6ef.fp.measure.office.com
 66efa6a4adea4cbc807d94020e44da9d.fp.measure.office.com
+66hao.cc
 66jo.societegenerale.fr
 6707c3b3ce334ea5937ff9c065817cee.fp.measure.office.com
 67149655583e997347459fe38ac76bc4.fp.measure.office.com
@@ -8851,6 +8852,7 @@ analytics.distributednews.com
 analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.edgekey.net
+analytics.editorialedomani.it
 analytics.egdata.app
 analytics.egernsund.com
 analytics.egernsund.de
@@ -13192,6 +13194,7 @@ chinanorth3-0.in.applicationinsights.azure.cn
 chingovernment.com
 chipperisle.com
 chivalrouscord.com
+chloro.trip.com
 chong.sec.miui.com
 choose.adelaide.edu.au
 choose.nu.edu
@@ -15476,6 +15479,7 @@ data.inst.socios.realmadrid.com
 data.inswa.coca-cola.com
 data.investing.questrade.com
 data.janvanderstorm.de
+data.jaytuckwell.com
 data.jerkmate.com
 data.jp-email.princess.com
 data.jp-guest.princess.com
@@ -19973,6 +19977,7 @@ fr.sharpmarketing.eu
 fraalb.cebanatural.com
 frailfruit.com
 framebanana.com
+fran.pro
 france.alphabet.com
 francecentral-1.in.applicationinsights.azure.com
 franchise.goodearthcoffeehouse.com
@@ -20668,6 +20673,7 @@ go-usertrack-importer.pub.24ur.si
 go.17app.co
 go.4010.ru
 go.4sq.com
+go.absolventa.de
 go.accredible.com
 go.accumaxglobal.com.au
 go.acelisconnectedhealth.com
@@ -20698,6 +20704,7 @@ go.azets.dk
 go.azets.fi
 go.azets.no
 go.azets.se
+go.azubi.de
 go.backtest.io
 go.bandits.com
 go.bayshoresystems.com
@@ -25091,6 +25098,7 @@ ladsp.com
 ladxxr.sonovente.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
+lakesecure.com
 lameletters.com
 lammico.actonservice.com
 lamplow.com
@@ -30674,6 +30682,7 @@ metricssecure.luna.com
 metricssecure.nmfn.com
 metricssecure.northwesternmutual.com
 metricstur.www.svenskaspel.se
+metrik.freitag.de
 metrika.kontur.ru
 metrix.511tactical.com
 metrix.avon.uk.com
@@ -33818,6 +33827,7 @@ promotions.la-z-boy.com
 promotions.stationcasinos.com
 promotions.thermofisher.com
 promotionspr.actonservice.com
+prop.astonvillanews.co.uk
 propay.actonservice.com
 properties.insiterealestate.com
 property.aon.com
@@ -34294,6 +34304,7 @@ radiantlullaby.com
 radiateprose.com
 radio.moodybible.org
 radiometer.actonservice.com
+radiosfax.com
 rads.msn.com
 raf.postnl.be
 raf.postnl.nl
@@ -43898,6 +43909,7 @@ t.texassports.com
 t.texastech.com
 t.thalesgroup.com
 t.thefishercenter.com
+t.themarketer.com
 t.ticketatlantic.com
 t.ticketleader.ca
 t.ticketstaronline.com
@@ -48466,6 +48478,7 @@ tw.reppublika.com
 tw.spiriteq.com
 twdhec.marioeletro.com
 tweetdeck.net.anwalt.de
+twelvedawn.com
 twistairclub.net.anwalt.de
 twistloss.com
 twiz.wizaly.co.uk
