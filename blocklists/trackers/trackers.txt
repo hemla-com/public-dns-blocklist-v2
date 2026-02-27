@@ -8617,7 +8617,6 @@ aaxwall.com
 aazfby.auto.de
 aazmiw.reisenthel.com
 ab-machine.forbes.com
-ab.apple.com.akadns.net
 ab.blogs.es
 ab.dns-finder.com
 ab.fanatical.com
@@ -8937,7 +8936,6 @@ acendas.actonservice.com
 acesse.tc.com.br
 acf240b0226e28565220eae1965ab7eb.fp.measure.office.com
 acfd14be5011491586db2f84c0a6b1b2.fp.measure.office.com
-acfeedbackws.icloud.com
 acidicstraw.com
 acidpigs.com
 aciysf.destockage-fitness.com
@@ -9542,7 +9540,6 @@ advertising.amazon.in
 advertising.amazon.it
 advertising.amazon.nl
 advertising.amazon.sa
-advertising.apple.com
 advertising.jp.msn.com
 advertising.microsoft.com
 advise.gallup.com
@@ -9555,7 +9552,6 @@ advisors.beaconfinserv.com
 advisorservices.etradefinancial.com
 advisorservicesfpc.etradefinancial.com
 advisorycloud-dev.actonservice.com
-advp.apple.com
 advtek.actonservice.com
 adwmab.card-db.com
 adx-ads-fr.heytapmobile.com
@@ -10819,7 +10815,6 @@ aperio.leicabiosystems.com
 apfbrk.butorline.hu
 apharponloun.com
 aphxav.green-acres.it
-api-adservices.apple.com
 api-analytics-prd.pelcro.com
 api-analytics-qa.samsungknox.com
 api-analytics.samsungknox.com
@@ -13386,7 +13381,6 @@ bonuscomplex.com
 book.londonsoundacademy.com
 booking.getwaitnot.com
 bookprobe.com
-books-analytics-events.apple.com
 boomboomcloud.com
 boomerang.dell.com
 boostbehavior.com
@@ -13756,6 +13750,7 @@ bu.adpinfo.com
 buasmk.earthshoes.com
 bubblewrapp.actonservice.com
 bubblyaction.com
+bucketlistbob.com
 bucyhq2.alphonso.tv
 buddycanvas.com
 budibu.saksfifthavenue.com
@@ -14236,7 +14231,6 @@ ca.ad.lgsmartad.com
 ca.clubavantages.net
 ca.connect.finning.com
 ca.creditacceptance.com
-ca.iadsdk.apple.com
 ca.lgsmartad.com
 ca.macheq.com
 ca.mattamyhomes.com
@@ -14278,11 +14272,13 @@ cac72cf0e5984367ac49dcddebf6f471.fp.measure.office.com
 cac9d516f0300a265a7f419ef322b219.fp.measure.office.com
 cache.datamart.windows.com
 cache2.delvenetworks.com
+cactus.joybuy.com
 cad5b05cb8b249a24036595972cc063a.fp.measure.office.com
 caderonline.bu.edu
 cadsuta.net
 caf.actonservice.com
 cafefrench.com
+cafejunior.net
 cafescampfires.com
 cafirebreather.com
 cagkpu.suitdirect.co.uk
@@ -14585,7 +14581,6 @@ cdn-eu.usefathom.com
 cdn-exp-sg-recommend.pt.xiaomi.com
 cdn-rum.ngenix.net
 cdn-t.amazon-adsystem.com
-cdn-xp-ingest-ab.v.aaplimg.com
 cdn-xp-ingest.edge.apple
 cdn.9gtb.com
 cdn.arcstudiopro.com
@@ -14714,7 +14709,6 @@ ceuswatcab02.blob.core.windows.net
 cf-pixelfront-analytics.widencdn.net
 cf.api.instant.one
 cf.campagnes-france.com
-cf.iadsdk.apple.com
 cf.lgsmartad.com
 cf.overblog.com
 cf1033c17d72433abe688c391860904d.fp.measure.office.com
@@ -15068,6 +15062,7 @@ clients.intact.ca
 clients.nbc-insurance.ca
 climbingright.com
 cliquelead.com
+clk-m.joybuy.com
 clk.entry.surala.jp
 clk.glam-print.com
 clk.ingage.jp
@@ -15388,6 +15383,7 @@ colorfulpet.com
 coloringisland.com
 coloroptimizer.com
 colors.chamoji.com
+colorsonchain.com
 colossalclouds.com
 colossalcoat.com
 colossalcry.com
@@ -15581,6 +15577,14 @@ conn2.coloros.com
 conn3.coloros.com
 conn4.coloros.com
 conn5.coloros.com
+connect-dra.dbankcloud.cn
+connect-dra.map.dbankcloud.com
+connect-drcn.dbankcloud.cn
+connect-dre.dbankcloud.cn
+connect-dre.map.dbankcloud.com
+connect-drru.dbankcloud.cn
+connect-drru.hispace.dbankcloud.cn
+connect-drru.hispace.dbankcloud.ru
 connect-qa.netapp.com
 connect.abm.netapp.com
 connect.acams.org
@@ -16051,7 +16055,6 @@ crafthenry.com
 crashchance.com
 cratecamera.com
 crawford-industries.actonservice.com
-crcldu.com
 create.encore-mx.com
 create.encoreglobal.com
 createdip.com
@@ -16128,7 +16131,6 @@ cscsexam.quantresear.ch
 cse.avlyun.sec.miui.com
 cse3.chausport.com
 csghyg.reginaclinic.jp
-csi.gstatic.com
 csm.magnetintell.com
 csmetrics.wilton.com
 csp-collector.appspot.com
@@ -16141,12 +16143,7 @@ cspmkl.gruppal.com
 csr.onet.pl
 csr11.net.asambeauty.com
 cssmps40.alphonso.tv
-cstat-lb.apple.com.akadns.net
-cstat-origin.apple.com
-cstat.apple.com
 cstat.apple.com.edgesuite.net
-cstat.cdn-apple.com
-cstat.g.aaplimg.com
 cstats.sankakucomplex.com
 cstm.baidu.com
 csv4.ebs-paris.fr
@@ -16235,6 +16232,7 @@ curbneon.com
 cure.trueface.org
 curious.cognyte.com
 curiouschalk.com
+curiousmetal.com
 curioussuccess.com
 curlycannon.com
 currentcollar.com
@@ -17399,10 +17397,8 @@ data1.sparkasse.at
 data1.virginmobile.ca
 data1.virginplus.ca
 data2.gosquared.com
-databeacon.apple.com
 databi.ad.xiaomi.com
 datacirrus.com
-datacollection.apple.com
 datacollector-dra.dt.dbankcloud.cn
 datacollector-dra.dt.hicloud.com
 datacollector-drcn.dt.dbankcloud.cn
@@ -17663,6 +17659,7 @@ de89dd904060f1f5efe518afd4c88e9a.fp.measure.office.com
 de93875e2e6e4a6586b23f5734d75694.fp.measure.office.com
 dea5b1e4eeda49a684d2b629bbf1c19a.fp.measure.office.com
 deaf366208d54088a3ec7fd89265b003.fp.measure.office.com
+dealchocolate.com
 dealerrelations.cargurus.com
 dealfastfood.openapp.link
 deb04c69beb74473b6871e2628ba8fc6.fp.measure.office.com
@@ -17929,16 +17926,11 @@ di.runestone.samsung.com
 di.spreadmorelove.ch
 di2.zooplus.es
 di2xwvxz1jrvu.cloudfront.net
-diagassets-lb.apple.com.akadns.net
-diagassets.apple.com
-diagassets.g.aaplimg.com
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 diagnose.igstatic.com
 diagnosis.ad.xiaomi.com
 diagnostics-eudb.office.com
-diagnostics.apple.com
-diagnostics.apple.com.akadns.net
 diagnostics.office.com
 diagnostics.thermo.com
 dialer.leads360.com
@@ -18601,7 +18593,6 @@ dyzmpx.speedway.fr
 dz-ad-lgsmartad-com.aws-prd.net
 dz.ad.lgsmartad.com
 dz.lgsmartad.com
-dz1dt3wqswdezgx4j2ryem5iad.apple.com
 dzbbzg.carfinance247.co.uk
 dzforp.buscape.com.br
 dzgwautxzdtn9.cloudfront.net
@@ -20877,6 +20868,7 @@ exhibition.edm.globalsources.com
 exhibitsneeze.com
 eximius.epoise.com
 exitachieve.myre.io
+exitblocked.com
 exmeqy.smartbuyglasses.de
 exo.nel.measure.office.net
 exo.nel.measure.office.net.cn.intinfra.com
@@ -20906,7 +20898,6 @@ experienceplatform.avaya.com
 experiences.cibc.com
 experiences.simplii.com
 experiencia.coopecaja.fi.cr
-experiments.apple.com
 experiments.apple.com.edgekey.net
 experiments.parsely.com
 experiments.sparanoid.net
@@ -21330,6 +21321,7 @@ familydoctor-app.hotdoc.com.au
 familypractice-app.hotdoc.com.au
 fan.info.heat.com
 fancyactivity.com
+fancycolorlist.net
 fancydune.com
 fangfeeling.com
 fannybacker.com
@@ -21412,7 +21404,6 @@ fbf57c4ad2204728bbe6091009218663.fp.measure.office.com
 fbff82a4477c4017bc0c1053861c748f.fp.measure.office.com
 fbjpji.europcar.es
 fbo-statistics-collector-tc.is.flippingbook.com
-fbs.smoot.apple.com
 fbsg.fayebsg.com
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
@@ -21548,7 +21539,6 @@ feedback.miui.com
 feedback.nslsc-csnpe.ca
 feedbackws.fe.apple-dns.cn
 feedbackws.fe2.apple-dns.net
-feedbackws.icloud.com
 feedbackws.icloud.com.cn
 feedme.use-beez.com
 feeds.tip.ads.microsoft.com
@@ -21556,6 +21546,7 @@ feedten.com
 fef363a980154467be27f4e666bf837d.fp.measure.office.com
 feignedfaucet.com
 femetrics.grammarly.io
+fencesync.com
 feppiu.systemaction.es
 feqbqn.rent.com
 ferias.usj.es
@@ -21666,8 +21657,6 @@ fipsta.urbanara.at
 fipsta.urbanara.co.uk
 fipsta.worldfitness.de
 fire.solutions.jci.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 firecatfilms.com
 firetv.bugsnag.appstore.a2z.com
 fireworkcamp.com
@@ -22073,6 +22062,7 @@ fsegfy.lepoint.fr
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
 fsz1.franziskasager.de
@@ -23300,7 +23290,7 @@ gr.ad.lgsmartad.com
 gr.lgsmartad.com
 gracefulmilk.com
 grado.ufv.es
-graffiti-tags.apple.com
+grafana-agent.cuboxx.io
 grainmass.com
 grande.actonservice.com
 grandfatherguitar.com
@@ -23485,6 +23475,7 @@ h5-ru.video.intl.xiaomi.com
 h5.analytics.126.net
 h5.tv.mi.com
 h559.stamfordadvocate.com
+h5log.joybuy.com
 h5log.zongheng.com
 h6.msn.com
 hacx60.com
@@ -24053,15 +24044,7 @@ iaalxo.vans.ru
 iabdly.hoselink.com.au
 iabgvi.usadosbr.com
 iabusprivacy.pmc.com
-iad-apple.com.akadns.net
-iad.apple.com
-iadcontent-lb.apple.com.akadns.net
-iadcontent.apple.com
-iadmoo.apple.com
-iadsdk.apple.com
-iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
-iadworkbench.apple.com
 iam-rum-intake.datadoghq.com
 iatoex.kahve.com
 iatspayments.actonservice.com
@@ -24120,9 +24103,6 @@ identitypxl.app
 idg1.idgarages.com
 idgptg.esm-computer.de
 idhtm.bb.com.br
-idiagnostics-mdn1.apple.com
-idiagnostics.apple.com
-idiagnostics.apple.com.akadns.net
 idianw.warmteservice.nl
 idkjv31.alphonso.tv
 idlecollect.com
@@ -24244,6 +24224,7 @@ image.mdr.de
 image.now.beyondtrust.info
 image.success.bluewolf.com
 image.thermoscientific.com
+imagecutie.com
 imagenes.ubmmexico.com
 imagens.conteudo.algartelecom.com.br
 images.a.flukebiomedical.com
@@ -25816,7 +25797,6 @@ interedgemarketing.actonservice.com
 interest.truvenhealth.com
 internal-analytics.odoo.com
 internal.hcltech.com
-internalcheck.apple.com
 internalcomms.dbschenker.com
 internalcomms.hubinternational.com
 internalcondition.com
@@ -25921,10 +25901,6 @@ ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipcfgw.pieces.com
 ipcheck.blogsys.jp
 ipdmlm.yoriso.com
-iphonesubmissions-old.apple.com
-iphonesubmissions.apple.com
-iphonesubmissions.apple.com.akadns.net
-iphonesubmissions.v.aaplimg.com
 iphufr.circleline.com
 ipinternational.actonservice.com
 ipixsi.aboutyou.fi
@@ -27175,7 +27151,6 @@ laughcloth.com
 laughdrum.com
 launch-analytics-plugin.launchpotato.com
 launch.aella.app
-launch.apple.com
 launch.meetsaturn.com
 launch.vypr.it
 launchjack.com
@@ -31399,7 +31374,6 @@ metrics.antena3.com
 metrics.anthem.com
 metrics.apartments.com
 metrics.api.drift.com
-metrics.apple.com
 metrics.apps.ge.com
 metrics.argenta.be
 metrics.argenta.eu
@@ -31895,7 +31869,6 @@ metrics.huntingtonsdiseasehcp.com
 metrics.hydraulicspneumatics.com
 metrics.hyperliquid.xyz
 metrics.hyundaiusa.com
-metrics.icloud.com
 metrics.iconfitness.com
 metrics.ifc.org
 metrics.iij.ad.jp
@@ -32099,7 +32072,6 @@ metrics.myspringfield.com
 metrics.mytributes.com.au
 metrics.myvi.in
 metrics.myyellow.com
-metrics.mzstatic.com
 metrics.n-tv.de
 metrics.nab.com.au
 metrics.nabbroker.com.au
@@ -33075,6 +33047,7 @@ monkeyapes.com
 monkeystyping.com
 monorail-edge.shopifysvc.com
 monster.branch.rocks
+monsterjokes.com
 monstermemes.com
 montelena.auction.co.kr
 monthlyhat.com
@@ -33175,7 +33148,6 @@ msadsscale.microsoft.com
 msafoy.eyebuydirect.com
 msbainfo.fbe.hku.hk
 msboul.gruenwelt.de
-msc-dct-prod.msc.apple.com
 mseeru.faz.net
 msfvwi.sieuthiyte.com.vn
 msg.71.am
@@ -33527,11 +33499,7 @@ newarkdriving.com
 newartreview.com
 newjersey-content.cresa.com
 newperspective.americanexpress.com
-news-app-events.apple.com
-news-events.apple.com
 news-info.gcgfinancial.com
-news-notification-events.apple.com
-news-sports-events.apple.com
 news.azcapitoltimes.com
 news.bestcompaniesgroup.com
 news.bpsecinc.com
@@ -33591,6 +33559,7 @@ news.thedolancompany.com
 news.valawyersweekly.com
 news.verimatrix.com
 news2.secureforms.mcafee.com
+newsbotnet.com
 newsflash.elliemae.com
 newsletter.bcautoencheres.fr
 newsletter.davey.com
@@ -33603,6 +33572,7 @@ newsletter.visitnc.com
 newsletters.bancsabadell.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
+nexttopchef.com
 nexus.officeapps.live.com
 nexusrules.live.com
 nexusrules.officeapps.live.com
@@ -33709,6 +33679,7 @@ noa.yahoo.com
 noa0.compteczam.fr
 noam.events.data.microsoft.com
 noam.events.data.trafficmanager.net
+noblecables.com
 noc-visio-telemetry.officeapps.live.com
 nocaadobefpc.optus.com.au
 nodenotify.com
@@ -33750,7 +33721,6 @@ nostalgicknot.com
 nostalgicneed.com
 notcardboard.com
 notconscious.com
-notes-analytics-events.apple.com
 notice-tmo.notice.assurancewireless.com
 notice.game.xiaomi.com
 notice.hoopladigital.com
@@ -34001,6 +33971,7 @@ obus-dc-ru.heytapmobile.com
 obus-dc-us.heytapmobile.com
 obus-dc10-cn.heytapmobi.com
 obus-dc121100-sg.heytapmobile.com
+obus-dc136101-cn.heytapmobi.com
 obus-dc2-cn.heytapmobi.com
 obus-dc2-in.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
@@ -34017,6 +33988,8 @@ obus-dc20305-sg.heytapmobile.com
 obus-dctech-cn.heytapmobi.com
 obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
+obus-dcyitai-cn.heytapmobi.com
+obus-dcyitai-in.heytapmobi.com
 obus-in.dc.heytapmobile.com
 obus-jssdk-cn.heytapmobi.com
 obus-jssdk-fr.heytapmobile.com
@@ -34048,7 +34021,6 @@ oda.markitondemand.com
 odc.1und1.de
 odc.wunderground.com
 odepcf.modetour.com
-odin-signals.apple.com
 odjdpy.jobware.de
 odkvrg.pedrodelhierro.com
 odml.ad.intl.xiaomi.com
@@ -34085,6 +34057,7 @@ officehub.nel.measure.office.net.cn.intinfra.com
 offshoreassets.com
 offshorecyclone.com
 offshoregeology.com
+offshoregoods.com
 ofgreencolumn.com
 ofkqiy.knowfashionstyle.com
 ofqkbk.proclipusa.com
@@ -34922,7 +34895,6 @@ parents.app.playosmo.com
 parsimoniouspolice.com
 parsley.detik.com
 partenaireslld.temsys.fr
-partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
 partner-staging.miso.kr
 partner.api.bingads.microsoft.com
@@ -35047,7 +35019,6 @@ perf.hsforms.com
 perf.mouser.com
 perfectfetch.com
 performance-logger.minted.com
-performance-partners.apple.com
 performanceplay.co.kr
 performantcorp.actonservice.com
 pergeroni.openapp.link
@@ -35154,7 +35125,6 @@ phoenix-content.cresa.com
 phoenix.thexlife.co
 phonecup.com
 phoneresult.com
-phonesubmissions.apple.com
 phonetrack.hukumkaikka.in
 photography.hursey.com
 photohints.com
@@ -35584,6 +35554,7 @@ pop.carte-gr.total.fr
 pop.dmglobal.com
 pop3.carte-gr.total.fr
 pop3.happ.social
+popliquids.com
 popmixradio.com
 popplantation.com
 popup-static.unisender.com
@@ -35668,7 +35639,6 @@ prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
 prd-qlik-telemetry.servicebus.windows.net
-prd-usw2-requestattribution-iad.apple.com
 prd.sca.samsung.com
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
@@ -35765,15 +35735,8 @@ procroanalytics.com
 procurement.cipscomms.org
 prod-clustered.bugs.firebat.prime-video.amazon.dev
 prod-eh-v1-analytics.servicebus.windows.net
-prod-event-relay-api.v.aaplimg.com
-prod-event-relay-books-api.v.aaplimg.com
-prod-event-relay-notes-api.v.aaplimg.com
-prod-event-relay-sports-api.v.aaplimg.com
-prod-event-relay-stocks-api.v.aaplimg.com
-prod-event-relay-weather-api.v.aaplimg.com
 prod-eventhub-analytics.servicebus.windows.net
 prod-events.nykaa.com
-prod-news-notification-events.v.aaplimg.com
 prod.bugs.firebat.prime-video.amazon.dev
 prod.editor.ads.microsoft.com
 prod.eu-west-1.forester.a2z.com
@@ -35881,7 +35844,6 @@ prov.alphonso.tv
 providentcrm.actonservice.com
 prowareness.actonservice.com
 proxima.midjourney.com
-proxy-skadnetwork.apple.com
 proxy.dzeio.com
 proxy.sec.miui.com
 proxy.trysavvy.com
@@ -36327,8 +36289,6 @@ rackforstorage.com
 rad.live.com
 rad.microsoft.com
 radar.imgsmail.ru
-radarsubmissions.apple.com
-radarsubmissions.apple.com.akadns.net
 radexports.com
 radiantcanopy.com
 radiantlullaby.com
@@ -38310,9 +38270,7 @@ seamlesssalon.com
 seao.business.samsung.com
 search.anonymous.ads.brave.com
 search.miui.com
-searchads.apple.com
 searchads.apple.com.edgesuite.net
-searchads.lb-apple.com.akadns.net
 seatsmoke.com
 seb.sharpmarketing.eu
 sebotr.rizeclinic.com
@@ -38806,8 +38764,6 @@ secureforms.xperthr.co.uk
 secureforms.xperthr.com
 secureforms.xperthr.nl
 secureinfo.edc.ca
-securemetrics-z.v.aaplimg.com
-securemetrics.apple.com
 securemetrics.apple.com.cn
 securemetrics.athletawell.com
 securemetrics.blackrock.com
@@ -38819,9 +38775,6 @@ securemetrics.gap.eu
 securemetrics.gpsuniforms.com
 securemetrics.marthastewart.com
 securemetrics.nbnco.com.au
-securemetrics.v.aaplimg.com
-securemvt.apple.com
-securemvt.v.aaplimg.com
 securestats.callawaygolf.com
 securestats.odysseygolf.com
 securetags.aeroterra.com
@@ -39104,6 +39057,7 @@ sgee-mcs.byteoversea.com
 sggsbd.fonteyn.nl
 sgiqxhet81.alphonso.tv
 sgkbzs18.alphonso.tv
+sgm-w.jd.com
 sgmntfy.com
 sgms.greatschools.org
 sgp-api.xmpush.global.xiaomi.com
@@ -39313,6 +39267,7 @@ sig.ig.com
 sig.igmarkets.com
 sig.nadex.com
 sign.use-neo.com
+signalszone.com
 signaturepod.com
 signup.vovici.com
 sihoqd.sheridan.com.au
@@ -39427,7 +39382,6 @@ sk-topgal.m-shop.me
 sk.ad.lgsmartad.com
 sk.lgsmartad.com
 sk0.monnierfreres.eu
-skadnetwork.iad-apple.com.akadns.net
 skaffa.tidyapp.se
 skbnfa.filorga.com
 skcrtxr.com
@@ -42536,7 +42490,6 @@ smon.blackhistorymonth.gov
 smon.congress.gov
 smon.copyright.gov
 smon.loc.gov
-smoot-feedback.v.aaplimg.com
 smqzbr.proozy.com
 smrt.as
 sms-ads-in.heytapmobile.com
@@ -42648,6 +42601,7 @@ social.insidelpl.com
 social.talenttitan.com
 social.tinyview.com
 socialflow.branch.rocks
+sockpacks.com
 socs.hagerty.com
 soejzg.efe.com.pe
 soelui.butosklep.pl
@@ -43001,6 +42955,7 @@ sosintl.actonservice.com
 sotelsystems.actonservice.com
 soubej.larebajavirtual.com
 soulclicking.com
+soundmachine.net
 soundstocking.com
 sourcecodeinfo.com
 sourceoak.com
@@ -45051,7 +45006,6 @@ stnt.sky.de
 stockerator.com
 stockingsleet.com
 stockingsneeze.com
-stocks-analytics-events.apple.com
 stocktheme.com
 stomachscience.com
 stonechin.com
@@ -45184,6 +45138,7 @@ stv.event-na.ads-beta.aps.amazon-adsystem.com
 stv.event-na.ads-gamma.aps.amazon-adsystem.com
 stv.event-na.ads.aps.amazon-adsystem.com
 stw.extrem-down.zone
+styleaffinity.com
 stylelockers.com
 styles.hautelook.com
 stylishbuds.com
@@ -45281,8 +45236,6 @@ support.ricoh.fr
 support2.flex.com
 support3.flex.com
 supportexperience.diagnostics.office.com
-supportmetrics.apple.com
-supportmetrics.v.aaplimg.com
 supportwaves.com
 supvka.colancolan.com
 surfacesmedia.com
@@ -46486,6 +46439,7 @@ teams.events.data.microsoft.com
 teams.nel.measure.office.net
 teams.nel.measure.office.net.cn.intinfra.com
 teams.nel.measure.office.net.sw.buhl-data.com
+teamstatus.net
 tearfulglass.com
 tech.finalto.com
 tech.sangfor.com
@@ -46749,6 +46703,7 @@ thesolartime.com
 thesoulbrand.com
 thesource.black.news
 thesuccessstars.actonservice.com
+thewavebeats.com
 thhesw.tre.it
 thialfi.net.anwalt.de
 thingsafterthought.com
@@ -46809,6 +46764,7 @@ time.video.ptqy.gitv.tv
 timeclock.mytoolr.com
 timecrossed.com
 timejs.game.163.com
+timelessyes.com
 timing.uhrforum.de
 timing.whenandhowagency.com
 timit.mno.link
@@ -47665,6 +47621,7 @@ topspin.npo.nl
 topthrowbacks.com
 toronto-content.cresa.com
 torropinto.viessmann.es
+tortoisepage.com
 toto.pandasuite.io
 touch.multitaction.com
 touch.myntra.com
@@ -48180,7 +48137,6 @@ tr.hello.maisonfoody.com
 tr.helloartisan.info
 tr.hmut.espmp-agfr.net
 tr.holidaycottages.co.uk
-tr.iadsdk.apple.com
 tr.impayes.filiassur.com
 tr.info-btob-leaders.com
 tr.info-companeo.be
@@ -50639,6 +50595,7 @@ ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
 uct.service.usercentrics.eu
+ud.galaxus.de
 udblog.huya.com
 udc.msn.com
 udgrbq.malwarebytes.com
@@ -52044,7 +52001,6 @@ we.kurly.com
 wealth.informabi.com
 wealthcarecapital.actonservice.com
 weare.ballymoregroup.com
-weather-analytics-events.apple.com
 weatherbytes.net
 web-beacon.starii-rover.com
 web-mon-useast2a.byteoversea.com
@@ -52434,6 +52390,7 @@ wiar9wff0ma9.ping.t3.gg
 widget-pixels.outbrain.com
 widget.educationdynamics.com
 widgetbe.com
+widgethouse.com
 wifi.ads.oppomobile.com
 wigkxx.jetcost.com
 wikiwhatwhere.com
@@ -53516,13 +53473,8 @@ xmyvhu.soxo.pl
 xn-ex-adreq-asa-c5b.vivoglobal.com
 xnukcp.cpcompany.com
 xovsoot4.alphonso.tv
-xp-cdn-lb.itunes-apple.com.akadns.net
-xp-cdn.apple.com
 xp.allianz.de
-xp.apple.com
 xp.apple.com.edgekey.net
-xp.itunes-apple.com.akadns.net
-xp.v.aaplimg.com
 xpcpmr.gsm55.com
 xpmbuxhl9.alphonso.tv
 xps.huk.de
