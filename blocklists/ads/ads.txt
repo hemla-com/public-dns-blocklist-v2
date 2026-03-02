@@ -29014,7 +29014,6 @@ adsdk.9imobi.com
 adsdk.bing.net
 adsdk.com
 adsdk.dmzj.com
-adsdk.microsoft.com
 adsdk.picooapps.com
 adsdk.state.duoku.com
 adsdk.vivo.com.cn

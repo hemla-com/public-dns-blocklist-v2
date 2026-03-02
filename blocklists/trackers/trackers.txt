@@ -10136,7 +10136,6 @@ ads.tiktok.tv
 ads.us.tiktok.com
 ads16-normal-useastred.tiktokw.eu
 adscore.com
-adsdk.microsoft.com
 adsdk.trafficmanager.net
 adsdk.yandex.ru
 adsdkpreprod.afd.azureedge.net
