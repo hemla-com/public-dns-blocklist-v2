@@ -29394,7 +29394,6 @@ log.kinolights.com
 log.klook.com
 log.m.sm.cn
 log.mediacategory.com
-log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr

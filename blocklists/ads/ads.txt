@@ -55689,7 +55689,6 @@ cdn.adligature.com
 cdn.adm.myhayo.com
 cdn.admatic.com.tr
 cdn.adnuntius.com
-cdn.adnxs.com
 cdn.adpushup.com
 cdn.ads-flipp.com
 cdn.adsafeprotected.com
@@ -71616,7 +71615,6 @@ dc.pagoda.com
 dc.peoplesjewellers.com
 dc.plussizetech.com
 dc.ppcleads.com
-dc.schibsted.io
 dc.stokke.com
 dc.volkswagen.com
 dc.volkswagen.com.ar
@@ -187749,7 +187747,6 @@ sdk.optimove.net
 sdk.out.usbla.net
 sdk.playtem.com
 sdk.postscript.io
-sdk.pulse.schibsted.com
 sdk.resu.io
 sdk.scopely.io
 sdk.sipujia.cn
@@ -254632,7 +254629,6 @@ www.csaladititkok.com
 www.csicskalangos.com
 www.curemedia.se
 www.datacenterxpert.net
-www.datadoghq-browser-agent.com
 www.dataholics.fr
 www.directdisplaymarketing.com
 www.dwin2.com
