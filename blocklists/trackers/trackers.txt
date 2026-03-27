@@ -12001,6 +12001,7 @@ ana.luvul.net
 ana.skypemeet.net
 ana.tv5unis.ca
 anaconda.net.anwalt.de
+anal.billingserv.com
 anal.doubledouble.top
 anal.sataniskwijt.be
 analitica.webrpp.com
@@ -12405,6 +12406,7 @@ analytics.navyfederal.org
 analytics.ncaa.com
 analytics.neoogilvy.uy
 analytics.net.dz.jumia.com
+analytics.netralex.com
 analytics.netronline.dev
 analytics.newscred.com
 analytics.newsifier.nl
@@ -17580,7 +17582,6 @@ cname2.shaken-yoyaku.com
 cnameebis.eizoshigoto.com
 cnameebis.usagi-online.com
 cnameforitp.dermed.jp
-cnbj1.fds.api.xiaomi.com
 cnc.data.game.xiaomi.com
 cnebis.chocola.com
 cnebis.eisai.jp
@@ -17694,6 +17695,7 @@ collector-api.99designs.com
 collector-api.frspecifics.com
 collector-direct.xhamster.com
 collector-main.trafficmanager.net
+collector-ovp.streamcloud.it
 collector-px0py5pczn.octopart.com
 collector-videoplayer.5centscdn.net
 collector.api.video
@@ -20154,6 +20156,7 @@ ddioce.wolverine.com
 ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
+ddm.frandroid.com
 ddmfrg.modivo.bg
 ddnahc.mesbagages.com
 ddome-tag.blablacar.com
@@ -23449,6 +23452,7 @@ events.chaordicsystems.com
 events.character.ai
 events.cigna.com
 events.clips4sale.com
+events.codainfra.com
 events.coface.com
 events.data.microsoft.com
 events.data.msn.cn
@@ -25195,6 +25199,7 @@ gdg.gardnerdenver.com
 gdm1.toner.fr
 gdmelqact.gartner.com
 gdphhl.elite-auto.fr
+gdpr.netralex.com
 gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
 gdt.qq.com
@@ -30341,6 +30346,7 @@ link.beforespring.com
 link.bellu.gg
 link.bemachine.app
 link.bestest.io
+link.bhvr.com
 link.bigroom.tv
 link.bluecallapp.com
 link.blueheart.io
@@ -38872,6 +38878,7 @@ punyplant.com
 puppetcorp.com
 puppiesart.com
 puppytooth.com
+purebloom.net
 purple-hit.com
 purple.mongodb.com
 purpletalk.actonservice.com
@@ -40096,6 +40103,7 @@ rxhsry.sortiraparis.com
 rxqqaq.hollandandbarrett.com
 rxtolo.domiporta.pl
 ry0.rythmefm.com
+rybbit.sg-app.com
 ryjknw.sonnenbrillen.com
 rymckhd6.alphonso.tv
 rymhet.posudamart.ru
@@ -45994,6 +46002,7 @@ spinnakermgmt.actonservice.com
 spirebaboon.com
 spitefulriver.com
 spjysa.only.com
+splicebook.com
 splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
@@ -46717,6 +46726,7 @@ st.mashable.com
 st.mazdausa.com
 st.newyorklife.com
 st.newyorklifeinvestments.com
+st.nic.ru
 st.nylannuities.com
 st.nylinvestments.com
 st.onemazdausa.com
@@ -48535,6 +48545,7 @@ t.adx.opera.com
 t.afry.com
 t.airasia.com
 t.allmodern.com
+t.almayadeen.net
 t.alumni.duke.edu
 t.antalis-verpackungen.at
 t.antalis.at
@@ -53496,6 +53507,7 @@ u.getgoose.com
 u.landing.ni.com
 u.prod.service.minerva.devices.a2z.com
 u.salony.com
+u.strike.bz
 u0crsrah75fy.camberlion.com
 u1sdata.webullfintech.com
 u299.libelle-lekker.be
