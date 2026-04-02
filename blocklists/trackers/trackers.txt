@@ -10428,7 +10428,6 @@ a8cv.picksitter.com
 a8cv.pigeon-fw.com
 a8cv.pilates-k.jp
 a8cv.pocket-sommelier.com
-a8cv.postcoffee.co
 a8cv.pre-sana.com
 a8cv.premium.aidemy.net
 a8cv.presence.jp
@@ -11405,7 +11404,6 @@ acton.tourismireland.com
 acton.trefis.com
 actondev.actonservice.com
 actonhrm.mercuryhealthcare.com
-actuallysheep.com
 actuallysnake.com
 acv.auhikari-norikae.com
 acv.aun-air-wifi.com
@@ -11694,7 +11692,6 @@ admetrics.events
 admin.academyforconsciousleadership.net
 admin.net.fidorbank.uk
 admin.smartgroup.com.au
-adminer.com
 administrator.pnclassaction.com
 adminspace.carte-gr.total.fr
 admiral.pub
@@ -12170,7 +12167,6 @@ agoqaa.stockmann.com
 agps-location-livenet.trafficmanager.net
 agps.location.live.net
 agreeablearch.com
-agreeabletouch.com
 agribusiness.intelligence.informa.com
 agvinfo.kollmorgen.com
 agxwhz.bloomingdales.sa
@@ -12422,7 +12418,7 @@ ana.luvul.net
 ana.skypemeet.net
 ana.tv5unis.ca
 anaconda.net.anwalt.de
-anal.billingserv.com
+anal.baseserv.com
 anal.doubledouble.top
 anal.sataniskwijt.be
 analitica.webrpp.com
@@ -12434,7 +12430,6 @@ analysis.aws.locondo.jp
 analysis.fi
 analysis.insights.cloud.microsoft
 analysis.prod.joyfru.jiji.com
-analysis.sooplive.co.kr
 analyt.ir
 analytic-client.adult-chess.com
 analytic-client.blitzmightyparty.com
@@ -13317,7 +13312,6 @@ api.tw06.xlmc.sec.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api.vip.miui.com
-api.wipmania.com
 api.xmpush.global.xiaomi.com
 apilog-web.acfun.cn
 apis.4bn.xyz
@@ -15349,7 +15343,6 @@ bab30f6dbf761e83bbd09896de851906.fp.measure.office.com
 bab88eba749a4369a12e39bf14dce8e7.fp.measure.office.com
 bab899b14b784c0597844d44af697ed2.fp.measure.office.com
 baba73b577f847dbb2f9637b792e38e8.fp.measure.office.com
-bablace.com
 babyblissgifts.com
 bac02ff16ee748e4af0a971739aad471.fp.measure.office.com
 bac4a46bc59347ba91e0bf071b4f0c2b.fp.measure.office.com
@@ -15646,6 +15639,7 @@ beacon.sojern.com
 beacon.statful.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
+beacon.webpresence.work
 beacon.wikia-services.com
 beaconcdn.qq.com
 beacons.digital.disneyadvertising.com
@@ -16202,7 +16196,6 @@ branchtest.whataburger.com
 branchtrk.lendingtree.com
 brand.adp.ca
 brands.cambrio.com
-brands.lookfantastic.com
 brands.picklebutnotcucumber.com
 brandsfive.com
 brandybison.com
@@ -17160,7 +17153,6 @@ canadacentral-1.in.applicationinsights.azure.com
 canadaeast-0.in.applicationinsights.azure.com
 canadamarketing.travelsavers.com
 canary.activity.windows.com
-candid.zone
 candidate.response.ingenovishealth.com
 candy.sees.com
 cannonborough.com
@@ -17224,7 +17216,6 @@ cartx.cloud
 carvecakes.com
 cascadion.thermo.com
 cascadion.thermofisher.com
-cashbeet.com
 casl.couch-associates.com
 caspionlog.appspot.com
 cast.net.anwalt.de
@@ -17806,7 +17797,6 @@ clearbitscripts.com
 clearbrands.actonservice.com
 clerks.doccheck.com
 clevertapsendgrid.branch.rocks
-clgserv.pro
 clhzet.ubierzswojesciany.pl
 click-ext.anxa.com
 click-performance.assets.rndtech.de
@@ -18228,7 +18218,6 @@ collector.sspinc.io
 collector.t-idr.com
 collector.taoxh.life
 collector.theconversation.com
-collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -18760,7 +18749,6 @@ copilot-telemetry.githubusercontent.com
 copperstills.net
 copycarpenter.com
 copyfranchise.com
-copyrightaccesscontrols.com
 copytweaks.com
 copyvibes.com
 coralcranes.com
@@ -18990,7 +18978,6 @@ cs42.pikabu.ru
 cs43.pikabu.ru
 csalhh.okay.cz
 csbmey.viherpeukalot.fi
-cscsexam.quantresear.ch
 cse.avlyun.sec.miui.com
 cse3.chausport.com
 csghyg.reginaclinic.jp
@@ -20967,7 +20954,6 @@ dfitgc.yamamay.com
 dfr.deloitte.com
 dfw.bakerbrothersplumbing.com
 dg.champion-compressors.com
-dg.compair.com
 dg.irco.com
 dg.ptl.irco.com
 dgaxzn.samma3a.com
@@ -21027,30 +21013,20 @@ dialer.leads360.com
 dialer.velocify.com
 dialog.dqs.de
 dialog.losberger.com
-dialogue.de.mazda.ch
 dialogue.fr.mazda.be
-dialogue.mazda.at
 dialogue.mazda.bg
 dialogue.mazda.co.uk
 dialogue.mazda.com.tr
 dialogue.mazda.cz
 dialogue.mazda.dk
-dialogue.mazda.es
 dialogue.mazda.eu
-dialogue.mazda.fr
 dialogue.mazda.gr
-dialogue.mazda.hr
 dialogue.mazda.hu
 dialogue.mazda.ie
-dialogue.mazda.it
 dialogue.mazda.nl
-dialogue.mazda.no
 dialogue.mazda.pl
 dialogue.mazda.pt
-dialogue.mazda.ro
 dialogue.mazda.rs
-dialogue.mazda.se
-dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
@@ -21287,7 +21263,6 @@ discover.maringeneral.org
 discover.megafrost.gr
 discover.parker.com
 discover.pharmaignite.com
-discover.phenomenex.com
 discover.rewe-group.at
 discover.streamly.video
 discover.supplydepotstore.com
@@ -21316,7 +21291,6 @@ dk-ad-lgsmartad-com.aws-prd.net
 dk-go.experian.com
 dk.ad.lgsmartad.com
 dk.lgsmartad.com
-dkbicq.elektramat.nl
 dkclxi.sitkagear.com
 dkfstsgd41.alphonso.tv
 dkmvyl.kidsahoi.ch
@@ -21545,7 +21519,6 @@ dpckzt.mesrecettesfaciles.fr
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
 dppublishinginc.actonservice.com
-dptgdj.usagi-online.com
 dptkdh.joinhoney.com
 dpu.samsungelectronics.com
 dq95d35.com
@@ -22148,13 +22121,11 @@ ea.dcshoes-europe.com
 ea.devred.com
 ea.diamant-unique.com
 ea.easyvoyage.com
-ea.ecotour.com
 ea.elstarprevention.com
 ea.epochbase.com
 ea.evaway.com
 ea.fleurancenature.com
 ea.fleurancenature.fr
-ea.francoisesaget.com
 ea.franziskasager.de
 ea.greenweez.com
 ea.greenweez.de
@@ -22170,7 +22141,6 @@ ea.igraal.com
 ea.kauf-unique.at
 ea.kauf-unique.de
 ea.kidiliz.com
-ea.labelhabitation.com
 ea.lafrancedunordausud.fr
 ea.laredoute.pt
 ea.leskidunordausud.fr
@@ -22211,7 +22181,6 @@ ea.tool-fitness.com
 ea.topsante.com
 ea.venta-del-diablo.com
 ea.venta-unica.com
-ea.vente-unique.be
 ea.vente-unique.ch
 ea.vente-unique.com
 ea.vente-unique.lu
@@ -22724,8 +22693,6 @@ effervescentcoral.com
 effervescentvista.com
 efficiency.visma.com
 efficiency.visma.dk
-efficiency.visma.fi
-efficiency.visma.lv
 efficiency.visma.se
 effulgentnook.com
 effulgenttempest.com
@@ -22826,10 +22793,8 @@ eloqua.acspubs.org
 eloqua.apexsql.com
 eloqua.binarytree.com
 eloqua.brakepartsinc.com
-eloqua.certiport.com
 eloqua.digitalpi.com
 eloqua.eafit.edu.co
-eloqua.eft.com
 eloqua.emdmillipore.com
 eloqua.erwin.com
 eloqua.ethicalcorp.com
@@ -22845,18 +22810,14 @@ eloqua.juilliard.edu
 eloqua.liberty.edu
 eloqua.mindhub.com
 eloqua.mindhubpro.com
-eloqua.moschampionship.com
 eloqua.newenergyupdate.com
 eloqua.nissan.com.tw
 eloqua.nuclearenergyinsider.com
 eloqua.oneidentity.com
 eloqua.onelogin.com
-eloqua.pearsonvue.ae
 eloqua.pearsonvue.co.jp
-eloqua.pearsonvue.co.uk
 eloqua.pearsonvue.com
 eloqua.petchem-update.com
-eloqua.pointcode.fr
 eloqua.psl.com.au
 eloqua.quadrotech-it.com
 eloqua.quest.com
@@ -22869,7 +22830,6 @@ eloqua.soprasteria.co.uk
 eloqua.syslog-ng.com
 eloqua.teknos.com
 eloqua.ufm.edu
-eloqua.undergraduateexam.in
 eloqua.upstreamintel.com
 eloquaimages.e.abb.com
 eloquamarketing.masterlock.com
@@ -22883,7 +22843,6 @@ elq.accuity.com
 elq.adaptris.com
 elq.analog.com
 elq.ansible.com
-elq.artsfestival.org
 elq.axeslive.com
 elq.blackrock.com
 elq.cirium.com
@@ -22948,13 +22907,11 @@ elqtracking.justadviser.com
 elqtracking.macegroup.com
 elqtracking.mercer-retirement.co.uk
 elqtracking.pensionbuddy.co.uk
-elqtracking.revenera.com
 elqtracking.richardsonrfpd.com
 elqtracking.sandbox.wearejust.co.uk
 elqtracking.strayer.edu
 elqtracking.wearejust.co.uk
 elqtrck.motor.no
-elqtrck.nanawall.com
 elqtrk.cn.morningstar.com
 elqtrk.cummins.com
 elqtrk.hk.morningstar.com
@@ -26950,7 +26907,6 @@ gvxnff.soulara.com.au
 gw-analytics.panasonic.com
 gw-dv.vip
 gw.conversionsapigateway.com
-gwguyh.edreams.es
 gwizal.yumbutter.com
 gwropn.soelu.com
 gwtc.sfr.fr
@@ -26972,7 +26928,6 @@ gyqbrs.qvc.it
 gyqntn.dekoruma.com
 gyradiko.openapp.link
 gyvlgl.sportitude.com.au
-gyvyoc.dermoeczanem.com
 gyvzjp.conradelektronik.dk
 gyxtyd.yummicandles.com
 gyydua.dakine.com
@@ -27164,7 +27119,6 @@ heyaxr.fashiondays.bg
 heycomputers.com
 heyue.xiaomi.com
 hf.forevernetworks.com
-hfc195b.com
 hfmogh.piatradesign.ro
 hfmphs.loccitane.com
 hfoghh.inter.it
@@ -27514,7 +27468,6 @@ hzoouw.s-re.jp
 hzstats.com
 hzuheh.palcloset.jp
 hzvsld.fr.filorga.com
-hzymxd.nocibe.fr
 hzzyhl.jobs.ch
 i-cn01a.ocloud.heytapmobi.com
 i-dev.villa.ge
@@ -27736,7 +27689,6 @@ ilinks.petalcard.com
 ilius.net
 ilkk97e98lvg.www.sidsplumbing.ie
 illinvention.com
-illustriousoatmeal.com
 ilnfdq.cybozu.co.jp
 ilpostoplus.openapp.link
 iltcaf.immobilienscout24.de
@@ -31944,7 +31896,6 @@ log.codemarketing.cloud
 log.cognex.com
 log.collectaction.com
 log.cookieyes.com
-log.cpex.cz
 log.dance
 log.dpa.com
 log.dzen.ru
@@ -32104,7 +32055,6 @@ logs.kaya.delfi.ee
 logs.mezmo.com
 logs.n.xiaomi.com
 logs.naukri.com
-logs.netflix.com
 logs.openbank.com
 logs.spilgames.com
 logs.theccaa.com
@@ -34671,7 +34621,6 @@ memberships.clubcorp.com
 memelq.acs.org
 memeorigin.com
 memolight.com
-memopilot.com
 memorizematch.com
 memorizeneck.com
 mennoc.mezlan.com
@@ -36291,7 +36240,6 @@ mholland.net.anwalt.de
 mhrkxi.thetrybe.com.au
 mhwbhn.tohapi.fr
 mhz-design.actonservice.com
-mi-de-ner-nis3.info
 mi.grubhub.com
 mi.miliboo.be
 mi.miliboo.ch
@@ -36332,7 +36280,6 @@ mindfulgem.com
 mindlessmark.com
 mine.nahnoji.cz
 mineinvoice.com
-minerad.com
 minerva.devices.a2z.com
 mini-site.larksuite-marketing.com
 minibilling.com
@@ -38535,6 +38482,7 @@ payroll.smartsalary.com.au
 pb.bi.gitv.tv
 pb.i.sogou.com
 pb.siepomaga.pl
+pbc.barrons.com
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pbjs-stream.bydata.com
@@ -39431,6 +39379,7 @@ propsid.b-cdn.net
 propsynergy.com
 prospex.actonservice.com
 protapes.actonservice.com
+protechts.net
 protect.dev.sec.intl.miui.com
 protect.dev.sec.miui.com
 protectpool.com
@@ -40550,7 +40499,6 @@ rsc.lepoint.fr
 rsinqg.homelux.hu
 rsotku.mitsui-shopping-park.com
 rsra-ph.cdn-fileserver.com
-rsra.cdn-fileserver.com
 rsras-ph.cdn-fileserver.com
 rsras.cdn-fileserver.com
 rstat.rockmostbet.com
@@ -47929,7 +47877,6 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.flightsphere.com
-stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
 stats.fluorescent.co
@@ -48655,7 +48602,6 @@ stormwind.actonservice.com
 stormyflower.com
 str.foodnetwork.ca
 str.globalnews.ca
-str1kee.com
 str2-bbyca-track.bestbuy.com
 str2-fsca-track.bestbuy.com
 strack.aetna.com
@@ -49667,6 +49613,7 @@ tags-event.woolworths.co.nz
 tags.air1.com
 tags.aljazeera.com
 tags.aljazeera.net
+tags.barrons.com
 tags.catapultx.com
 tags.cmp.tail.digital
 tags.dxmdp.com
@@ -51492,7 +51439,6 @@ tr.btobquotes.be
 tr.btobquotes.cl
 tr.btobquotes.com
 tr.btobquotes.mx
-tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
 tr.business-deal.be
 tr.business-deal.cl
@@ -51805,7 +51751,6 @@ tr.info.cnch.fr
 tr.info.comparadordeprestamos.es
 tr.info.conexancemd.com
 tr.info.conso-expert.fr
-tr.info.covid-resistance-bretagne.fr
 tr.info.dentexelans.com
 tr.info.e-leclerc.com
 tr.info.easyviaggio.com
@@ -52848,7 +52793,6 @@ tracking.abrdn.com
 tracking.academicyear.org
 tracking.accent-technologies.com
 tracking.acceptance.industrial.omron.eu
-tracking.adalyser.com
 tracking.adp-iat.adp.ca
 tracking.adp-iat.adp.com
 tracking.adp.ca
@@ -55546,6 +55490,7 @@ wa.t-mobile.nl
 wa.vodafone.cz
 wa.vodafone.de
 wa.vodafone.pt
+wa.wawlabs.com
 wa.wdr.de
 wa.wdrmaus.de
 wa.web.de
@@ -56040,7 +55985,6 @@ whitepapers.blackboard.com
 whitepapers.rockwellautomation.com
 whoami.akamai.net.iberostar.com
 wholepagecache.com
-whoogled.com
 whqkyq.leasingmarkt.de
 whwiab.pamono.it
 whxrqzhg26.alphonso.tv
@@ -56054,12 +55998,14 @@ widgetbe.com
 widgethouse.com
 wifi.ads.oppomobile.com
 wigkxx.jetcost.com
+wikiquotations.com
 wikiwhatwhere.com
 wildcommittee.com
 wildwoodavenue.com
 win-global-asimov-leafs-events-data.trafficmanager.net
 win.staticstuff.net
 win10-trt.msedge.net
+windbeetle.com
 wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
@@ -56180,7 +56126,6 @@ wrapstretch.com
 wretchedfloor.com
 wrhv.education.gouv.fr
 writerhubs.com
-writewealth.com
 wrkbha.lyst.de
 wrlnvt.pepita.hu
 wrongpotato.com
