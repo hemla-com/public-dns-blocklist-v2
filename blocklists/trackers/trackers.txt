@@ -3673,6 +3673,7 @@ a8cv.picksitter.com
 a8cv.pigeon-fw.com
 a8cv.pilates-k.jp
 a8cv.pocket-sommelier.com
+a8cv.postcoffee.co
 a8cv.pre-sana.com
 a8cv.premium.aidemy.net
 a8cv.presence.jp
@@ -4053,27 +4054,18 @@ aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
-aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
-aax-events-cell01-cf.fe.us-west.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
-aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell01.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
-aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
-aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
-aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com
-aax-events-pdns-wt.fe.us-west.ono.axp.amazon-adsystem.com
-aax-events-pdns-wt.us-east.ono.axp.amazon-adsystem.com
 aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com
-aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
@@ -7724,7 +7716,6 @@ axoqvl.daf-shoes.com
 axp.8newsnow.com
 axp.abc27.com
 axp.abc4.com
-axp.amazon-adsystem.com
 axp.avaya.com
 axp.bigcountryhomepage.com
 axp.binghamtonhomepage.com
@@ -8145,6 +8136,7 @@ bears.daigostudio.com
 beat.yourtv.jp
 beaumont.actonservice.com
 bebpon.zetronix.com
+becanium.com
 bedsberry.com
 bee.tc.easebar.com
 beeline.beeline-tire.co.jp
@@ -8692,7 +8684,6 @@ bringmethehats.com
 brinstascooter.eccocar.com
 brioscoot.eccocar.com
 briskeagle.io
-briskedge.net
 briskpelican.io
 briskstorm.com
 brjjkd.calzedonia.com
@@ -9347,7 +9338,6 @@ cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
-cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
@@ -9357,7 +9347,6 @@ cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
@@ -9383,6 +9372,7 @@ cell8006.pdx.web.bid-na.ads.aps.amazon-adsystem.com
 cell8007.iad.web.bid-na.ads.aps.amazon-adsystem.com
 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
+cell8011.fra.pg.event-eu.ads.aps.amazon-adsystem.com
 cell8011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
@@ -10727,6 +10717,7 @@ counter.cnw.cz
 counter.cropvid.com
 counter.darkreader.app
 counter.drom.ru
+counter.hackers.lv
 counter.hyipexplorer.com
 counter.insales.ru
 counter.jdi5.com
@@ -10890,6 +10881,7 @@ cs42.pikabu.ru
 cs43.pikabu.ru
 csalhh.okay.cz
 csbmey.viherpeukalot.fi
+cscsexam.quantresear.ch
 cse.avlyun.sec.miui.com
 cse3.chausport.com
 csghyg.reginaclinic.jp
@@ -13347,7 +13339,6 @@ efficiency.visma.se
 effulgentnook.com
 effulgenttempest.com
 efgam.actonservice.com
-efglbp.baur.de
 efm.verintsystemsinc.com
 efplso.epost.go.kr
 efreecode.com
@@ -14403,7 +14394,6 @@ eu-prov2.alphonso.tv
 eu-r-mobile.events.data.microsoft.com
 eu-r-teams.events.data.microsoft.com
 eu-romsp-unifyconfig.vivoglobal.com
-eu-south.ono.axp.amazon-adsystem.com
 eu-st-sl.vivoglobal.com
 eu-stsdk.vivoglobal.com
 eu-teams.events.data.microsoft.com
@@ -14427,7 +14417,6 @@ eu-west-3-2.telemetry.insights.video.a2z.com
 eu-west-3-3.telemetry.insights.video.a2z.com
 eu-west.3px.axp.amazon-adsystem.com
 eu-west.aps.axp.amazon-adsystem.com
-eu-west.ono.axp.amazon-adsystem.com
 eu.aria.events.data.trafficmanager.net
 eu.blobcollector.events.data.trafficmanager.net
 eu.business.samsung.com
@@ -15788,6 +15777,7 @@ gentian-frd.hjapi.com
 geo.bdg.com
 geo.brobible.com
 geo.emol.cl
+geo.ertya.com
 geo.gorillanation.com
 geo.hub.analytics.trafficmanager.net
 geo.mezr.com
@@ -17047,6 +17037,7 @@ heartbeat.pmd.444.hu
 heartbreakingmind.com
 heartflow.actonservice.com
 hearthow.com
+heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
 hej.henriksommerfeld.se
@@ -17532,6 +17523,7 @@ id-ward.com
 id.a-mx.com
 id.ad.lgsmartad.com
 id.lgsmartad.com
+id.nbcuni.com
 id.push.heytapmobi.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -18212,6 +18204,7 @@ img.sparkasse-koelnbonn.de
 img.website-security.symantec.com
 img.yemeksepeti.com
 img2021.navyfederal.org
+imgg.traffic-media.co
 imgict.dwtcmarketing.com
 imginfo.insource.co.jp
 imgmail.mediasetpremium.it
@@ -19967,6 +19960,7 @@ kindlereunion.com
 kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
 kingsandqueens.splowser.com
+kingsealed.com
 kiqwal.autoscout24.es
 kiqwil.l-m.co.jp
 kirsrn.runway-webstore.com
@@ -21595,7 +21589,6 @@ linkvet.insights.md
 linkvetdev.insights.md
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
-lipstat.com
 liquid.agora.pl
 listen.trakks.com
 listen.tunein.com
@@ -23774,6 +23767,7 @@ marketing.towerfcu.org
 marketing.toxicology.abbott
 marketing.toyotaofeasley.com
 marketing.tr.netsalesmedia.pl
+marketing.trackmarketing.net
 marketing.transcore.com
 marketing.transitair.com
 marketing.translations.com
@@ -24018,6 +24012,7 @@ mas.marsh.com
 mas.nth.ch
 massivemark.com
 master.cifraclub.com.br
+masterenter.com
 masternaut.actonservice.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
@@ -24527,6 +24522,7 @@ met.jasperforge.org
 met.seriesapi.co
 met.sewell.com
 met.vgwort.de
+met1.hp.com
 met2.hp.com
 metajaws.com
 metallic.actonservice.com
@@ -24696,6 +24692,7 @@ metrics.absolute.com
 metrics.absolutetotalcare.com
 metrics.academy.com
 metrics.acbj.com
+metrics.accuweather.com
 metrics.acehardware.com
 metrics.actemrahcp.com
 metrics.activase.com
@@ -24906,6 +24903,7 @@ metrics.casio.com.tw
 metrics.catalog.usmint.gov
 metrics.cathflo.com
 metrics.cb2.com
+metrics.cbc.ca
 metrics.cbc.youtube.mercedes-benz.com
 metrics.cbn.com
 metrics.ccma.cat
@@ -25224,6 +25222,7 @@ metrics.hayesandjarvis.co.uk
 metrics.hbogo.com
 metrics.hbogola.com
 metrics.hbr.org
+metrics.health.com
 metrics.healthpartners.com
 metrics.heathrow.com
 metrics.heathrowexpress.com
@@ -25838,6 +25837,7 @@ metrics.tgifridays.com
 metrics.th.gl
 metrics.theaustralian.com.au
 metrics.thechronicle.com.au
+metrics.thedailybeast.com
 metrics.thefork.com
 metrics.thegrocer.co.uk
 metrics.thehartford.com
@@ -27544,6 +27544,7 @@ om.zdnet.com.au
 omadi.actonservice.com
 omahasteaks.com.102.122.207.net
 omcshw.pharmasi.it
+omegaroutes.com
 omes-sec.heytapmobi.com
 omes-sec.heytapmobile.com
 ometrics.ameds.com
@@ -27780,7 +27781,6 @@ onlinestarten.net
 onlinevacationcenter.actonservice.com
 onlywoofs.com
 onmlkjiion.carte-gr.total.fr
-ono.axp.amazon-adsystem.com
 onoztg.ultimate-guitar.com
 onrt-stsdk.vivoglobal.com
 onrt.stsdk.vivoglobal.com
@@ -28085,6 +28085,7 @@ p.gazeta.pl
 p.hentaiforce.net
 p.ianmjones.com
 p.iforge.app
+p.imgur.gg
 p.jmlp.app
 p.logbox.io
 p.marqueplace.com
@@ -28547,6 +28548,7 @@ pingjs.qq.com
 pingo.staticmoly.me
 pings.conviva.com
 pings.vidpulse.com
+pingsurvey.com
 pinptg.milleni.com.tr
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
 pint-dev-branch.airship.com
@@ -28715,6 +28717,7 @@ plan.devbyexample.com
 planebasin.com
 plans.ceteraretirement.com
 plans.fundtherebuild.com
+plantcourse.com
 plas.imfeld.dev
 platform.iteratehq.com
 platformsolutions.shutterstock.com
@@ -28881,7 +28884,6 @@ pluto.smallpdf.com
 plv.geocomply.com
 plwfwc.teknozone.it
 plyizb.latour-lith.nl
-pm.boostintegrated.com
 pm.dailykos.com
 pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
@@ -28931,6 +28933,7 @@ ponos.zeronaught.com
 ponyo.cheriefm.fr
 pool.onjoyri.de
 pool.onjoyride.com
+poolcushions.com
 pop.carte-gr.total.fr
 pop.dmglobal.com
 pop3.carte-gr.total.fr
@@ -29062,6 +29065,7 @@ prepaymint.net
 presetrabbits.com
 presscoder.com
 prettybicycle.com
+prettydemo.com
 prettyeasycafe.com
 prettylearning.com
 preview.crm.sms.miui.com
@@ -29168,7 +29172,6 @@ profiling.plannja.com
 profiling.ruukki.com
 profit.edc.ca
 profitrumour.com
-proftrafficcounter.com
 profusesupport.com
 progmxs.com
 programmes-skema.skema-bs.fr
@@ -31489,6 +31492,7 @@ schwaebischhall.efscle.com
 sci.intuit.ca
 sci.intuit.com
 sci.quickbooks.com
+science.ctf.gg
 science.schoolspecialtynews.com
 sciencedart.com
 scientificshirt.com
@@ -31716,6 +31720,7 @@ secure.burn5tilt.com
 secure.businessintuition247.com
 secure.bux1le001.com
 secure.cage6west.com
+secure.care5alea.com
 secure.cart8draw.com
 secure.cast9half.com
 secure.cavy9soho.com
@@ -31730,6 +31735,8 @@ secure.coax7nice.com
 secure.companyperceptive-365.com
 secure.constellation.iqvia.com
 secure.copy9loom.com
+secure.coup7cold.com
+secure.cuba7tilt.com
 secure.curl7bike.com
 secure.dana8herb.com
 secure.data-creativecompany.com
@@ -31752,6 +31759,7 @@ secure.dump4barn.com
 secure.east2pony.com
 secure.easy0bark.com
 secure.ec4u.com
+secure.emeu0circ.com
 secure.enterprise-consortiumoperation.com
 secure.enterprise-inspired52.com
 secure.enterprise-operation-inspired.com
@@ -31769,6 +31777,7 @@ secure.food9wave.com
 secure.fortinet.com
 secure.frog9alea.com
 secure.game9time.com
+secure.gard4mass.com
 secure.garm9yuma.com
 secure.gartnerevents.com
 secure.gartnerformarketers.com
@@ -31777,9 +31786,15 @@ secure.gift2pair.com
 secure.give2hill.com
 secure.glue1lazy.com
 secure.golp4elik.com
+secure.grow1maid.com
 secure.haag0some.com
 secure.haig7anax.com
+secure.half1hell.com
 secure.hall3hook.com
+secure.harm6stop.com
+secure.hazy4cant.com
+secure.head3high.com
+secure.hear8crew.com
 secure.heat6have.com
 secure.herb2warn.com
 secure.herb7calk.com
@@ -31824,10 +31839,12 @@ secure.inventive52intuitive.com
 secure.inventiveinspired7.com
 secure.inventiveperception365.com
 secure.iron0walk.com
+secure.jaup0lake.com
 secure.jebb8hurt.com
 secure.jody0sora.com
 secure.josh7cuba.com
 secure.keep0bury.com
+secure.keet1liod.com
 secure.kick1pore.com
 secure.kilo6alga.com
 secure.kota3chat.com
@@ -31841,6 +31858,7 @@ secure.laurelsprings.com
 secure.lave6loki.com
 secure.lazy8krti.com
 secure.lead5beat.com
+secure.left5lock.com
 secure.line6agar.com
 secure.link5view.com
 secure.liod1ours.com
@@ -31851,8 +31869,11 @@ secure.lope4refl.com
 secure.lote1otto.com
 secure.mack7oyes.com
 secure.main5poem.com
+secure.make6pain.com
 secure.mali4blat.com
 secure.malm1coax.com
+secure.mari4norm.com
+secure.marx7loki.com
 secure.mass1soma.com
 secure.mdtinternal.medtronic.com
 secure.mean8sigh.com
@@ -31861,6 +31882,7 @@ secure.medtronicinteract.com
 secure.medtroniclearn.com
 secure.meet3monk.com
 secure.merchantadvantage.com
+secure.mews2ruck.com
 secure.mile0tire.com
 secure.mill8grip.com
 secure.misc1bulk.com
@@ -31868,10 +31890,13 @@ secure.moat4shot.com
 secure.mon-com-01.com
 secure.mown5gaze.com
 secure.mycalcas.com
+secure.navy9gear.com
 secure.neck6bake.com
+secure.nice3aiea.com
 secure.nikkol.co.jp
 secure.nipe4head.com
 secure.node7seat.com
+secure.nong3bram.com
 secure.nora7nice.com
 secure.norm0care.com
 secure.nyctrl32.com
@@ -31879,6 +31904,7 @@ secure.oboe3broo.com
 secure.office-cloud-52.com
 secure.office-information-24.com
 secure.office-insightdetails.com
+secure.oita4bali.com
 secure.omegacrmconsulting.com
 secure.orthology.com
 secure.otto5loki.com
@@ -31898,19 +31924,24 @@ secure.plug1luge.com
 secure.plug4norm.com
 secure.poor5zero.com
 secure.pump8walk.com
+secure.raab3frog.com
 secure.rals4alum.com
 secure.rate2self.com
 secure.rate8deny.com
 secure.realwomenofphiladelphia.ca
 secure.rear9axis.com
 secure.redd7liod.com
+secure.refl3alea.com
 secure.report.iss.xiaomi.com
 secure.rigi9bury.com
+secure.rime8lope.com
+secure.ripe8book.com
 secure.risk8belt.com
 secure.roar9beer.com
 secure.rock5rice.com
 secure.rote8mino.com
 secure.ruth8badb.com
+secure.ryke4peep.com
 secure.said3page.com
 secure.sale0home.com
 secure.sandbox.bingads.microsoft.com
@@ -31918,9 +31949,11 @@ secure.saon6harz.com
 secure.scan6show.com
 secure.seat6worn.com
 secure.sharpinspiration-instinct.com
+secure.shoo5woop.com
 secure.shrfbdg004.com
 secure.sigmaaldrich.com
 secure.silk0palm.com
+secure.skye6oner.com
 secure.slim2disc.com
 secure.smart-business-365.com
 secure.smart-business-foresight.com
@@ -31939,6 +31972,7 @@ secure.snta0034.com
 secure.soil5hear.com
 secure.soma9vols.com
 secure.sonosite.com
+secure.sour1bare.com
 secure.sour7will.com
 secure.spit0stge.com
 secure.sugh8yami.com
@@ -31949,6 +31983,7 @@ secure.team8save.com
 secure.tent0mown.com
 secure.text6film.com
 secure.thepersonal.com
+secure.tire1soak.com
 secure.tm1-001.com
 secure.toll6kerb.com
 secure.torn6back.com
@@ -31979,6 +32014,7 @@ secure.visionarycompany52.com
 secure.visualsonics.com
 secure.vols7feed.com
 secure.vspdirect.com
+secure.wait8hurl.com
 secure.wake4tidy.com
 secure.want7feed.com
 secure.wauk1care.com
@@ -37493,6 +37529,7 @@ stats.burocratin.com
 stats.byma.com.br
 stats.byterocket.dev
 stats.cable.tech
+stats.cafepress.com
 stats.calcalist.co.il
 stats.callnowbutton.com
 stats.callum.fyi
@@ -37501,6 +37538,7 @@ stats.canadapost.ca
 stats.carecredit.com
 stats.carrot2.org
 stats.carrotsearch.com
+stats.cartoonnetwork.com
 stats.caseydunham.com
 stats.cassidyjames.com
 stats.catholicluv.com
@@ -37590,6 +37628,7 @@ stats.drsaavedra.mx
 stats.dt-esthetique.ch
 stats.duetcode.io
 stats.earlygame.com
+stats.economist.com
 stats.edicy.com
 stats.editorhawes.com
 stats.eedistudio.ie
@@ -37639,6 +37678,7 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.flightsphere.com
+stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
 stats.fluorescent.co
@@ -38465,7 +38505,6 @@ sturton-lation.com
 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 stv.bid-na.ads.aps.amazon-adsystem.com
-stv.event-eu.ads.aps.amazon-adsystem.com
 stv.event-na.ads-beta.aps.amazon-adsystem.com
 stv.event-na.ads-gamma.aps.amazon-adsystem.com
 stv.event-na.ads.aps.amazon-adsystem.com
@@ -39122,6 +39161,7 @@ t.massmutualcenter.com
 t.mazdausa.com
 t.meangreensports.com
 t.mediaset.it
+t.menepe.com
 t.metrilo.com
 t.mgoblue.com
 t.miamihurricanes.com
@@ -39868,6 +39908,7 @@ tepatonol.com
 teracom.actonservice.com
 teraes.hgreg.com
 teralog.techhub.co.kr
+tercabilis.info
 terradatum.actonservice.com
 terriblethumb.com
 tesla-fortytwo.landing.ni.com
@@ -42408,6 +42449,7 @@ track.zapimoveis.com.br
 track.zappos.com
 track1.avplayer.com
 track2.cliplister.com
+track2.dulingo.com
 track2.mycliplister.com
 trackclicks.info
 trackcommon.hujiang.com
@@ -42632,8 +42674,6 @@ tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cdiscount.com
-tracking.cds.dmm.co.jp
-tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
@@ -44254,7 +44294,6 @@ us-west-2.prod.service.minerva.devices.a2z.com
 us-west.3px.axp.amazon-adsystem.com
 us-west.aps.axp.amazon-adsystem.com
 us-west.live-events.ono.axp.amazon-adsystem.com
-us-west.ono.axp.amazon-adsystem.com
 us.ad.lgsmartad.com
 us.api.micloud.xiaomi.net
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
@@ -45865,7 +45904,6 @@ wqytxm.kurly.com
 wretchedfloor.com
 wrhv.education.gouv.fr
 writerhubs.com
-writewealth.com
 writingcalls.com
 wrkbha.lyst.de
 wrlnvt.pepita.hu
@@ -46611,6 +46649,7 @@ www.zakelijk.cz.nl
 www.zcbmn14.com
 www.zmxncb5.com
 www.zxcvb23.com
+www1.cynergysolutions.net
 www1.discountautomirrors.com
 www1.happ.social
 www1.kawasaki-motors.com
