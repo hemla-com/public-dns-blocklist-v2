@@ -4075,7 +4075,6 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -4131,7 +4130,6 @@ abdpac.williamsshoes.com.au
 abdrjm.eurostarshotels.de
 abemms.atp-autoteile.de
 abgghj.moustakastoys.gr
-abilityscale.com
 abilitytoucan.com
 abjkfy.muuu.com
 abjtuq.exoticca.com
@@ -4496,9 +4494,14 @@ acv.xn--lck7b0fy49k9y1b.com
 acxajt.jimmykey.com
 ad-a8.www.zeiri4.com
 ad-bls-tracking.lemino.docomo.ne.jp
+ad-drcn.media.dbankcloud.cn
+ad-drcn.media.dbankcloud.ru
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
+ad-growth-in.heytapmobile.com
+ad-growth-ru.heytapmobile.com
+ad-growth-sg.heytapmobile.com
 ad-inserter.alphonso.tv
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
@@ -4853,6 +4856,7 @@ ads-ie.tiktokw.eu
 ads-marketing-vivofs.vivo.com.cn
 ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 ads-msn-com-profile.trafficmanager.net
+ads-ru.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
 ads-setu-proxy.amazon.com
@@ -4883,9 +4887,12 @@ ads.tikpage.com
 ads.tiktok.com
 ads.tiktok.in
 ads.tiktok.tv
+ads.tvp.pl
 ads.us.tiktok.com
+ads1.msads.net
 ads1.msn.com
 ads16-normal-useastred.tiktokw.eu
+ads2.msads.net
 adscore.com
 adsdk.trafficmanager.net
 adsdk.vivo.com.cn
@@ -4895,6 +4902,7 @@ adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adserver.bing.com
+adserver.pubtech.amazon.dev
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
 adsmeasurement.com
@@ -5733,6 +5741,7 @@ analytics.idfnet.net
 analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
+analytics.infraloods.nl
 analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -6328,6 +6337,7 @@ api.sms.intl.miui.com
 api.tw06.xlmc.sec.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
+api.wipmania.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apilog-web.acfun.cn
@@ -9022,6 +9032,7 @@ c.topya.com
 c.tr.msn.com
 c.tw.msn.com
 c.uk.msn.com
+c.uniten.io
 c.vanityfair.com
 c.vcty.co
 c.vogue.com
@@ -9178,6 +9189,7 @@ canvasandsocks.com
 canyonpizza.net
 caowuq.babyliss-romania.ro
 capi.connatix.com
+capitalopera.com
 capping.sirius.press
 capplanllc.actonservice.com
 capriciouscorn.com
@@ -9252,6 +9264,7 @@ cautiouscherries.com
 cautiouscrate.com
 cautiouscredit.com
 cavecurtain.com
+cawjjp71.alphonso.tv
 cb-mms.carbuyer.co.uk
 cbc.pnc.com
 cbdatatracker.com
@@ -9318,6 +9331,7 @@ cdn.fds.api.xiaomi.com
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
+cdn.prod.euid.eu
 cdn.ravm.tv
 cdn.sy-d.io
 cdn.usefathom.com
@@ -9366,6 +9380,7 @@ cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
+cell7021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
@@ -9404,6 +9419,7 @@ cell8021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 cell8021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 cell8021.sin.web.bid-fe.ads.aps.amazon-adsystem.com
 cell8023.sin.web.bid-fe.ads.aps.amazon-adsystem.com
+cell8031.dub.stv.event-eu.ads.aps.amazon-adsystem.com
 cellstats.mako.co.il
 cen.acspubs.org
 cenbrandlab.acspubs.org
@@ -9445,6 +9461,7 @@ cg.lgsmartad.com
 cgctsw.mytour.vn
 cgicounter.oneandone.co.uk
 cgicounter.puretec.de
+cgpyzb8.alphonso.tv
 cgqkhc.trendyol.com
 cgsisl.owllabs.com
 cgwebmetrics.capgroup.com
@@ -9485,6 +9502,7 @@ charmingplate.com
 charms.pugster.com
 chartec.actonservice.com
 chat.forddirectdealers.com
+chc-visio-telemetry.officeapps.live.com
 check.frbservices.org
 check3.tiaa.org
 checkpointcharlie.heizung.de
@@ -11382,7 +11400,6 @@ dart.onjoyri.de
 darvin-ec.ads.heytapmobi.com
 dash.getsitecontrol.com
 dashboardbntest.branchcustom.xyz
-dashingdrop.com
 dasych.drmartypets.com
 data-events.uniplaces.com
 data-f.ads.oppomobile.com
@@ -12319,7 +12336,6 @@ di.ifolor.lu
 di.ifolor.net
 di.ifolor.nl
 di.ifolor.se
-di.runestone.samsung.com
 di.spreadmorelove.ch
 di2.zooplus.es
 di2xwvxz1jrvu.cloudfront.net
@@ -13116,6 +13132,10 @@ ea.telecommandeonline.com
 ea.tool-fitness.com
 ea.topsante.com
 ea.venta-del-diablo.com
+ea.venta-unica.com
+ea.vente-unique.be
+ea.vente-unique.ch
+ea.vente-unique.com
 ea.vente-unique.lu
 ea.vivus.es
 ea.voyage-prive.co.uk
@@ -13450,6 +13470,7 @@ eitkrg.loriblu.com
 ejbbcf.finishline.com
 ejejip.bjjfanatics.com
 ejhyhg.travelist.pl
+ejhztuvfcb3.alphonso.tv
 ejimtl.costway.com
 ejkmld.tradus.com
 ejlytics.editorji.com
@@ -14895,6 +14916,7 @@ exprealty377.myre.io
 exr-mms.expertreviews.co.uk
 extendyourreach.actonservice.com
 external-bos5-1.xx.fbcdn.net.iberostar.com
+external-tag.mysquadbeyond.com
 external.fpbc1-1.fna.fbcdn.net.iberostar.com
 external.techopian.com
 extlog.snssdk.com
@@ -15224,6 +15246,7 @@ fishersfinds.com
 fishing.daigostudio.com
 fitmessage.com
 fitnessmapper.com
+fitwithalpine.com
 fivesidedsquare.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
@@ -15257,6 +15280,7 @@ flashstats.libsyn.com
 flashtexting.com
 flavors.firmenich.com
 fldoai.municipal.com
+fleathecat.com
 fleet-eml.postmates.com
 flex.msn.com
 flexibleplan.actonservice.com
@@ -15424,6 +15448,7 @@ forms.xperthr.com
 forms.xtralis.com
 forms2.vistage.com
 forpci3.siege-corp.com
+fortbeach.com
 fortunatemark.com
 forwardslashetc.com
 fossilzero.com
@@ -16851,6 +16876,7 @@ greencharge.actonservice.com
 greencolumnhealth.com
 greenjapan-cname.green-japan.com
 greif.actonservice.com
+gresrv.com
 grgnsht.nzxt.com
 gridbelow.com
 gripcorn.com
@@ -16991,6 +17017,8 @@ h.imedia.cz
 h.n11.com
 h00c.sfr.fr
 h031.familydollar.com
+h1.msn.com
+h2.msn.com
 h353.ncadvertiser.com
 h4g3z1-native.amazon.web.app
 h4g3z1-native.apple.web.app
@@ -17124,6 +17152,7 @@ heartbeat.pmd.444.hu
 heartbreakingmind.com
 heartflow.actonservice.com
 hearthow.com
+heatmap.support-inc.co.jp
 heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
@@ -17322,6 +17351,7 @@ hntnca.petpetgo.com
 hnwttl.re-katsu.jp
 hnytrd.ssfshop.com
 hocgeese.com
+hockeyfool.com
 hodges.actonservice.com
 hodgesmace.actonservice.com
 hoekqq1.alphonso.tv
@@ -17338,6 +17368,7 @@ homehardware.actonservice.com
 homelycrown.com
 homelyheater.com
 homeprv.lgtvcommon.com
+homerunfood.com
 homeslick.com
 honestharbor.com
 honeybulb.com
@@ -17418,6 +17449,7 @@ hsaxca.americatv.com.pe
 hsfhfh95.alphonso.tv
 hsleadflows.net
 hslkll.psychic.de
+hsmjvjlu4.alphonso.tv
 hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
@@ -19259,6 +19291,7 @@ insights.nexansdatacenter.com
 insights.nowitmatters.com
 insights.openfieldx.com
 insights.partnerwithfacet.com
+insights.playpilot.net
 insights.prophet.com
 insights.sitesearch360.com
 insights.sport1.de
@@ -19937,7 +19970,6 @@ jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
 jzq915.playmobil.com
 jzqfac.bestsecret.ch
-jzzuvzq98.alphonso.tv
 k-ring-fallback.msedge.net
 k-ring.msedge.net
 k.brandalley.be
@@ -20166,7 +20198,6 @@ krishnaw263.alphonso.tv
 krishnaw268.alphonso.tv
 krishnaw270.alphonso.tv
 krishnaw271.alphonso.tv
-krishnaw272.alphonso.tv
 krishnaw273.alphonso.tv
 krishnaw274.alphonso.tv
 krishnaw275.alphonso.tv
@@ -20263,8 +20294,6 @@ krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
 krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
-krishnaw377.alphonso.tv
-krishnaw378.alphonso.tv
 krishnaw380.alphonso.tv
 krishnaw381.alphonso.tv
 krishnaw382.alphonso.tv
@@ -20275,7 +20304,6 @@ krishnaw386.alphonso.tv
 krishnaw387.alphonso.tv
 krishnaw390.alphonso.tv
 krishnaw391.alphonso.tv
-krishnaw392.alphonso.tv
 krishnaw396.alphonso.tv
 krishnaw397.alphonso.tv
 krishnaw398.alphonso.tv
@@ -20284,7 +20312,6 @@ krishnaw400.alphonso.tv
 krishnaw401.alphonso.tv
 krishnaw404.alphonso.tv
 krishnaw405.alphonso.tv
-krishnaw408.alphonso.tv
 krishnaw411.alphonso.tv
 krishnaw412.alphonso.tv
 krishnaw413.alphonso.tv
@@ -20293,7 +20320,6 @@ krishnaw415.alphonso.tv
 krishnaw416.alphonso.tv
 krishnaw417.alphonso.tv
 krishnaw420.alphonso.tv
-krishnaw421.alphonso.tv
 krishnaw422.alphonso.tv
 krishnaw423.alphonso.tv
 krishnaw424.alphonso.tv
@@ -20311,7 +20337,6 @@ krishnaw439.alphonso.tv
 krishnaw441.alphonso.tv
 krishnaw445.alphonso.tv
 krishnaw446.alphonso.tv
-krishnaw447.alphonso.tv
 krishnaw448.alphonso.tv
 krishnaw449.alphonso.tv
 krishnaw450.alphonso.tv
@@ -20434,6 +20459,7 @@ kz-vcode-or.vivoglobal.com
 kz.ad.lgsmartad.com
 kz.lgsmartad.com
 kzhesi.corcoran.com
+kzjcbzwsof9.alphonso.tv
 kzmual.superga.com
 kzsicw.chip.de
 kzsicw.cinema.de
@@ -20643,6 +20669,7 @@ lbnrrh.autouncle.dk
 lbrgfl89.alphonso.tv
 lbs-samsung.swypeconnect.com
 lbv5.mperf.com
+lc-event.pixiv.net
 lc.lgsmartad.com
 lcdsyj.daily.co.jp
 lcefua.timberland.ru
@@ -26931,6 +26958,7 @@ neatbadger.com
 neathousepartners.actonservice.com
 neatrule.com
 neatshade.com
+nebula-collector.huawei.com
 nebulacrescent.com
 nebulajubilee.com
 nebulousgarden.com
@@ -26974,6 +27002,7 @@ net.tradeers.de
 net.voopter.com.br
 net.zooroyal.de
 net1.netski.com
+netandbytes.com
 netc.sfr.fr
 netcheck.pandora.xiaomi.com
 netinsight.actonservice.com
@@ -27546,6 +27575,7 @@ ofkqiy.knowfashionstyle.com
 ofqkbk.proclipusa.com
 ofvosb.jumbo.com.tr
 ofwdvh.suntransfers.com
+ogb-poc1.alphonso.tv
 ogb2.biopur-leanature.fr
 ogb2.biovie.com
 ogb2.eauthermalejonzac.com
@@ -27849,6 +27879,7 @@ onecloud.avaya.com
 onecrow.net
 onedropocean.com
 oneid.mmstat.com
+onekindmarket.com
 onelink.taptalk.io
 onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
@@ -27859,6 +27890,7 @@ onesourcebackground.actonservice.com
 onespecify.com
 onespot-tracking.herokuapp.com
 onghfx.revolve.com
+onioncomic.com
 onjjbn.koffiemarkt.be
 onjmsj.sumai-surfin.com
 online-mt-com-455208869.p06.elqsandbox.com
@@ -28002,6 +28034,7 @@ orig.mishop.cdn.pandora.xiaomi.com
 orig.package.box.xiaomi.com
 orig.sec-cdn.static.xiaomi.net
 origin-smetrics.go365.com
+origin-sq-tungsten-ts-fe.amazon-adsystem.com
 origin-sq-tungsten-ts.amazon-adsystem.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
@@ -28015,7 +28048,6 @@ orpggb.esprit.at
 orsdls.di.runestone.samsung.com
 orsfs.di.runestone.samsung.com
 orsmfg.notino.de
-orsplc.di.runestone.samsung.com
 ort-stsdk.vivoglobal.com
 ort.stsdk.vivoglobal.com
 ortkrq.damyller.com.br
@@ -28411,6 +28443,7 @@ partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
 partplanes.com
 passivepolo.com
+passwordbyte.com
 patientpay.actonservice.com
 patrikios.openapp.link
 paupud.meillandrichardier.com
@@ -28501,6 +28534,7 @@ pehkmy.edreams.pt
 peiq.services
 pemskb.unitedcinemas.jp
 people.mbtionline.com
+peoplebrain.net
 peoplehr.actonservice.com
 pepin.padlet.com
 pepleb.ekosport.de
@@ -28539,6 +28573,7 @@ pftk.temu.com
 pfuyhr.schutz.com.br
 pg-ad-lgsmartad-com.aws-prd.net
 pg.ad.lgsmartad.com
+pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pgkxhq.jamesallen.com
 pgs.aviationweek.com
@@ -28570,12 +28605,8 @@ pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
-pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
-pgtsg1-excel-telemetry-vip.officeapps.live.com
-pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -28625,6 +28656,7 @@ phyins.actonservice.com
 physicstees.com
 pi.ias.xiaomi.com
 pi.ispot.tv
+pi.pdfjs.express
 pi.technik3d.com
 pibhjs.dongsuhfurniture.co.kr
 picarro.actonservice.com
@@ -28962,6 +28994,7 @@ play.wavelength.zone
 playbook.convio.com
 player-metrics.instaread.co
 player-telemetry.vimeo.com
+playerhappy.com
 playfulriver.com
 plbcsd.vidaxl.se
 plbusiness.samsung.com
@@ -29458,6 +29491,7 @@ pvoheg.bubbleroom.se
 pvrugd.nieruchomosci-online.pl
 pvx.xcar.com.cn
 pw.gigazine.net
+pwjke9.alphonso.tv
 pwojexjma1.alphonso.tv
 pwtftm.shingaku.mynavi.jp
 px-intl.ucweb.com
@@ -30135,6 +30169,7 @@ research.gartner.com
 research.insidesales.com
 research.leads360.com
 research.velocify.com
+researchlog.dbresearch.com
 resetpassword.surepetcare.io
 resolution.taxdefensenetwork.com
 resolver.gslb.mi-idc.com
@@ -30369,9 +30404,11 @@ roamhousing.com
 roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
+robotrefinery.com
 robotsrefinery.com
 rochelle.wantsext.me
 rockagainst.com
+rocketmonitor.com
 rockstarwriter.com
 roedwy.imidapeptide.com
 roibest-report-sdk.qiliangjia.com
@@ -30388,6 +30425,7 @@ ros3d4dbs3px.salud-masculina.info
 roseincome.com
 rottenray.com
 roulette.abzorbagames.com
+routebug.com
 router.tracking.miui.com
 router28.net.anwalt.de
 routes.navibration.com
@@ -30422,6 +30460,7 @@ rrbaib.tsutsumishop.jp
 rrgiuy.jackroad.co.jp
 rrincc.auto-doc.it
 rrjzyj.lepage.fr
+rrmunf5.alphonso.tv
 rrxldl.bol.de
 rrznha.lanvin-en-bleu.com
 rs-ad-lgsmartad-com.aws-prd.net
@@ -30439,7 +30478,6 @@ rsra-ph.cdn-fileserver.com
 rsra.cdn-fileserver.com
 rsras-ph.cdn-fileserver.com
 rsras.cdn-fileserver.com
-rstat.rockmostbet.com
 rsuevw.unicef.or.jp
 rsv.dankore.jp
 rsv.pairorder.jp
@@ -30464,6 +30502,7 @@ rtb.axp.amazon-adsystem.com
 rtb.prod.carbonatixaudio.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
@@ -31614,6 +31653,7 @@ sci.quickbooks.com
 science.ctf.gg
 science.schoolspecialtynews.com
 sciencedart.com
+sciencevault.net
 scientificshirt.com
 scintillatingscissors.com
 scintillatingsilver.com
@@ -31749,6 +31789,7 @@ sealtravels.com
 seamarketny.actonservice.com
 seamlesssalon.com
 seao.business.samsung.com
+seaotterplay.com
 search.anonymous.ads.brave.com
 search.miui.com
 searchads.apple.com.edgesuite.net
@@ -32043,7 +32084,6 @@ secure.plug1luge.com
 secure.plug4norm.com
 secure.poor5zero.com
 secure.pump8walk.com
-secure.raab3frog.com
 secure.rals4alum.com
 secure.rate2self.com
 secure.rate8deny.com
@@ -32323,6 +32363,7 @@ sem.tkc-biyou.jp
 send.merit.me
 send.preply.com
 sendgrid.employeelinkapp.com
+sendinblast.com
 sendingspire.com
 sendmoney.americanexpress.co.uk
 sendpulsenewtest.branch.rocks
@@ -32866,6 +32907,7 @@ ski1.skiset.com
 skilledview.com
 skillfuldrop.com
 skillfullyfrugal.com
+skillpuppy.com
 skillshouse.actonservice.com
 skincheckwa-app.hotdoc.com.au
 skisofa.com
@@ -37306,6 +37348,7 @@ stalesummer.com
 stalkoda.com
 stan.xing.com
 stanburns.actonservice.com
+standard-1.eu-south-2.prod.adserver.pubtech.amazon.dev
 stape.brascast.com
 starchild.odencat.com
 starfurniture.net
@@ -38857,6 +38900,7 @@ swa.vodafone.pt
 swa.wowcher.co.uk
 swaljol72dgv.controlconceptsusa.com
 swankysquare.com
+swanwebcreations.com
 swasc.homedepot.ca
 swasc.homedepot.com
 swasc.kaufland.bg
@@ -38902,6 +38946,7 @@ swissinside.easyjet.com.edgekey.net.easyjet.com
 switzerlandnorth-0.in.applicationinsights.azure.com
 swmhdata.stuttgarter-nachrichten.de
 swmhdata.stuttgarter-zeitung.de
+swordblock.com
 swordgoose.com
 swqleb.adidas.ru
 swwcyk.ahaber.com.tr
@@ -39810,6 +39855,7 @@ target.zeiss.de
 target.zinia.com
 targetab.metrobyt-mobile.com
 targetemsecure.blob.core.windows.net
+targetfax.com
 targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
@@ -40035,7 +40081,6 @@ tendertest.com
 tengointernet.actonservice.com
 tenhourweek.com
 tenilstats.turner.com
-tenmax-ads.trafficmanager.net
 tepatonol.com
 teracom.actonservice.com
 teraes.hgreg.com
@@ -40192,6 +40237,7 @@ thefontzone.com
 thejavalane.com
 themangotea.com
 theme.echovisuals.com
+themegoats.com
 themepicker.com
 thepixelpioneer.com
 thepowerstones.com
@@ -43868,6 +43914,7 @@ trklink.luisaviaroma.com
 trkn.us
 trkpzz.dcinside.com
 trkr.shoppingminds.net
+trkweb.clinch.co
 tropicalpal.com
 troubleshade.com
 trovo-tag.com
@@ -44171,7 +44218,6 @@ uinpmz.iichi.com
 uiusqp.crowdcow.com
 uiwock.epantofi.ro
 ujbhri.pharmamarket.nl
-ujdcipvr0.alphonso.tv
 ujlwwo.lehner-versand.ch
 ujq1.destinia.is
 ujuyhix2.alphonso.tv
@@ -44410,6 +44456,7 @@ us-east.live-events.ono.axp.amazon-adsystem.com
 us-east.ono.axp.amazon-adsystem.com
 us-east.prod.service.minerva.devices.a2z.com
 us-go.experian.com
+us-ic3.events.data.microsoft.com
 us-marketing.roxtec.com
 us-mesh-events-data-leafs.trafficmanager.net
 us-mesh.events.data.microsoft.com
@@ -45034,6 +45081,8 @@ verizon-branch.locationlabs.com
 verseballs.com
 versuswall.com
 vertexcs.actonservice.com
+verybark.com
+verybouncy.com
 vetsource.actonservice.com
 vewbab.entertainmentearth.com
 vewxchtqs1.alphonso.tv
@@ -45061,6 +45110,7 @@ vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
+vfwm-eu.amazon-adsystem.com
 vfwm-us-west.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
@@ -45128,6 +45178,7 @@ view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
 viewer.pandasuite.io
+viewresource.com
 views.arabnews.com
 views.asurascans.com
 views.b1tv.ro
@@ -45863,6 +45914,7 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
@@ -46528,6 +46580,7 @@ www.moat4shot.com
 www.mon-com-01.com
 www.mon-com-net.com
 www.mown5gaze.com
+www.msads.net
 www.muni360.com
 www.mydocusign.com
 www.myfiltration.eaton.com
