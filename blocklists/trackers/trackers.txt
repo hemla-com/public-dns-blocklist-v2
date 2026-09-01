@@ -6233,7 +6233,6 @@ api.setting.intl.miui.com
 api.sms.intl.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
-api.wipmania.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apilog-web.acfun.cn
@@ -25380,6 +25379,7 @@ mincharge.com
 mindfulgem.com
 mine.nahnoji.cz
 mineinvoice.com
+minerad.com
 minerva.devices.a2z.com
 mini-site.larksuite-marketing.com
 minibilling.com
