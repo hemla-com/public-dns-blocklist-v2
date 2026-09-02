@@ -9887,6 +9887,7 @@ collector.hippodromeonline.com
 collector.mazeberry.com
 collector.megaxh.com
 collector.net-logger.com
+collector.orf.at
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
@@ -13225,7 +13226,6 @@ eloqua.pointcode.fr
 eloqua.psl.com.au
 eloqua.quadrotech-it.com
 eloqua.quest.com
-eloqua.radware.com
 eloqua.raybestos.com
 eloqua.roche.com
 eloqua.saiganeshk.com
@@ -18870,7 +18870,6 @@ ip.up66.ru
 ip2c.landscape.co.jp
 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipcfgw.pieces.com
-ipcheck.blogsys.jp
 ipdmlm.yoriso.com
 iphufr.circleline.com
 ipinternational.actonservice.com
@@ -28102,6 +28101,7 @@ popmixradio.com
 popplantation.com
 popup-static.unisender.com
 popup.msn.com
+porksoda.com
 poro.58.com
 porpoise.azettl.net
 porqhi.topictravel.nl
@@ -28121,6 +28121,7 @@ post.carte-gr.total.fr
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
 potatoinvention.com
+potentmagic.com
 power.viggo.com
 powerfulblends.com
 powerfulcopper.com
@@ -28173,6 +28174,7 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
+prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -28273,6 +28275,7 @@ processor.asccommunications.com
 processplantation.com
 processserver.abclegal.com
 processusmetier.ricoh.fr
+procollecting.com
 procroanalytics.com
 procurement.cipscomms.org
 prod-eh-v1-analytics.servicebus.windows.net
@@ -28439,6 +28442,7 @@ puffyloss.com
 puffypaste.com
 puffypull.com
 puffypurpose.com
+pugspress.com
 puiwrs.misterspex.de
 pull.mitv.pandora.xiaomi.com
 pulsar.ebay.com
@@ -28942,6 +28946,7 @@ receiptcent.com
 receive.wmcdp.io
 receptivereaction.com
 recessrain.com
+recipepile.net
 recipepin.com
 reco.target2sell.com
 reconditeprison.com
@@ -28962,6 +28967,7 @@ redbricksoap.com
 redclassic.actonservice.com
 redditstream.arborapps.io
 reddwarf.till-sanders.de
+redexecs.com
 redir.metaservices.microsoft.com
 redirect.cuballama.com
 redirect.indacar.io
@@ -38513,7 +38519,6 @@ tangycover.com
 tao.barstoolsports.com
 tap.carling.com
 tapi.kaufda.de
-tar.microsoft.com
 target-omtrdc.deka.de
 target-test.cisco.com
 target-us.samsung.com
