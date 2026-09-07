@@ -4049,7 +4049,6 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -4597,6 +4596,7 @@ adbsmetrics.lotterentacar.net
 adbsmetrics.thewhoo.com
 adc-js.nine.com.au
 adcontroll.com
+addefend-platform.com
 addictedattention.com
 addressfriend.com
 ade.deskstyle.info
@@ -5372,6 +5372,7 @@ analytics-api-s.cloudinary.com
 analytics-api.gemcommerce.com
 analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
+analytics-assets.tes.com
 analytics-attribution-va.tiktok.com
 analytics-attribution-va.tiktok.com.edgekey.net
 analytics-attribution.tiktok.com
@@ -6219,7 +6220,6 @@ api.installer.xiaomi.com
 api.jr.mi.com
 api.june.so
 api.launcher.intl.miui.com
-api.metrics.eu-central-1.iris.apx.amazon.dev
 api.metrics.us-west-2.iris.apx.amazon.dev
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
@@ -6233,6 +6233,7 @@ api.setting.intl.miui.com
 api.sms.intl.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
+api.wipmania.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apilog-web.acfun.cn
@@ -6794,7 +6795,6 @@ app.pally.live
 app.pandasuite.io
 app.panomoments.com
 app.partner.fisglobal.com
-app.partnerboost.com
 app.pawsket.com
 app.payments-response.americanexpress.co.uk
 app.payments.53.com
@@ -9135,6 +9135,7 @@ cdn-t.amazon-adsystem.com
 cdn-xp-ingest.edge.apple
 cdn.9gtb.com
 cdn.arcstudiopro.com
+cdn.dfsdk.com
 cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.exp.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com
@@ -9144,6 +9145,7 @@ cdn.net.elogia.net
 cdn.polarbyte.com
 cdn.prod.euid.eu
 cdn.ravm.tv
+cdn.seonintelligence.com
 cdn.sy-d.io
 cdn.usefathom.com
 cdn1.skrill.com
@@ -9887,7 +9889,6 @@ collector.hippodromeonline.com
 collector.mazeberry.com
 collector.megaxh.com
 collector.net-logger.com
-collector.orf.at
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
@@ -10264,6 +10265,7 @@ consulting.icmi.com
 consulting.mcgladrey.com
 consumer.equifax.com
 consumer.inform.equifax.com
+consumerdebtnegotiation.com
 consumerknowhow.com
 consumerzero.com
 contact-us.adp.ca
@@ -11637,7 +11639,6 @@ data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.dbankcloud.cn
 datacollector-dra.dt.hicloud.com
-datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
 datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
@@ -12106,6 +12107,7 @@ digital.ironmountain.com
 digital.medimpact.com
 digital.opsbase.com
 digital.setpointis.com
+digitalatticnewsletter.com
 digitalblend.net
 digitalmarketing.gogsg.com
 digitalmarketing.smu.edu.sg
@@ -12624,6 +12626,7 @@ dsp-ad-cache-tm.trafficmanager.net
 dsp-track-global.zmaticoo.com
 dsplog-adnet.vivo.com.cn
 dspx.tv
+dsspn.com
 dst05lp2.net.mydays.de
 dsvmgu.snipes.it
 dt-tracker.mamikos.com
@@ -15223,6 +15226,7 @@ g2insights-cdn.azureedge.net
 g4p.redtram.com
 g594253006.co
 g792337340.co
+g792337341.co
 g792337342.co
 g792337343.co
 g8715710740.co
@@ -20989,6 +20993,7 @@ location.live.net
 location.microsoft.com
 location.tiktok.com
 location.tiktokv.com
+location.tiktokv.eu
 location.tiktokw.us
 location.us.tiktokv.com
 location16-normal-useastred.tiktokv.eu
@@ -24332,6 +24337,7 @@ metrics.esignal.com
 metrics.etihad.com
 metrics.etihadengineering.com
 metrics.etihadguest.com
+metrics.eu-central-1.iris.apx.amazon.dev
 metrics.eu-south-2.iris.apx.amazon.dev
 metrics.eu-west-1.iris.apx.amazon.dev
 metrics.eu.playstation.com
@@ -27060,6 +27066,7 @@ organizations.stratfor.com
 orgbackups.com
 orhdev.com
 orientedargument.com
+origin-s.amazon-adsystem.com
 origin-smetrics.go365.com
 origin-sq-tungsten-ts.amazon-adsystem.com
 origin-target.humana.com
@@ -28060,6 +28067,7 @@ pntbrs.reflectwindow.com
 pnvnpy.scullyandscully.com
 pny.net.penny.de
 po.ponant.com
+pocketfaucet.com
 pocustrack.com
 poczta.carte-gr.total.fr
 poczta.happ.social
@@ -28174,7 +28182,6 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
-prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -28427,6 +28434,7 @@ ptw-i.actonservice.com
 pu.pretunique.fr
 pub.servidoresge.com
 pub.sheknows.com
+pubbug.com
 pubfs.com
 pubimgs.com
 public.9gtb.com
@@ -29076,6 +29084,7 @@ remp.nv.ua
 renaultbankdirekt.efscle.com
 rent.mgrc.com
 rentinfinity.com
+rentinfrared.com
 renting.aldautomotive.es
 rentpenny.com
 repdata.12newsnow.com
@@ -29140,6 +29149,7 @@ reports.sdiapi.com
 reports.tunein.com
 reportsk.web.sdo.com
 reppify.actonservice.com
+republicfarm.net
 reqssx.centerparcs.fr
 request.idangels.org
 request.verisign.com
@@ -29291,6 +29301,7 @@ retirementservices.firstallied.com
 retrack.q-divisioncdn.de
 retrievemint.com
 retrocrypt.com
+retrorays.com
 reuniondepadres.unisabana.edu.co
 reverb.digitalviscosity.com
 reversetickets.com
@@ -29393,6 +29404,7 @@ robotrefinery.com
 robotsrefinery.com
 rochelle.wantsext.me
 rockagainst.com
+rockcarving.com
 rocketmonitor.com
 rockstarwriter.com
 roedwy.imidapeptide.com
@@ -29599,6 +29611,7 @@ ru-vcode-or.vivoglobal.com
 ru.feedback.xmpush.global.xiaomi.com
 ru.lgsmartad.com
 ru.video.intl.xiaomi.com
+rubouthunger.com
 rubyswinehouse.com
 ruc-ngfts.lge.com
 rudder-tracking.rudderstack.com
@@ -30126,6 +30139,7 @@ safepass.citizen.com
 safetravelsapp.progressive.com
 safety.west.com
 saffronrefuge.com
+sagetrack.net
 sagxlv.daniellashevel.com
 sailinsight-app.sapsailing.com
 sailinsight20-app.sapsailing.com
@@ -30188,7 +30202,6 @@ samsungads.adsmeasurement.com
 samsungads.com
 samsungafrica.demdex.net
 samsungafrica.tt.omtrdc.net
-samsungallstore.com
 samsungau.api.useinsider.com
 samsungau.demdex.net
 samsungbenelux.tt.omtrdc.net
@@ -30443,6 +30456,7 @@ sandbox.xmpush.xiaomi.com
 sandboxbid.com
 sandstrophies.com
 sandypocket.com
+sandytaco.com
 sanl.champssports.ca
 sanl.champssports.com
 sanl.eastbay.com
@@ -30667,6 +30681,7 @@ scratchsofa.com
 screechingfurniture.com
 screechingstocking.com
 screechingstove.com
+screenphotos.com
 scribblestring.com
 scribe.wongnai.com
 scrippscookingchannel.cookingchanneltv.com
@@ -34936,6 +34951,7 @@ smodus.nike.com
 smoggysnakes.com
 smoggysongs.com
 smoggystation.com
+smoketester.com
 smon.activate.cz
 smon.blackhistorymonth.gov
 smon.congress.gov
@@ -36756,6 +36772,7 @@ stats.equium.io
 stats.erikinthekitchen.com
 stats.erlef.org
 stats.esecured.net
+stats.estrema.it
 stats.evenchilada.com
 stats.executebig.org
 stats.exploratv.ca
@@ -41766,6 +41783,7 @@ tracking.vodafone.co.uk
 tracking.vodafone.com
 tracking.voordeeluitjes.nl
 tracking.voxeus.com
+tracking.vviinn.com
 tracking.wallapop.com
 tracking.wao-corp.com
 tracking.wao.ne.jp
@@ -42769,7 +42787,6 @@ ur.b.inhaabit.com
 urbanairship.com
 urbanlaurel.com
 ureca.samsungapps.com
-ureca.samsungapps.com.ad.mexnet.de
 urehgr.halekulani.com
 ureoaw.netthandelen.no
 ureruadebis.papawash.com
@@ -42820,7 +42837,6 @@ us-go.experian.com
 us-marketing.roxtec.com
 us-mesh-events-data-leafs.trafficmanager.net
 us-now.experian.com
-us-report.gras.samsungdm.com
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us.lgsmartad.com
 us.lucanet.com
