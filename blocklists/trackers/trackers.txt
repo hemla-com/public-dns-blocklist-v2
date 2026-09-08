@@ -25100,7 +25100,6 @@ metrics.ticketmaster.com
 metrics.tidewater.aaa.com
 metrics.tidycats.com
 metrics.tienda.telcel.com
-metrics.tim.it
 metrics.timberland.com
 metrics.timberland.de
 metrics.timberland.es
