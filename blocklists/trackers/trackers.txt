@@ -4518,7 +4518,6 @@ ad.intl.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.ksyna.net
 ad.jibunde-esute.com
 ad.kirara-support.jp
-ad.lgsmartad.com
 ad.magokoro-care-shoku.com
 ad.mi.com
 ad.miui.com
@@ -4845,7 +4844,6 @@ ads.eu.msn.com
 ads.heytapmobi.com
 ads.heytapmobile.com
 ads.jp.msn.com
-ads.lgtvcommon.com
 ads.microsoft.com
 ads.msn.com
 ads.oppomobile.com
@@ -4996,7 +4994,6 @@ adxzju.penti.com
 ae-ad-lgsmartad-com.aws-prd.net
 ae-go.experian.com
 ae.cobweb.com
-ae.lgsmartad.com
 aebvay.mesinspirationsculinaires.com
 aec-target.base.be
 aec-target.telenet.be
@@ -5020,7 +5017,6 @@ aexhyo.pilatos.com
 af-ad-lgsmartad-com.aws-prd.net
 af.eficads.com
 af.gmobile.biz
-af.lgsmartad.com
 af.shozankan-shop.com
 afclms.xd-design.co.kr
 afcv.champ-shop.com
@@ -5062,7 +5058,6 @@ aftermath.actonservice.com
 afterschoolallstars.actonservice.com
 aftership-pixel.com
 ag-ad-lgsmartad-com.aws-prd.net
-ag.lgsmartad.com
 agcjee.sklep-nasiona.pl
 agcmtb.nameit.com
 agcs-knowledge.allianz.com
@@ -5105,7 +5100,6 @@ ahzqgr.au-sonpo.co.jp
 ahzygy.thesteelshop.com
 ai.idg.se
 ai.kaishabaikyaku.com
-ai.lgsmartad.com
 ai.mist.com
 ai.net.anwalt.de
 ai.thermo.com
@@ -5168,7 +5162,6 @@ al-ad-lgsmartad-com.aws-prd.net
 al-smetrics.vizio.com
 al.airtel.in
 al.autohome.com.cn
-al.lgsmartad.com
 al.mtrx.dev
 al.mtrx.travel
 al.mtrxs.dev
@@ -5259,7 +5252,6 @@ alwayscarebenefits.actonservice.com
 am-ad-lgsmartad-com.aws-prd.net
 am.belambra.co.uk
 am.belambra.com
-am.lgsmartad.com
 am.siemensplmevents.com
 am3s622gcd6m.tt.live
 ama.planet-wissen.de
@@ -5315,7 +5307,6 @@ amvtwk.thebottleclub.com
 an.avast.com
 an.avast.ru
 an.constantcontact.com
-an.lgsmartad.com
 an.milb.com
 an.mlb.com
 an.sny.tv
@@ -6129,7 +6120,6 @@ ao-marketing.dbiyes.com
 ao-marketing.essendant.com
 ao-mkt.tableausoftware.com
 ao.jsitel.com
-ao.lgsmartad.com
 ao.pioncomm.net
 ao.tolydigital.net
 aod.echovisuals.com
@@ -7204,7 +7194,6 @@ ar-ad-lgsmartad-com.aws-prd.net
 ar.allrun.fr
 ar.i-run.fr
 ar.interiordefine.com
-ar.lgsmartad.com
 ar.quadient.com
 ar1.aza.io
 aragenbio.actonservice.com
@@ -7427,7 +7416,6 @@ at.360.audion.fm
 at.badische-zeitung.de
 at.db-finanzberatung.de
 at.deutsche-bank.de
-at.lgsmartad.com
 at.maxblue.de
 at.mclaren.com
 at.neom.com
@@ -7489,7 +7477,6 @@ au-go.experian.com
 au-partners.ingrammicro.com
 au.ff.avast.sec.miui.com
 au.interface.com
-au.lgsmartad.com
 au.mywd.com
 auc-visio-telemetry.officeapps.live.com
 aucqdk.autodoc.es
@@ -7573,7 +7560,6 @@ avolvesoftware.actonservice.com
 avp.labanquepostale.fr
 avs.adpinfo.com
 aw-ad-lgsmartad-com.aws-prd.net
-aw.lgsmartad.com
 aw.perlesandco.com
 awap.equifax.com
 awaps.yandex.net
@@ -7742,7 +7728,6 @@ ayleaf.petersofkensington.com.au
 ayo.arredoitaliano.it
 az-ad-lgsmartad-com.aws-prd.net
 az.appstore.vivo.com.cn
-az.lgsmartad.com
 az.nzn.io
 az667904.vo.msecnd.net
 az693360.vo.msecnd.net
@@ -7842,7 +7827,6 @@ b629.electronicdesign.com
 b73c.pandasuite.io
 b7tp47v2nb3x-a.akamaihd.net
 ba-ad-lgsmartad-com.aws-prd.net
-ba.lgsmartad.com
 baahnj.bezokularow.pl
 bablace.com
 baccarat.abzorbagames.com
@@ -7910,7 +7894,6 @@ bawdybalance.com
 bayshoresystems.actonservice.com
 bazlny.homepal.it
 bb-ad-lgsmartad-com.aws-prd.net
-bb.lgsmartad.com
 bb.onjoyri.de
 bbagnw.sedaily.com
 bbanywhere.links.rosieapp.com
@@ -7963,7 +7946,6 @@ bdtheque.net.jumia.com.gh
 bdzcck.stadiumgoods.com
 be-ad-lgsmartad-com.aws-prd.net
 be-go.experian.com
-be.lgsmartad.com
 be.slowmographer.co
 beacon.adelphic.com
 beacon.affil.walmart.com
@@ -8061,7 +8043,6 @@ bewilderedblade.com
 beyond.bluewolf.com
 beyondgoodness.com
 bf-ad-lgsmartad-com.aws-prd.net
-bf.lgsmartad.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfeagv.chicwish.com
 bfg.loanzify.app
@@ -8075,7 +8056,6 @@ bfvlgp.appstory.co.kr
 bfzikn.l-wine.ru
 bg-ad-lgsmartad-com.aws-prd.net
 bg-go.experian.com
-bg.lgsmartad.com
 bgalytics.com
 bgaycm.exvital-shop.de
 bgevqy.moschino.com
@@ -8088,7 +8068,6 @@ bgupcq.westfalia.de
 bh-ad-lgsmartad-com.aws-prd.net
 bh-test.groc.press
 bh.groc.press
-bh.lgsmartad.com
 bhawtp.vitacost.com
 bhcfpo.elfa.se
 bhcsub.sankeishop.jp
@@ -8164,7 +8143,6 @@ biznews.oregon.gov
 biztoolsbrief.com
 bizz.cochraneco.com
 bj-ad-lgsmartad-com.aws-prd.net
-bj.lgsmartad.com
 bja2.destinia.cz
 bjdqbl.nippn-kenko.net
 bjfbac.hyundaivaudreuil.com
@@ -8278,7 +8256,6 @@ bnutnr.landandfarm.com
 bnvsjg.hometogo.de
 bnzkua.trussardi.com.br
 bo-ad-lgsmartad-com.aws-prd.net
-bo.lgsmartad.com
 boardbumpers.com
 boatcodeapp.com
 boatpaper.com
@@ -8373,7 +8350,6 @@ br.email.lifesum.com
 br.eml.walgreens.com
 br.inhaabit.com
 br.kent.co.in
-br.lgsmartad.com
 br.links.kmartphotos.com.au
 br.links.kodakmoments.com
 br.potato1.influitive.com
@@ -8632,7 +8608,6 @@ brycys.24mx.se
 bryurent.eccocar.com
 bs-ad-lgsmartad-com.aws-prd.net
 bs-pro-origin-pull.kwai.net.iberostar.com
-bs.lgsmartad.com
 bs.nakanohito.jp
 bs.yandex.ru
 bsbmex.flaschenpost.ch
@@ -8777,7 +8752,6 @@ byqdtp.interpark.com
 bysfnu.bodeboca.com
 byxcbk.ipekevi.com
 bz-ad-lgsmartad-com.aws-prd.net
-bz.lgsmartad.com
 bzaxgk.ecctur.com
 bzclk.baidu.com
 bzcuta.titleboxing.com
@@ -8888,7 +8862,6 @@ ca-ad-lgsmartad-com.aws-prd.net
 ca.clubavantages.net
 ca.connect.finning.com
 ca.creditacceptance.com
-ca.lgsmartad.com
 ca.macheq.com
 ca.mattamyhomes.com
 ca.ssl.holdmybeerconsulting.com
@@ -9114,7 +9087,6 @@ cctrkom.creditcards.com
 ccztgy.elgiganten.dk
 cd-ad-lgsmartad-com.aws-prd.net
 cd.chemistanddruggist.co.uk
-cd.lgsmartad.com
 cdanjoyner4374.myre.io
 cdapi.collegedunia.com
 cdeatz.spartoo.it
@@ -9158,7 +9130,6 @@ cdns.brsrvr.com
 cdnwidget.com
 cdp.cifinancial.com
 cdp.howtotrade.com
-cdpbeacon.lgtvcommon.com
 cdrive.compellent.com
 cdtm.cdiscount.com
 ceggfe.msc-kreuzfahrten.de
@@ -9188,7 +9159,6 @@ ceuswatcab02.blob.core.windows.net
 cf-pixelfront-analytics.widencdn.net
 cf.api.instant.one
 cf.campagnes-france.com
-cf.lgsmartad.com
 cf.overblog.com
 cfa.fidelity.com
 cfaexam.quantresear.ch
@@ -9199,7 +9169,6 @@ cfrnyp.kars4kids.org
 cfsaze.retailmenot.com
 cfyhym.weightwatchers.fr
 cg-ad-lgsmartad-com.aws-prd.net
-cg.lgsmartad.com
 cgctsw.mytour.vn
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
@@ -9210,7 +9179,6 @@ cgwebmetrics.capgroup.com
 ch-ad-lgsmartad-com.aws-prd.net
 ch-asimov-leafs-events-data.trafficmanager.net
 ch.credithypo.com
-ch.lgsmartad.com
 ch.sharpmarketing.eu
 ch0p.darty.com
 chademocharge.com
@@ -9291,7 +9259,6 @@ ci-ad-lgsmartad-com.aws-prd.net
 ci.intuit.ca
 ci.intuit.co.uk
 ci.intuit.com
-ci.lgsmartad.com
 ci.quickbooks.com
 ci42.rgp.com
 cicdserver.com
@@ -9352,7 +9319,6 @@ ckyhec.maxisport.com
 cl-ad-lgsmartad-com.aws-prd.net
 cl.canva.com
 cl.inhaabit.com
-cl.lgsmartad.com
 cl.t3n.de
 clammychicken.com
 cland.fyi
@@ -9672,7 +9638,6 @@ cm-jp.americanexpress.com
 cm-mms.coachmag.co.uk
 cm-sg.americanexpress.com
 cm.informaengage.com
-cm.lgsmartad.com
 cm.nordvpn.com
 cm.prodo.com
 cmass.massmedian.co.jp
@@ -9712,7 +9677,6 @@ cn-zh-ort-stsdk.vivoglobal.com
 cn-zh-prt-stsdk.vivoglobal.com
 cn-zh-stsdk.vivoglobal.com
 cn.adpinfo.com
-cn.lgsmartad.com
 cn.mywd.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
@@ -9788,7 +9752,6 @@ co-stsdk.vivoglobal.com
 co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
-co.lgsmartad.com
 coalkitchen.com
 coastersim.com
 coatfood.com
@@ -10573,7 +10536,6 @@ cqubdd.thisismoney.co.uk
 cqz6fn6aox.aporia.com
 cr-ad-lgsmartad-com.aws-prd.net
 cr-relay.com
-cr.lgsmartad.com
 crabbychin.com
 craftessays.com
 crafthenry.com
@@ -10716,7 +10678,6 @@ ctwqxs.autoscout24.at
 ctx.citiservi.es
 ctyjsf.cellphones.com.vn
 ctyojp.kibek.de
-cu.lgsmartad.com
 cubchannel.com
 cubeface.com
 cubeglobal.net
@@ -10817,7 +10778,6 @@ cv.jidoumail.com
 cv.joggo.jp
 cv.just-size.net
 cv.kuvings.jp
-cv.lgsmartad.com
 cv.liability.jp
 cv.masteraxis.com
 cv.meo.tryhatch.co.jp
@@ -10919,7 +10879,6 @@ cz-topgal.m-shop.me
 cz-trenyrkarna.m-shop.me
 cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
-cz.lgsmartad.com
 czdxto.radiopopular.pt
 cznfum.lumas.com
 cznluk.urbangymwear.co.uk
@@ -11798,7 +11757,6 @@ de-go.experian.com
 de-metalshop.m-shop.me
 de.bca-news.com
 de.contact.alphabet.com
-de.lgsmartad.com
 de.mywd.com
 de.pandora.xiaomi.com
 de.sharpmarketing.eu
@@ -12329,7 +12287,6 @@ distributors.balluff.com
 disturbedquiet.com
 dit.whatsapp.net.iberostar.com
 diypxh.tillys.com
-dj.lgsmartad.com
 djbztw.marimekko.com
 djmzap.gamivo.com
 djnqoe.rani.com.tr
@@ -12337,7 +12294,6 @@ djxjti.oil-stores.gr
 djxyhp.ashtondrake.com
 dk-ad-lgsmartad-com.aws-prd.net
 dk-go.experian.com
-dk.lgsmartad.com
 dkbicq.elektramat.nl
 dkclxi.sitkagear.com
 dkmvyl.kidsahoi.ch
@@ -12433,7 +12389,6 @@ dm-ad-lgsmartad-com.aws-prd.net
 dm-event.net
 dm-target.fishersci.com
 dm-target.thermofisher.com
-dm.lgsmartad.com
 dm.smfl.jp
 dm.syntelli.com
 dmarkconsulting.actonservice.com
@@ -12478,7 +12433,6 @@ dnxlgencstz4.cloudfront.net
 do-ad-lgsmartad-com.aws-prd.net
 do-not-tracker.org
 do.exaai.chat
-do.lgsmartad.com
 do.usefireside.com
 doabqu.s3.com.tw
 doagpm.promart.pe
@@ -12695,7 +12649,6 @@ dyqebg.aboutyou.hr
 dysbvu.bodyandfit.com
 dyzmpx.speedway.fr
 dz-ad-lgsmartad-com.aws-prd.net
-dz.lgsmartad.com
 dzbbzg.carfinance247.co.uk
 dzforp.buscape.com.br
 dzgwautxzdtn9.cloudfront.net
@@ -12970,7 +12923,6 @@ ebtxxz.travellink.se
 ebwupu.superbrightleds.com
 ebxirc.taylorstitch.com
 ec-ad-lgsmartad-com.aws-prd.net
-ec.lgsmartad.com
 ec.thredup.com
 ec.walkme.com
 ecctjf.leroymerlin.com.br
@@ -13072,7 +13024,6 @@ educontinua.javeriana.edu.co
 eduynp.fcl-hid.com
 ee-ad-lgsmartad-com.aws-prd.net
 ee.impactextend.dk
-ee.lgsmartad.com
 ee93.pandasuite.io
 eec.crunchyroll.com
 eecfrq.edreams.de
@@ -13108,7 +13059,6 @@ efuxqe.tatilbudur.com
 efwhcj.emp-shop.se
 efxzea.badshop.de
 eg-ad-lgsmartad-com.aws-prd.net
-eg.lgsmartad.com
 egbqvs.vila.com
 egdehs.selected.com
 eggexperts.com
@@ -13127,10 +13077,6 @@ ehtel.endress.com
 ehtelemetrystaging-alias.servicebus.windows.net
 ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
 ei.monday.com
-eic-ngfts.lge.com
-eic-ngfts.lge.com.edgekey.net
-eic-qt2-ngfts.lge.com
-eic-qt2-ngfts.lge.com.edgekey.net
 eicyds.qoo10.jp
 eifeou.pandahall.com
 eiftfa.fashionette.de
@@ -13934,7 +13880,6 @@ es-go.experian.com
 es-mktg.vodafone.com
 es-sa.siemensplmevents.com
 es.adpinfo.com
-es.lgsmartad.com
 es.lucanet.com
 es.sharpmarketing.eu
 esca-test.mno.link
@@ -13959,7 +13904,6 @@ estore.biscoind.com
 eswpwi.xlmoto.pl
 et-ad-lgsmartad-com.aws-prd.net
 et.educationdynamics.com
-et.lgsmartad.com
 et.nytimes.com
 et.sncf.com
 et.tidal.com
@@ -14634,7 +14578,6 @@ fhngty.vetsecurite.com
 fhqrnb.feelway.com
 fhrpqp.futfanatics.com.br
 fi-ad-lgsmartad-com.aws-prd.net
-fi.lgsmartad.com
 fi.on-channel.com
 fiawmk.empik.com
 fiber.zayo.com
@@ -15002,7 +14945,6 @@ fr-register.xmpush.global.xiaomi.com
 fr.adpinfo.com
 fr.contact.alphabet.com
 fr.feedback.xmpush.global.xiaomi.com
-fr.lgsmartad.com
 fr.lucanet.com
 fr.sharpmarketing.eu
 fraalb.cebanatural.com
@@ -15239,7 +15181,6 @@ ga-ad-lgsmartad-com.aws-prd.net
 ga-beacon.appspot.com
 ga-tracker-dot-detmir-bonus.appspot.com
 ga.groc.press
-ga.lgsmartad.com
 ga.nsimg.net
 ga.webdigi.co.uk
 gaafbi.fashiondays.hu
@@ -15273,7 +15214,6 @@ gay-hotvideo.net
 gb-ad-lgsmartad-com.aws-prd.net
 gb-asymbo.m-shop.me
 gb.click.finning.com
-gb.lgsmartad.com
 gba.kwm.com
 gbl.radware.com
 gblock.greenhousedata.com
@@ -15296,7 +15236,6 @@ gcudsn.tradetested.co.nz
 gcwubi.happypancake.fi
 gcxiyx.inspireuplift.com
 gd-ad-lgsmartad-com.aws-prd.net
-gd.lgsmartad.com
 gdfsrd.itslighting.kr
 gdg.gardnerdenver.com
 gdm1.toner.fr
@@ -15307,7 +15246,6 @@ gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
 gdt.qq.com
 ge-ad-lgsmartad-com.aws-prd.net
-ge.lgsmartad.com
 gea-exchange-03.net.jumia.ug
 gear.echovisuals.com
 gearbubbles.com
@@ -15539,7 +15477,6 @@ gg.vevor.com
 ggduev.cobone.com
 ggduzx.potterybarn.com.kw
 gh-ad-lgsmartad-com.aws-prd.net
-gh.lgsmartad.com
 gh.vsee.me
 ghd.vsee.me
 ghdlry.greetz.nl
@@ -15635,7 +15572,6 @@ glue.evansadhesive.com
 glxdlf.tickets.ua
 glzsji.nordman.ru
 gm-ad-lgsmartad-com.aws-prd.net
-gm.lgsmartad.com
 gmetrics.getbeamer.com
 gmmhlk.techstar.ro
 gmnameplate.actonservice.com
@@ -15652,7 +15588,6 @@ gmufag.starhit.ru
 gmufag.woman.ru
 gmxcdm.vestel.com.tr
 gn.informaengage.com
-gn.lgsmartad.com
 gnar.grammarly.com
 gnfjvt.radpowerbikes.com
 gnfqtz.smartphoto.se
@@ -16252,7 +16187,6 @@ gowestgroup.actonservice.com
 gowhiteowl.actonservice.com
 gozncj.stealthangelsurvival.com
 gp-ad-lgsmartad-com.aws-prd.net
-gp.lgsmartad.com
 gp.oddo-bhf.com
 gpiljd.thetiebar.com
 gpiyhj.leopalace21.com
@@ -16269,7 +16203,6 @@ gpsqnl.delsey.com
 gpukye.holabirdsports.com
 gpzhcc.lapeyre.fr
 gq-ad-lgsmartad-com.aws-prd.net
-gq.lgsmartad.com
 gqhfjr.sizeofficial.es
 gqjppj.rentcafe.com
 gqjrfv.autodoc.fi
@@ -16281,7 +16214,6 @@ gr-ad-lgsmartad-com.aws-prd.net
 gr-business.vodafone.com
 gr-go.experian.com
 gr.a23.in
-gr.lgsmartad.com
 gracefulmilk.com
 grado.ufv.es
 grafana-agent.cuboxx.io
@@ -16371,7 +16303,6 @@ gstat.pandora.xiaomi.com
 gsupplyair.carte-gr.total.fr
 gsyegj.shatura.com
 gt-ad-lgsmartad-com.aws-prd.net
-gt.lgsmartad.com
 gtglobal.intl.miui.com
 gtgvze.chintai.net
 gtm.diamond.jp
@@ -16432,7 +16363,6 @@ gxusko.pinkpanda.hu
 gxyaxf.pixartprinting.be
 gxyojn.underarmour.fr
 gy-ad-lgsmartad-com.aws-prd.net
-gy.lgsmartad.com
 gybles.shopee.ph
 gyehtm.thebridge.it
 gyqbrs.qvc.it
@@ -16749,7 +16679,6 @@ hjyfhi.misterspex.fi
 hk-ad-lgsmartad-com.aws-prd.net
 hk-go.experian.com
 hk-tracker.trafficmanager.net
-hk.lgsmartad.com
 hkj8.evobanco.com
 hksfkh.otomotoprofi.pl
 hkskqs.belvilla.fr
@@ -16781,7 +16710,6 @@ hmvbmf.vidaxl.es
 hmyjoj.5-fifth.com
 hmziwy.yearbookordercenter.com
 hn-ad-lgsmartad-com.aws-prd.net
-hn.lgsmartad.com
 hnibej.transat.com
 hnnuaa.willhaben.at
 hnpgjp.cyclemarket.jp
@@ -16804,7 +16732,6 @@ homecareresources.rosemarksystem.com
 homehardware.actonservice.com
 homelycrown.com
 homelyheater.com
-homeprv.lgtvcommon.com
 homerunfood.com
 homeslick.com
 homeyware.com
@@ -16866,7 +16793,6 @@ hqwtqa.intelligence-artificielle-school.com
 hqxbuy.rugs-direct.com
 hr-ad-lgsmartad-com.aws-prd.net
 hr.adp.ca
-hr.lgsmartad.com
 hra.nyp.org
 hrbitov.viessmann.cz
 hrcpql.candymagic.jp
@@ -16891,7 +16817,6 @@ hstats.hepsiburada.com
 hstatstest.hepsiburada.com
 hsvrww.plain-me.com
 hswgqa.jmsc.co.jp
-ht.lgsmartad.com
 htc.oaken.com
 htcnbx.odkarla.cz
 htewng.plesio.bg
@@ -16904,7 +16829,6 @@ httr.redskins.com
 hu-ad-lgsmartad-com.aws-prd.net
 hu-business.vodafone.com
 hu-topgal.m-shop.me
-hu.lgsmartad.com
 hu.sharpmarketing.eu
 huaxiang.eastmoney.com
 hub.firestonecompleteautocare.com
@@ -17075,7 +16999,6 @@ id-analyzer-appstore.vivoglobal.com
 id-third-appstore.vivoglobal.com
 id-ward.com
 id.a-mx.com
-id.lgsmartad.com
 id.nbcuni.com
 id.push.heytapmobi.com
 idbkfy.kango-roo.com
@@ -17110,7 +17033,6 @@ ie-ad-lgsmartad-com.aws-prd.net
 ie-business.vodafone.com
 ie-go.experian.com
 ie-mktg.vodafone.com
-ie.lgsmartad.com
 ieeowa.marcjacobsbeauty.com
 iefiop.raizs.com.br
 ieg.intel.com
@@ -17178,7 +17100,6 @@ ikdxfh.jollyroom.se
 ikneio.aquantindia.com
 ikvjvw.pharma.mynavi.jp
 il-ad-lgsmartad-com.aws-prd.net
-il.lgsmartad.com
 ilepwo.bonprix.at
 ilfmju.right-on.co.jp
 ilinks.petalcard.com
@@ -17831,7 +17752,6 @@ in.applicationinsights.azure.cn
 in.applicationinsights.azure.us
 in.brilliant.org
 in.invitd.us
-in.lgsmartad.com
 in.treasuredata.com
 in.tv.global.mi.com
 in.upipr.co
@@ -18887,7 +18807,6 @@ ipv4-cs.intsig.net.iberostar.com
 ipyjxs.chowsangsang.com
 iq-ad-lgsmartad-com.aws-prd.net
 iq.intellicyt.com
-iq.lgsmartad.com
 iq.sixaxisllc.com
 iqbjqv.airarabia.com
 iqcxki.johosokuhou.com
@@ -18933,7 +18852,6 @@ ir-na.amazon-adsystem.com
 ir-nl.amazon-adsystem.com
 ir-tracking.trafficmanager.net
 ir-uk.amazon-adsystem.com
-ir.lgsmartad.com
 iready.curriculumassociates.com
 irelandroad.com
 irfiqx.babyneeds.ro
@@ -18949,7 +18867,6 @@ irurng.wondershare.jp
 is-ad-lgsmartad-com.aws-prd.net
 is-log.furunavi.jp
 is.lg.com
-is.lgsmartad.com
 isac.thermofisher.com
 isbamic.actonservice.com
 isbworld.aon.com
@@ -18970,7 +18887,6 @@ isovav.akomeya.jp
 it-ad-lgsmartad-com.aws-prd.net
 it-business.vodafone.com
 it-go.experian.com
-it.lgsmartad.com
 it.sharpmarketing.eu
 itemslice.com
 iterable.convoy.com
@@ -19154,7 +19070,6 @@ jln3.clstudios.com
 jlnyti.mugo.com.tr
 jly24aw29n5m-a.akamaihd.net
 jm-ad-lgsmartad-com.aws-prd.net
-jm.lgsmartad.com
 jmcnwr.bricoprive.com
 jmvmrv.e-davidwalker.com
 jn23.madeindesign.ch
@@ -19164,7 +19079,6 @@ jnkqnf.cifraclub.com.br
 jnkqnf.palcomp3.com.br
 jnzedp.his-j.com
 jo-ad-lgsmartad-com.aws-prd.net
-jo.lgsmartad.com
 jo2f.cheque-cadhoc.fr
 jobappplus.actonservice.com
 joblessdrum.com
@@ -19256,7 +19170,6 @@ joyouspool.com
 joyoussurprise.com
 jp-ad-lgsmartad-com.aws-prd.net
 jp-go.experian.com
-jp.lgsmartad.com
 jp.ppgamingproxy.lol
 jpaatr.astellas.jp
 jpfufu.xlmoto.co.uk
@@ -19430,7 +19343,6 @@ kdpxgr.travellink.no
 kdqytm.vipre.com
 kdtbpt.brogsitter.de
 ke-ad-lgsmartad-com.aws-prd.net
-ke.lgsmartad.com
 kebpln.darngoodyarn.com
 keenquill.com
 kennisdomein.pqr.com
@@ -19450,7 +19362,6 @@ keynotegroup.actonservice.com
 kftfhp.furusato-tax.jp
 kg-ad-lgsmartad-com.aws-prd.net
 kg-legacy-analytics.servicebus.windows.net
-kg.lgsmartad.com
 kgbokc.masrefacciones.mx
 kgmmfk.galcomi.jp
 kgqxzw.blue-tomato.com
@@ -19462,9 +19373,6 @@ khfyas.bellybandit.com
 khgtwn.reifendirekt.de
 khimxz.shoesforcrews.com
 khiurx.tigerdirect.com
-kic-ngfts.lge.com
-kic-ngfts.lge.com.edgekey.net
-kic-qt2-ngfts.lge.com
 kiddbs.baby-calendar.jp
 kidpowers.com
 kidrobotgames.com
@@ -19516,7 +19424,6 @@ klwuhp.daehyuninside.com
 km.rightanswers.com
 kmqghr.bristolshop.be
 kmqhmn.helen-marlen.com
-kn.lgsmartad.com
 kn81kivjwwc7.www.logology.co
 knapia.weightwatchers.com
 knewpenny.com
@@ -19560,7 +19467,6 @@ kqvtez.watt24.com
 kqzbph.zerohedge.com
 kr-ad-lgsmartad-com.aws-prd.net
 kr-go.experian.com
-kr.lgsmartad.com
 kraken.rambler.ru
 kratosdefense.actonservice.com
 krgoad.mauboussin.fr
@@ -19592,7 +19498,6 @@ kvnkjd.kaigoshoku.mynavi.jp
 kvskic.jadore-jun.jp
 kvt5.blesscollectionhotels.com
 kw-ad-lgsmartad-com.aws-prd.net
-kw.lgsmartad.com
 kwalnc.vans.co.kr
 kwbpge.jra-van.jp
 kwgs.letudiant.fr
@@ -19608,7 +19513,6 @@ kxbqbq.amicafarmacia.com
 kxkvpn.josera.de
 kxmrwu.ibarakinews.jp
 kxtqgp.mistermenuiserie.com
-ky.lgsmartad.com
 kydcwp.landwirt.com
 kygelf.ludwig-von-kapff.de
 kyjoyk.modoza.com
@@ -19630,7 +19534,6 @@ kz-st-sysupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
-kz.lgsmartad.com
 kzhesi.corcoran.com
 kzmual.superga.com
 kzsicw.chip.de
@@ -19831,7 +19734,6 @@ lazylivingroom.com
 lazypecan.com
 lb-ad-lgsmartad-com.aws-prd.net
 lb.billing01.email-allstate.com
-lb.lgsmartad.com
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
 lb.service01.email-allstate.com
@@ -19842,7 +19744,6 @@ lbnrrh.autouncle.dk
 lbs-samsung.swypeconnect.com
 lbv5.mperf.com
 lc-event.pixiv.net
-lc.lgsmartad.com
 lcdsyj.daily.co.jp
 lcefua.timberland.ru
 lciapi.ninthdecimal.com
@@ -19963,6 +19864,8 @@ lg-bgp-misc.pandora.xiaomi.com
 lgads.tv
 lgbdxo.azazie.com
 lgm.averydennison.com
+lgsmartad.com
+lgtvcommon.com
 lgylib.dg-home.ru
 lgzkzp.bauhaus.at
 lh.bigcrunch.com
@@ -20911,7 +20814,6 @@ ljqpvo.hardrock.com
 ljyipz.nugnes1920.com
 ljzxdu.largus.fr
 lk-ad-lgsmartad-com.aws-prd.net
-lk.lgsmartad.com
 lk.parisfoodies.fr
 lk.vrstories.com
 lkhrtf.beveragefactory.com
@@ -21398,7 +21300,6 @@ lqpzdi.coppel.com
 lqsowt.mona-mode.fr
 lqvfkk.sosyopix.com
 lqxjrk.fbs.com
-lr.lgsmartad.com
 lravwm.spa.cz
 lrdnuu.shopee.co.th
 lrdxki.hakutou-shop.com
@@ -21423,7 +21324,6 @@ lspfuw.siwonschool.com
 lsv5.belambra.fr
 lswfmx.stuartweitzman.com
 lt-ad-lgsmartad-com.aws-prd.net
-lt.lgsmartad.com
 ltam2.secureforms.mcafee.com
 ltcmak.alodokter.com
 ltcnetwork.mhainc.com
@@ -21442,7 +21342,6 @@ ltsveh.wetteronline.de
 ltycia.ba-sh.com
 ltzpth.sephora.fr
 lu-ad-lgsmartad-com.aws-prd.net
-lu.lgsmartad.com
 luaqlg.blissy.com
 lub-links.eyecue.io
 lucanet.actonservice.com
@@ -21473,7 +21372,6 @@ luwzem.skala.nl
 luxformula.com
 luzfpa.dltviaggi.it
 lv-ad-lgsmartad-com.aws-prd.net
-lv.lgsmartad.com
 lv6od3a4sz12.www.logology.co
 lvidqa.unisportstore.de
 lvivsu.peterhahn.de
@@ -21507,7 +21405,6 @@ lxwasy.tatragarden.ua
 lxwysd.hirmer.de
 lxztgb.musee-pla.com
 ly-ad-lgsmartad-com.aws-prd.net
-ly.lgsmartad.com
 ly8c.caci-online.fr
 lydallpm.actonservice.com
 lyegyo.bluenile.com
@@ -21617,7 +21514,6 @@ ma.hmhco.com
 ma.kyloepartners.com
 ma.lekab.com
 ma.lexicon.se
-ma.lgsmartad.com
 ma.logsss.com
 ma.meritgo.se
 ma.meritmind.se
@@ -23613,7 +23509,6 @@ me-ad-lgsmartad-com.aws-prd.net
 me.apple-dns.net
 me.coact.org.au
 me.glamhive.com
-me.lgsmartad.com
 me.sigsauer.com
 meadowlullaby.com
 meanwellaustralia.actonservice.com
@@ -25302,7 +25197,6 @@ metrix.youravon.com
 mexico.balluff.com
 meylercapital.actonservice.com
 meypeg.videdressing.com
-mf.lgsmartad.com
 mfamcw.sodexobeneficios.com.br
 mfd.myfirstdressing.com
 mff.messefrankfurt.com
@@ -25451,7 +25345,6 @@ mjzkws.marcovasco.fr
 mk-ad-lgsmartad-com.aws-prd.net
 mk.appwebel.com
 mk.convera.com
-mk.lgsmartad.com
 mkg.colfondos.co
 mklik.gazeta.pl
 mkltfc.atgp.jp
@@ -25506,7 +25399,6 @@ mkztpk.invictastores.com
 ml-ad-lgsmartad-com.aws-prd.net
 ml-sys.xyz
 ml.houzz.com
-ml.lgsmartad.com
 mla3.societegenerale.fr
 mlc.martela.se
 mlfolu.nabava.net
@@ -25526,7 +25418,6 @@ mm-ad-lgsmartad-com.aws-prd.net
 mm-api.agency
 mm-sdk-analytics.api.cx.metamask.io
 mm-uxrv.com
-mm.lgsmartad.com
 mm.melia.com
 mm.morrellinc.com
 mm.openapp.link
@@ -25697,7 +25588,6 @@ mpgtft.zoobeauval.com
 mpjtif.viabovag.nl
 mprkxf.teebooks.com
 mpstech.space
-mq.lgsmartad.com
 mqesfg.bpm-power.com
 mqhaxf.keds.com
 mqhuzk.soffadirekt.se
@@ -25713,7 +25603,6 @@ mqwqas.marketbio.pl
 mqzoid.vintorte.com
 mr-ad-lgsmartad-com.aws-prd.net
 mr.homedepot.ca
-mr.lgsmartad.com
 mre6.destinia.ma
 mri.iradimed.com
 mrksmm.yumegazai.com
@@ -25722,7 +25611,6 @@ mrpdata.net
 ms-trackingapi.phenompeople.com
 ms.dzen.ru
 ms.informaengage.com
-ms.lgsmartad.com
 ms.topschooljobs.org
 ms.vk.com
 ms.vk.ru
@@ -25833,7 +25721,6 @@ mvc.shopjapan.co.jp
 mvjkbj.2-carat.net
 mvjkbj.inazumanews2.com
 mw-ind.actonservice.com
-mw.lgsmartad.com
 mwa.meanwellaustralia.com.au
 mwbhkv.plasico.bg
 mwbilx.pisos.com
@@ -25861,7 +25748,6 @@ mx.carte-gr.total.fr
 mx.eneba.com
 mx.happ.social
 mx.information.maileva.com
-mx.lgsmartad.com
 mx.mywd.com
 mx2.carte-gr.total.fr
 mx2.happ.social
@@ -25890,7 +25776,6 @@ my.internationalsos.com
 my.iso.com
 my.kace.com
 my.kpmg.ca
-my.lgsmartad.com
 my.likeo.fr
 my.macu.com
 my.ndge.co
@@ -26155,6 +26040,7 @@ newsletters.bancsabadell.com
 newsuccesssecret.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
+nextlgsdp.com
 nexttopchef.com
 nexus.officeapps.live.com
 nexusrules.live.com
@@ -26166,7 +26052,6 @@ nfmvsq.giuseppezanotti.com
 nfptar.giordanoshop.com
 nfudeh.jadebag.co.kr
 ng-ad-lgsmartad-com.aws-prd.net
-ng.lgsmartad.com
 ngazee.novostroy-m.ru
 ngc1.nsm-corp.com
 ngcbjq.frecuento.com
@@ -26182,7 +26067,6 @@ nhlvvh.sawadee.nl
 nhnazx.outdoorlook.co.uk
 nhqkbl.semilac.pl
 ni-ad-lgsmartad-com.aws-prd.net
-ni.lgsmartad.com
 ni8.lafuma-boutique.com
 ni8.lafuma.com
 niblewren.co
@@ -26223,7 +26107,6 @@ nl-ad-lgsmartad-com.aws-prd.net
 nl-go.experian.com
 nl-nl.coloplastcare.com
 nl.aon.com
-nl.lgsmartad.com
 nl.rcd.ptqy.gitv.tv
 nlbukc.babyworld.se
 nlf6.vente-unique.pl
@@ -26253,7 +26136,6 @@ nnqyed.laredoute.be
 nntgna.dmm.com
 nnvoia.closetworld.com
 no-ad-lgsmartad-com.aws-prd.net
-no.lgsmartad.com
 no9pldds1lmn3.soundcloud.com
 noa.yahoo.com
 noa0.compteczam.fr
@@ -26411,7 +26293,6 @@ nturnm.unisport.dk
 nu.esri.nl
 nucgsx.indestructibleshoes.com
 nucleararea.com
-nudge.lgtvcommon.com
 nudgeduck.com
 nukktn.dorko.hu
 nullnorth.com
@@ -26455,7 +26336,6 @@ nyuyiw.linea-storia.co.kr
 nyvknh.compracerta.com.br
 nz-ad-lgsmartad-com.aws-prd.net
 nz-go.experian.com
-nz.lgsmartad.com
 nzbusiness.vodafone.co.nz
 nzmkzl.mytheresa.com
 nzqrfa.hushpuppies.com
@@ -26695,7 +26575,6 @@ om.hoteles.com
 om.hotels.cn
 om.hotwire.com
 om.lds.org
-om.lgsmartad.com
 om.medreps.com
 om.norton.com
 om.owenscorning.com
@@ -27296,7 +27175,6 @@ p7cloud.net
 p7h1silo3f.app.cainthus.com
 pa-ad-lgsmartad-com.aws-prd.net
 pa-stats.encore.dev
-pa.lgsmartad.com
 pa.opqr.co
 pa.pinpoll.com
 pa.travelwhiz.app
@@ -27541,7 +27419,6 @@ pdsgaj.piquadro.com
 pduwvp.chanti.dk
 pdzutf.sftworks.jp
 pe-ad-lgsmartad-com.aws-prd.net
-pe.lgsmartad.com
 pe.txbe.at
 peacefullimit.com
 peakcreator.com
@@ -27644,7 +27521,6 @@ pgtus6-excel-telemetry-vip.officeapps.live.com
 pgtus6-powerpoint-telemetry-vip.officeapps.live.com
 pgtus6-word-telemetry-vip.officeapps.live.com
 ph-ad-lgsmartad-com.aws-prd.net
-ph.lgsmartad.com
 phadia.thermo.com
 phadia.thermofisher.com
 phbnix.rocelec.com
@@ -27824,7 +27700,6 @@ pjstat.com
 pjtshn.floraprima.de
 pjtxmd.epool.ru
 pk-ad-lgsmartad-com.aws-prd.net
-pk.lgsmartad.com
 pk1u.melanielyne.com
 pkc5.hardrockhoteltenerife.com
 pkdimy.shoptime.com.br
@@ -27855,7 +27730,6 @@ pl.hitthefrontpage.com
 pl.kanbanmail.app
 pl.kis-nagy.art
 pl.letsblock.it
-pl.lgsmartad.com
 pl.maya-astro.fi
 pl.mynorthstarapp.com
 pl.sharpmarketing.eu
@@ -28165,7 +28039,6 @@ pr.blogflux.com
 pr.cision.co.uk
 pr.cision.com
 pr.cision.fi
-pr.lgsmartad.com
 pr.nss.netease.com
 pr.prnewswire.co.uk
 pr.prnewswire.com
@@ -28397,7 +28270,6 @@ ps-eu.amazon-adsystem.com
 ps-fe.amazon-adsystem.com
 ps-jp.amazon-adsystem.com
 ps-us.amazon-adsystem.com
-ps.lgsmartad.com
 ps.pmu.fr
 psbiaf.converse.com
 psfcnf.ochsnersport.ch
@@ -28419,7 +28291,6 @@ pt.crossmediaservices.com
 pt.dwcdn.net
 pt.ispot.tv
 pt.legalstart.fr
-pt.lgsmartad.com
 ptlpel.tui.at
 ptmcos.beginning.kr
 ptmi.gitv.pandora.xiaomi.com
@@ -28522,7 +28393,6 @@ pxsg.pandora.com
 pxvlcc.crocs.fr
 pxxhbz.apamanshop.com
 py-ad-lgsmartad-com.aws-prd.net
-py.lgsmartad.com
 pydnsv.ejobs.ro
 pylon.micstatic.com
 pyouad.autonvaraosat24.fi
@@ -28552,7 +28422,6 @@ qa-events-schema.viacom.tech
 qa-go.ebat.es
 qa-link.californiapsychics.com
 qa-prod.branch.rocks
-qa.lgsmartad.com
 qaapp.forever21.com
 qaghzg.planteon.pl
 qago.qiagen.com
@@ -28681,8 +28550,6 @@ qrtqsy.freshlycosmetics.com
 qrvsnt.citygrounds.com
 qsahny.smartbuyglasses.dk
 qswdme.modnakiecka.pl
-qt2-ngfts.lge.com
-qt2-ngfts.lge.com.edgekey.net
 qt5jl7r111h7.allesvoormijnvakantie.nl
 qtbaye.mona.ch
 qtdkfh.beautywelt.de
@@ -28896,7 +28763,6 @@ rd.alice.it
 rdc.rachatdecredit.net
 rddiqs.partyhallen.se
 rdfine.camelbrown.com
-rdl.lgtvcommon.com
 rdlrbm.studying.jp
 rdvxxx.crushj.com
 re-ad-lgsmartad-com.aws-prd.net
@@ -29387,7 +29253,6 @@ rnyhid.pepperfry.com
 ro-ad-lgsmartad-com.aws-prd.net
 ro-go.experian.com
 ro-up.vivoglobal.com
-ro.lgsmartad.com
 roaddynamics.com
 roadsagain.com
 roamhousing.com
@@ -29456,7 +29321,6 @@ rrxldl.bol.de
 rrznha.lanvin-en-bleu.com
 rs-ad-lgsmartad-com.aws-prd.net
 rs.adpinfo.com
-rs.lgsmartad.com
 rs.mail.ru
 rs.sinajs.cn
 rs.smc.tf
@@ -29603,11 +29467,9 @@ ru-vcode-api.vivoglobal.com
 ru-vcode-od.vivoglobal.com
 ru-vcode-or.vivoglobal.com
 ru.feedback.xmpush.global.xiaomi.com
-ru.lgsmartad.com
 ru.video.intl.xiaomi.com
 rubouthunger.com
 rubyswinehouse.com
-ruc-ngfts.lge.com
 rudder-tracking.rudderstack.com
 rugttt.robinson.com
 ruhpbn.zhigaojixie.com
@@ -29657,7 +29519,6 @@ rvtwqp.winparts.se
 rvv.emol.com
 rvz9.destinia.co.ro
 rw-ad-lgsmartad-com.aws-prd.net
-rw.lgsmartad.com
 rw.marchex.io
 rwdito.carsguide.com.au
 rwevib.harmontblaine.com
@@ -29894,7 +29755,6 @@ sa.hgtv.com
 sa.investigationdiscovery.com
 sa.kolik.cz
 sa.lesselectionsskoda.fr
-sa.lgsmartad.com
 sa.oprah.com
 sa.recoding.tech
 sa.reebok.co.uk
@@ -30698,7 +30558,6 @@ scuzgq.greencell.global
 scvgzt.onequince.com
 sd-ad-lgsmartad-com.aws-prd.net
 sd-tagging.azurefd.net
-sd.lgsmartad.com
 sd.securitasdirect.fr
 sdata.avid.com
 sdata.chelseafc.com
@@ -30741,7 +30600,6 @@ sdtagging.azureedge.net
 se-ad-lgsmartad-com.aws-prd.net
 se-go.experian.com
 se-se.siemensplmevents.com
-se.lgsmartad.com
 se.netpartnering.com
 sea-log-rcv.vansound.com
 seadform.net
@@ -31507,7 +31365,6 @@ sg-ad-lgsmartad-com.aws-prd.net
 sg-cfg-stsdk.vivoglobal.com
 sg-go.experian.com
 sg.carousellmotors.com
-sg.lgsmartad.com
 sg.lucanet.com
 sg3.notarize.com
 sgali-mcs.byteoversea.com
@@ -31703,7 +31560,6 @@ shrillspoon.com
 shtptt.cupshe.com
 shydinosaurs.com
 si-ad-lgsmartad-com.aws-prd.net
-si.lgsmartad.com
 si.ptqy.gitv.tv
 sia.internet.apps.samsung.com
 siazlw.cetroloja.com.br
@@ -31838,7 +31694,6 @@ sk-ad-lgsmartad-com.aws-prd.net
 sk-batteryimport.m-shop.me
 sk-sanasport.m-shop.me
 sk-topgal.m-shop.me
-sk.lgsmartad.com
 sk0.monnierfreres.eu
 skaffa.tidyapp.se
 skbnfa.filorga.com
@@ -31860,7 +31715,6 @@ skullteeth.com
 skxbbj.clasic.jp
 skylightdata.com
 sl-ad-lgsmartad-com.aws-prd.net
-sl.lgsmartad.com
 sl.trycircle.com
 slackb.com
 slackpod.com
@@ -35001,7 +34855,6 @@ smwvlc.intermixonline.com
 smxmlr.shimojima.jp
 smy.iheart.com
 sn-ad-lgsmartad-com.aws-prd.net
-sn.lgsmartad.com
 snacksalive.com
 snacktoken.com
 snakenecklace.com
@@ -35595,7 +35448,6 @@ squirrel.malaynahocker.com
 squishybears.com
 squishykiosk.com
 sr-ad-lgsmartad-com.aws-prd.net
-sr.lgsmartad.com
 sr59t7wbx5.claricelin.com
 sra-px.cdn-fileserver.com
 src.freshmarketer.in
@@ -37730,7 +37582,6 @@ suunta.visma.fi
 suxqvc.pinksisly.com
 suydnc.wwf.it
 sv-ad-lgsmartad-com.aws-prd.net
-sv.lgsmartad.com
 svc2.sc.com
 svibeacon.onezapp.com
 svmarketing.destinationtoronto.com
@@ -37952,7 +37803,6 @@ sy-ad-lgsmartad-com.aws-prd.net
 sy.ameba.jp
 sy.amebame.com
 sy.ameblo.jp
-sy.lgsmartad.com
 sy57d8wi.com
 syfwnf.society6.com
 syllablesight.com
@@ -38810,7 +38660,6 @@ tc.europcar.com
 tc.europcar.com.au
 tc.europcar.de
 tc.geniusmonkey.com
-tc.lgsmartad.com
 tc2.hometogo.net
 tcbtus.opodo.com
 tccjxk.123.ru
@@ -39112,7 +38961,6 @@ tfpeev.chanluu.com
 tfunqc.domonet.jp
 tfuodg.memolife.de
 tg-ad-lgsmartad-com.aws-prd.net
-tg.lgsmartad.com
 tgbfha.lily-brw.com
 tgirgs.flinders.nl
 tgmklw.productreview.com.au
@@ -39127,7 +38975,6 @@ tgw.gmx.net
 tgw.web.de
 th-ad-lgsmartad-com.aws-prd.net
 th-go.experian.com
-th.lgsmartad.com
 thanecityfc.spyn.co
 thanks.hubspaces.jp
 thanks.olivesitter.com
@@ -39377,7 +39224,6 @@ tk.kusmitea.com
 tk.lacoste.com
 tk.lamaisonduchocolat.com
 tk.lcl.fr
-tk.lgsmartad.com
 tk.little-big-change.com
 tk.lolivier.fr
 tk.lulli-sur-la-toile.com
@@ -39483,7 +39329,6 @@ tmx.td.com
 tmxjdr.benaza.ro
 tmy8.madeindesign.ch
 tn-ad-lgsmartad-com.aws-prd.net
-tn.lgsmartad.com
 tnc-boot.capcutapi.com
 tnc-boot.tiktokv.com
 tnc-sg.capcutapi.com
@@ -40240,7 +40085,6 @@ tr.lettre.dechets-infos.com
 tr.lettre.helianthal.fr
 tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com
-tr.lgsmartad.com
 tr.liberation.espmp-aufr.net
 tr.livrephoto.espmp-aufr.net
 tr.loreal.ifop.com
@@ -42397,7 +42241,6 @@ tss.sport2000.fr
 tst-link-ccontact.focuscura.com
 tswafl.lascana.nl
 tt-ad-lgsmartad-com.aws-prd.net
-tt.lgsmartad.com
 tt.natwest.com
 tt.pluralsight.com
 tt.rbs.co.uk
@@ -42438,7 +42281,6 @@ tvuaeb.taqi.com.br
 tw-ad-lgsmartad-com.aws-prd.net
 tw-go.experian.com
 tw.cx
-tw.lgsmartad.com
 tw.reppublika.com
 tw.spiriteq.com
 twdhec.marioeletro.com
@@ -42490,7 +42332,6 @@ tytpdz.climamarket.it
 tyumen.net.anwalt.de
 tyvuwf.lameteoagricole.net
 tz-ad-lgsmartad-com.aws-prd.net
-tz.lgsmartad.com
 tzgurwizule3.app.cardahealth.com
 tzovkp.aboutyou.at
 u-id.cpc.heytapmobile.com
@@ -42512,7 +42353,6 @@ u652.myplainview.com
 u927.sfgate.com
 ua-ad-lgsmartad-com.aws-prd.net
 ua.indianexpress.com
-ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
@@ -42590,7 +42430,6 @@ ufsmcn.blackspade.com.tr
 ufwsfi.magasins-u.com
 ug-ad-lgsmartad-com.aws-prd.net
 ug-sg.byteoversea.com
-ug.lgsmartad.com
 ug.snssdk.com
 ugdcxl.timeout.com
 ugdcxl.timeout.com.hk
@@ -42841,7 +42680,6 @@ us-marketing.roxtec.com
 us-mesh-events-data-leafs.trafficmanager.net
 us-now.experian.com
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
-us.lgsmartad.com
 us.lucanet.com
 us.mattamyhomes.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
@@ -43309,12 +43147,10 @@ uxplora.davivienda.com
 uxqzcu.raunt.com
 uxtqtg.quattroruote.it
 uy-ad-lgsmartad-com.aws-prd.net
-uy.lgsmartad.com
 uyivht.robertgraham.us
 uylodc.ecosa.com.au
 uyupgd.goalzero.com
 uz-ad-lgsmartad-com.aws-prd.net
-uz.lgsmartad.com
 uzd1.madeindesign.com
 uzevnf.realtystore.com
 uzhobt.wholesalemarine.com
@@ -43384,7 +43220,6 @@ vdslnp.highkey.com
 vdvdjf.remotepc.com
 vdzrjr.kenminkyosai.or.jp
 ve-ad-lgsmartad-com.aws-prd.net
-ve.lgsmartad.com
 ve.velocityclinical.com
 vectorshirt.com
 vedznh.cumhuriyet.com.tr
@@ -43450,7 +43285,6 @@ vfwm-us-west.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfws.amazon-adsystem.com
-vg.lgsmartad.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
@@ -43475,7 +43309,6 @@ vhs.wwstat.com.ctdns.cn
 vhs.wwstat.com.eo.dnse0.com
 vhs.wwstat.com.eo.unicomcdn.com.cn
 vi.adviso.ca
-vi.lgsmartad.com
 via.ssl.holdmybeerconsulting.com
 vibrantcelebration.com
 vibrantgale.com
@@ -43603,7 +43436,6 @@ vmsxzx.buienradar.nl
 vmwody.seibu-k.co.jp
 vmzqqmlpwwmazjnio.com
 vn-ad-lgsmartad-com.aws-prd.net
-vn.lgsmartad.com
 vnl1.voyage-prive.nl
 vnlvxi.vivastreet.co.uk
 vnmopn.brax.com
@@ -44261,7 +44093,6 @@ wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
 wirjoi.meetsmore.com
-wiseconfig.lgtvcommon.com
 wisedotcom.com
 wispycity.com
 wissen.sage.de
@@ -45389,7 +45220,6 @@ ydtzzw.tuttonapoli.net
 ydtzzw.vocegiallorossa.it
 ydvsok.newbalance.jp
 ye-ad-lgsmartad-com.aws-prd.net
-ye.lgsmartad.com
 yebvpc.gardengoodsdirect.com
 yefktd.avito.ru
 yehyqc.hugoboss.com
@@ -45619,7 +45449,6 @@ z89yxner8h.datsumou-beauty-times.com
 za-ad-lgsmartad-com.aws-prd.net
 za-go.experian.com
 za-p.vivoglobal.com
-za.lgsmartad.com
 za.qeeq.com
 za.zalo.me
 za.zdn.vn
@@ -45734,7 +45563,6 @@ zlm2.ecetech.fr
 zlp6s.pw
 zlvxiw.medicarelife.com
 zm-ad-lgsmartad-com.aws-prd.net
-zm.lgsmartad.com
 zmetrics.boston.com
 zmetrics.msn.com
 zmfdxt.megastudy.net
