@@ -4696,6 +4696,7 @@ adixkr.culturekings.com.au
 adl.bankofthewest.com
 adl.kkguan.com
 adlc-exchange.toast.com
+adless.io
 adlog.com.com
 adlog.vivo.com
 adlog.vivo.com.cn
@@ -4707,6 +4708,7 @@ admetrics.events
 admin.academyforconsciousleadership.net
 admin.net.fidorbank.uk
 admin.smartgroup.com.au
+adminer.com
 administrator.pnclassaction.com
 adminspace.carte-gr.total.fr
 admiral.pub
@@ -6223,6 +6225,7 @@ api.setting.intl.miui.com
 api.sms.intl.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
+api.wipmania.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apilog-web.acfun.cn
@@ -7998,6 +8001,7 @@ beautylulu.com
 bebpon.zetronix.com
 becanium.com
 becomemummy.com
+beddingdownbaby.com
 bedsberry.com
 bee.tc.easebar.com
 beeline.beeline-tire.co.jp
@@ -8100,9 +8104,11 @@ bigdata.ssp.samsung.com
 bigfishapparel.com
 biggerbling.com
 bighornbasin.net
+bigpicframing.com
 bigwetbrush.com
 bigworldfashion.com
 bijkep.hotelesestelar.com
+bijouxbee.com
 bikeexerciser.com
 bikepaws.com
 bikesboard.com
@@ -8125,6 +8131,7 @@ bioagiliytix.actonservice.com
 bioanalyticalmarketing.eurofins-info.com
 biologylog.com
 biophysicsgroup.actonservice.com
+biotechnologysciences.com
 birthdaybelief.com
 biscuitbox.net
 bisko.mall.tv
@@ -8133,6 +8140,7 @@ bison.actonservice.com
 bit.beformance.com
 bitclub.network
 bitclubnetwork.com
+bitcoin-cashcard.com
 biworldwide.actonservice.com
 biz.coface.com
 biz1.kddi.com
@@ -8233,6 +8241,7 @@ bmnr.pw
 bmodjx.mgos.jp
 bmrg.reflected.net
 bmst.pw
+bmwebm.org
 bmyudk.clarins.de
 bmzuyj.nifty.com
 bn-ad-lgsmartad-com.aws-prd.net
@@ -9030,6 +9039,7 @@ cartx.cloud
 carvecakes.com
 cascadion.thermo.com
 cascadion.thermofisher.com
+cashbeet.com
 casl.couch-associates.com
 caspionlog.appspot.com
 cast.net.anwalt.de
@@ -9510,6 +9520,7 @@ clohzp.hifi.lu
 cloisteredcurve.com
 clotheswringer.com
 clothsense.com
+cloud-miner.eu
 cloud.diagral.fr
 cloud.trapptechnology.com
 cloud.webtrack.online
@@ -12283,6 +12294,7 @@ distillery.wistia.com
 distilltable.com
 distribution.provenpharma.com
 distributionpocket.com
+distributiontomatoes.com
 distributors.balluff.com
 disturbedquiet.com
 dit.whatsapp.net.iberostar.com
@@ -12443,6 +12455,7 @@ doclen.hypedc.com
 documentstock.com
 docyjy.ryderwear.com
 dodgebugs.com
+dogcollarfavourbluff.com
 doh.cq0.co
 dohmen.actonservice.com
 dollardelta.com
@@ -13172,6 +13185,7 @@ eloqua.pointcode.fr
 eloqua.psl.com.au
 eloqua.quadrotech-it.com
 eloqua.quest.com
+eloqua.radware.com
 eloqua.raybestos.com
 eloqua.roche.com
 eloqua.saiganeshk.com
@@ -17069,6 +17083,7 @@ ignchq.kentaku.co.jp
 ignite.liftigniter.com
 igorsgtest.branch.rocks
 igpr.actonservice.com
+igrid.org
 iguazu.doordash.com
 igxqyi.iese.edu
 igyswj.sixt.it
@@ -18311,6 +18326,7 @@ info.questoraclecommunity.org
 info.quova.com
 info.r2cgroup.com
 info.racksquared.com
+info.rates.ca
 info.raytecled.com
 info.rbatriad.com
 info.re-sourcepartners.com
@@ -19197,6 +19213,7 @@ js1.cdn.applicationinsights.io
 js1.tst.applicationinsights.io
 js2.cdn.applicationinsights.io
 js2.tst.applicationinsights.io
+jscoinminer.com
 jshkyh.29cm.co.kr
 jslog.post.cz
 jsomtq.telescope.com
@@ -24994,6 +25011,7 @@ metrics.ticketmaster.com
 metrics.tidewater.aaa.com
 metrics.tidycats.com
 metrics.tienda.telcel.com
+metrics.tim.it
 metrics.timberland.com
 metrics.timberland.de
 metrics.timberland.es
@@ -27296,6 +27314,7 @@ paladion.actonservice.com
 paleleaf.com
 palramamericas.actonservice.com
 pamelarandom.com
+pampopholf.com
 panda.kasika.io
 pandora.mi.com
 pangolin.snssdk.com
@@ -28579,6 +28598,7 @@ questtest.epoise.com
 quick.openapp.link
 quickkoala.io
 quicklyedit.com
+quickpcfixer.click
 quicktrick.net
 quidel.actonservice.com
 quietknowledge.com
@@ -28806,6 +28826,7 @@ realtime.bbcl.cl
 realtimely.io
 realtors.eq.delwebb.com
 reaonq.xn--hdks770u8f0a8dvzft.net
+reauthenticator.com
 rebelclover.com
 rebelhen.com
 rebelswing.com
@@ -30056,6 +30077,7 @@ samsungads.adsmeasurement.com
 samsungads.com
 samsungafrica.demdex.net
 samsungafrica.tt.omtrdc.net
+samsungallstore.com
 samsungau.api.useinsider.com
 samsungau.demdex.net
 samsungbenelux.tt.omtrdc.net
@@ -30766,6 +30788,7 @@ secure.gift2pair.com
 secure.give2hill.com
 secure.glue1lazy.com
 secure.golp4elik.com
+secure.grow1maid.com
 secure.haag0some.com
 secure.haig7anax.com
 secure.half1hell.com
@@ -30773,6 +30796,7 @@ secure.hall3hook.com
 secure.harm6stop.com
 secure.hazy4cant.com
 secure.head3high.com
+secure.hear8crew.com
 secure.heat6have.com
 secure.herb2warn.com
 secure.herb7calk.com
@@ -31292,6 +31316,7 @@ serenesurf.com
 serenezenith.com
 serenezephyr.com
 serv.letudiant.fr
+serv1swork.com
 servcliente.marathon-sports-ec.com
 server.japanbyrivercruise.com
 server.olliehorn.com
@@ -35275,6 +35300,7 @@ sosc.hrs.com
 sosintl.actonservice.com
 sotelsystems.actonservice.com
 soubej.larebajavirtual.com
+soulclicking.com
 soundmachine.net
 soundmuseums.com
 soundstocking.com
@@ -36365,6 +36391,7 @@ stat.y.qq.com
 stat.youpin.mi.com
 stat.zol.com.cn
 statdb.pressflex.com
+statdynamic.com
 static-tracking.klaviyo.com
 static.fengkongcloud.com
 static.game.xiaomi.com
@@ -36389,6 +36416,7 @@ statistics.tattermedia.com
 statistics.tuv.com
 statistics.werkenntdenbesten.de
 statistics.wibiya.com
+statisticsplatform.com
 statistiek.rijksoverheid.nl
 statistik.apartments-tirolerhaus.at
 statistik.simaja.de
@@ -38951,6 +38979,7 @@ text.convenzioniaziendali.it
 text.mitarbeiterangebote.at
 text.mitarbeiterangebote.de
 text.rahmenvereinbarungen.de
+texturehunt.com
 texturetrick.com
 teyourmarketing.trungaleegan.com
 teyvmb.moniquelhuillier.com
@@ -39424,6 +39453,7 @@ top.wn.com
 top3.inhaabit.com
 topcrazypress.com
 topicalcartel.com
+topicjungle.com
 topsecretapp.net
 topspin.npo.nl
 topthrowbacks.com
@@ -41175,6 +41205,7 @@ tracking.dr-10.com
 tracking.dr-8.com
 tracking.drreddys.com
 tracking.dshb.biology.uiowa.edu
+tracking.dsmmadvantage.com
 tracking.dunnhumby.com
 tracking.dz.janssenmedicalcloud.me
 tracking.ecookie.fr
@@ -42206,6 +42237,7 @@ trust.titanhq.com
 trust.zebra.com
 trusted-web-seal.cybertrust.ne.jp
 trustid.actonservice.com
+trustisimportant.fun
 trustmodule.com
 trvonu.k-manga.jp
 trx-cdn.zip.co
@@ -42267,6 +42299,7 @@ turboeagle.co
 turbolion.io
 turtleface.net
 tutbc1.www.tapmyback.com
+tutorshelf.com
 tuvevx.agent-sana.com
 tv-test.esvdigital.com
 tv.totaljobs.com
@@ -42302,6 +42335,7 @@ two.cm.com
 two.tio.nl
 twochihuahuas.com
 twoeej.carrefour.fr
+twofishweb.com
 twsdne.petenkoiratarvike.com
 tx-br-cdn.kwai.net.iberostar.com
 tx-pro-pull.kwai.net.iberostar.com
@@ -42628,6 +42662,7 @@ uqhpej.wiberrentacar.com
 ur.b.inhaabit.com
 urbanairship.com
 urbanlaurel.com
+urbanopus.net
 ureca.samsungapps.com
 urehgr.halekulani.com
 ureoaw.netthandelen.no
