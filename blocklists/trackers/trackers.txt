@@ -4476,6 +4476,7 @@ ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-format-sg.tiktokv.com
 ad-format-ttp2.tiktokv.eu
+ad-format.tiktokv.us
 ad-format16-normal-useastred.tiktokv.eu
 ad-growth-in.heytapmobile.com
 ad-growth-ru.heytapmobile.com
@@ -4995,6 +4996,7 @@ adxu-bigo-sg.heytapmobile.com
 adxzju.penti.com
 ae-ad-lgsmartad-com.aws-prd.net
 ae-go.experian.com
+ae-rdx2-lgtvsdp-com.aws-prd.net
 ae.cobweb.com
 aebvay.mesinspirationsculinaires.com
 aec-target.base.be
@@ -5161,6 +5163,8 @@ akspdp.materialkitchen.com
 akv2-br-cdn.kwai.net.iberostar.com
 akzdrh.catofashions.com
 al-ad-lgsmartad-com.aws-prd.net
+al-info-lgsmartad-com.aws-prd.net
+al-rdx2-lgtvsdp-com.aws-prd.net
 al-smetrics.vizio.com
 al.airtel.in
 al.autohome.com.cn
@@ -6212,6 +6216,7 @@ api.installer.xiaomi.com
 api.jr.mi.com
 api.june.so
 api.launcher.intl.miui.com
+api.metrics.eu-central-1.iris.apx.amazon.dev
 api.metrics.us-west-2.iris.apx.amazon.dev
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
@@ -7414,6 +7419,8 @@ at-cdn.swisscom.ch
 at-ecomm.levi.com
 at-gamma-us-east.amazon-adsystem.com
 at-go.experian.com
+at-info-lgsmartad-com.aws-prd.net
+at-rdx2-lgtvsdp-com.aws-prd.net
 at-us-east.amazon-adsystem.com
 at.360.audion.fm
 at.badische-zeitung.de
@@ -7477,7 +7484,9 @@ atumanera.burgerking.com.mx
 atzzrq.tbs.co.jp
 au-ad-lgsmartad-com.aws-prd.net
 au-go.experian.com
+au-info-lgsmartad-com.aws-prd.net
 au-partners.ingrammicro.com
+au-rdx2-lgtvsdp-com.aws-prd.net
 au.ff.avast.sec.miui.com
 au.interface.com
 au.mywd.com
@@ -7949,6 +7958,7 @@ bdtheque.net.jumia.com.gh
 bdzcck.stadiumgoods.com
 be-ad-lgsmartad-com.aws-prd.net
 be-go.experian.com
+be-info-lgsmartad-com.aws-prd.net
 be.slowmographer.co
 beacon.adelphic.com
 beacon.affil.walmart.com
@@ -8060,13 +8070,13 @@ bfvlgp.appstory.co.kr
 bfzikn.l-wine.ru
 bg-ad-lgsmartad-com.aws-prd.net
 bg-go.experian.com
+bg-info-lgsmartad-com.aws-prd.net
 bgalytics.com
 bgaycm.exvital-shop.de
 bgevqy.moschino.com
 bgfmvc.amandalindroth.com
 bgiamericas.actonservice.com
 bgp.fe01.c3.xiaomi.com
-bgp.tv.pandora.xiaomi.com
 bgtfr-test.mno.link
 bgupcq.westfalia.de
 bh-ad-lgsmartad-com.aws-prd.net
@@ -8341,7 +8351,9 @@ bqoulb.nowo.pt
 bqstreamer.com
 bqvndd.ifood.com.br
 br-ad-lgsmartad-com.aws-prd.net
+br-info-lgsmartad-com.aws-prd.net
 br-p.vivoglobal.com
+br-rdx2-lgtvsdp-com.aws-prd.net
 br.ac.ebookers.ch
 br.ac.ebookers.com
 br.ac.ebookers.de
@@ -8752,6 +8764,8 @@ bxumze.recordonline.com
 bxumze.times-gazette.com
 bxumze.tuscaloosanews.com
 by-ad-lgsmartad-com.aws-prd.net
+by-info-lgsmartad-com.aws-prd.net
+by-rdx2-lgtvsdp-com.aws-prd.net
 by.mywd.com
 bydst.com
 byhqrw.gopeople.co.kr
@@ -8868,6 +8882,8 @@ c4dv.copinesdevoyage.com
 c6lc.pandasuite.io
 c917.pandasuite.io
 ca-ad-lgsmartad-com.aws-prd.net
+ca-info-lgsmartad-com.aws-prd.net
+ca-rdx2-lgtvsdp-com.aws-prd.net
 ca.clubavantages.net
 ca.connect.finning.com
 ca.creditacceptance.com
@@ -9188,6 +9204,8 @@ cgsisl.owllabs.com
 cgwebmetrics.capgroup.com
 ch-ad-lgsmartad-com.aws-prd.net
 ch-asimov-leafs-events-data.trafficmanager.net
+ch-info-lgsmartad-com.aws-prd.net
+ch-rdx2-lgtvsdp-com.aws-prd.net
 ch.credithypo.com
 ch.sharpmarketing.eu
 ch0p.darty.com
@@ -11765,7 +11783,9 @@ de-ad-lgsmartad-com.aws-prd.net
 de-de.siemensplmevents.com
 de-gdpr-err-up.vivoglobal.com
 de-go.experian.com
+de-info-lgsmartad-com.aws-prd.net
 de-metalshop.m-shop.me
+de-rdx2-lgtvsdp-com.aws-prd.net
 de.bca-news.com
 de.contact.alphabet.com
 de.mywd.com
@@ -13036,6 +13056,8 @@ educationlink.clear360.com
 educontinua.javeriana.edu.co
 eduynp.fcl-hid.com
 ee-ad-lgsmartad-com.aws-prd.net
+ee-info-lgsmartad-com.aws-prd.net
+ee-rdx2-lgtvsdp-com.aws-prd.net
 ee.impactextend.dk
 ee93.pandasuite.io
 eec.crunchyroll.com
@@ -13072,6 +13094,7 @@ efuxqe.tatilbudur.com
 efwhcj.emp-shop.se
 efxzea.badshop.de
 eg-ad-lgsmartad-com.aws-prd.net
+eg-info-lgsmartad-com.aws-prd.net
 egbqvs.vila.com
 egdehs.selected.com
 eggexperts.com
@@ -13956,6 +13979,7 @@ eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
+eu-st-exappupgrade.vivoglobal.com
 eu-st-sl.vivoglobal.com
 eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
@@ -13967,6 +13991,7 @@ eu.cignaglobalhealth.com
 eu.gldn.io
 eu.ironmountain.com
 eu.sharpmarketing.eu
+eu7-info-lgsmartad-com.aws-prd.net
 euapp.levi.com
 eubynl.baby-sweets.de
 euc-excel-telemetry.officeapps.live.com
@@ -14570,7 +14595,6 @@ ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 ffe390afd658c19dcbf707e0597b846d.de
-ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 ffr.actonservice.com
 ffrmel.gerryweber.com
 ffrmwn.musinsa.com
@@ -14592,6 +14616,8 @@ fhngty.vetsecurite.com
 fhqrnb.feelway.com
 fhrpqp.futfanatics.com.br
 fi-ad-lgsmartad-com.aws-prd.net
+fi-info-lgsmartad-com.aws-prd.net
+fi-rdx2-lgtvsdp-com.aws-prd.net
 fi.on-channel.com
 fiawmk.empik.com
 fiber.zayo.com
@@ -14955,6 +14981,8 @@ fqxnlh.kgcshop.co.kr
 fr-ad-lgsmartad-com.aws-prd.net
 fr-api.xmpush.global.xiaomi.com
 fr-go.experian.com
+fr-info-lgsmartad-com.aws-prd.net
+fr-rdx2-lgtvsdp-com.aws-prd.net
 fr-register.xmpush.global.xiaomi.com
 fr.adpinfo.com
 fr.contact.alphabet.com
@@ -15227,6 +15255,8 @@ gawayez.e-postserv.com
 gay-hotvideo.net
 gb-ad-lgsmartad-com.aws-prd.net
 gb-asymbo.m-shop.me
+gb-info-lgsmartad-com.aws-prd.net
+gb-rdx2-lgtvsdp-com.aws-prd.net
 gb.click.finning.com
 gba.kwm.com
 gbl.radware.com
@@ -16227,6 +16257,8 @@ gqraqz.e-domizil.de
 gr-ad-lgsmartad-com.aws-prd.net
 gr-business.vodafone.com
 gr-go.experian.com
+gr-info-lgsmartad-com.aws-prd.net
+gr-rdx2-lgtvsdp-com.aws-prd.net
 gr.a23.in
 gracefulmilk.com
 grado.ufv.es
@@ -16975,6 +17007,8 @@ ibclick.stream
 ibf.smrtp.link
 ibkups.rci.com
 ibmtechnology.arrow.com
+ibs.nextlgsdp.com
+ibsstat.nextlgsdp.com
 ibtmla.discovery-expedition.com
 icahealth.actonservice.com
 icas.ikea.com
@@ -17001,7 +17035,6 @@ icosa-service-sg-02.allawnos.com
 icosa-service-sg-03.allawnos.com
 icosa-service-sg.allawnos.com
 icosa-service-us.allawnos.com
-icosa-sg.coloros.com
 icota-eu.coloros.com
 icota-service-eu.allawnos.com
 icota-service-in.allawnos.com
@@ -17745,6 +17778,7 @@ in-domaincfg.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-go.experian.com
+in-info-lgsmartad-com.aws-prd.net
 in-miuilog.sms.intl.xiaomi.com
 in-mktg.vodafone.com
 in-monitor-stsdk.vivoglobal.com
@@ -18861,11 +18895,13 @@ ir-de.amazon-adsystem.com
 ir-es.amazon-adsystem.com
 ir-fr.amazon-adsystem.com
 ir-in.amazon-adsystem.com
+ir-info-lgsmartad-com.aws-prd.net
 ir-it.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 ir-nl.amazon-adsystem.com
+ir-rdx2-lgtvsdp-com.aws-prd.net
 ir-tracking.trafficmanager.net
 ir-uk.amazon-adsystem.com
 iready.curriculumassociates.com
@@ -18903,6 +18939,8 @@ isovav.akomeya.jp
 it-ad-lgsmartad-com.aws-prd.net
 it-business.vodafone.com
 it-go.experian.com
+it-info-lgsmartad-com.aws-prd.net
+it-rdx2-lgtvsdp-com.aws-prd.net
 it.sharpmarketing.eu
 itemslice.com
 iterable.convoy.com
@@ -19538,17 +19576,20 @@ kyson.kakao.com
 kyszhn.qvc.jp
 kyvpze.vidaxl.co.uk
 kz-ad-lgsmartad-com.aws-prd.net
+kz-album-api.vivoglobal.com
 kz-cname-sin01-bigdata.vivoglobal.com
 kz-err-up.vivoglobal.com
 kz-monitor-stsdk.vivoglobal.com
 kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
+kz-p.vivoglobal.com
 kz-pnrt-stsdk.vivoglobal.com
 kz-prt-stsdk.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
+kz-timesync.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 kzhesi.corcoran.com
@@ -20892,6 +20933,7 @@ local-shares.ri.la
 locateskill.com
 location-i18n.tiktokv.com
 location-microsoft-com.b-0005.b-msedge.net
+location-ru.tiktokv.com
 location-sg.tiktokv.com
 location-ttp2.tiktokv.eu
 location-ttp2.us.tiktokv.com
@@ -21070,7 +21112,6 @@ log32-normal-useastred.tiktokv.eu
 log32-normal-zr.tiktokv.com
 log32-normal.capcutapi.com
 log32-normal.tiktokv.com
-log53-normal-c-useast1a.tiktokv.com
 log58-normal-alisg.tiktokv.com
 log58-normal-c-alisg.tiktokv.com
 log58-normal-c-useast1a.tiktokv.com
@@ -24245,7 +24286,6 @@ metrics.esignal.com
 metrics.etihad.com
 metrics.etihadengineering.com
 metrics.etihadguest.com
-metrics.eu-central-1.iris.apx.amazon.dev
 metrics.eu-south-2.iris.apx.amazon.dev
 metrics.eu-west-1.iris.apx.amazon.dev
 metrics.eu.playstation.com
@@ -25663,6 +25703,7 @@ mssdk-i18n.tiktok.com
 mssdk-i18n.tiktokv.com
 mssdk-phx.tiktokv.com
 mssdk-ru.tiktokv.com
+mssdk-ru.tiktokv.com.www.digmawifi.com
 mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktokv.com
@@ -26058,7 +26099,6 @@ newsletters.bancsabadell.com
 newsuccesssecret.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
-nextlgsdp.com
 nexttopchef.com
 nexus.officeapps.live.com
 nexusrules.live.com
@@ -26123,7 +26163,9 @@ nkqxyn.misterspex.co.uk
 nkwvwb.fluevog.com
 nl-ad-lgsmartad-com.aws-prd.net
 nl-go.experian.com
+nl-info-lgsmartad-com.aws-prd.net
 nl-nl.coloplastcare.com
+nl-rdx2-lgtvsdp-com.aws-prd.net
 nl.aon.com
 nl.rcd.ptqy.gitv.tv
 nlbukc.babyworld.se
@@ -26154,6 +26196,8 @@ nnqyed.laredoute.be
 nntgna.dmm.com
 nnvoia.closetworld.com
 no-ad-lgsmartad-com.aws-prd.net
+no-info-lgsmartad-com.aws-prd.net
+no-rdx2-lgtvsdp-com.aws-prd.net
 no9pldds1lmn3.soundcloud.com
 noa.yahoo.com
 noa0.compteczam.fr
@@ -27540,6 +27584,7 @@ pgtus6-excel-telemetry-vip.officeapps.live.com
 pgtus6-powerpoint-telemetry-vip.officeapps.live.com
 pgtus6-word-telemetry-vip.officeapps.live.com
 ph-ad-lgsmartad-com.aws-prd.net
+ph-info-lgsmartad-com.aws-prd.net
 phadia.thermo.com
 phadia.thermofisher.com
 phbnix.rocelec.com
@@ -27733,6 +27778,8 @@ pktbag.flighthub.com
 pktytp.membershop.lv
 pl-ad-lgsmartad-com.aws-prd.net
 pl-go.experian.com
+pl-info-lgsmartad-com.aws-prd.net
+pl-rdx2-lgtvsdp-com.aws-prd.net
 pl-topgal.m-shop.me
 pl.1feed.app
 pl.astro-akatemia.fi
@@ -28785,6 +28832,8 @@ rddiqs.partyhallen.se
 rdfine.camelbrown.com
 rdlrbm.studying.jp
 rdvxxx.crushj.com
+rdx2.lgtvsdp.com
+rdx2.nextlgsdp.com
 re-ad-lgsmartad-com.aws-prd.net
 re-ads.com
 re.stjude.org
@@ -29273,6 +29322,7 @@ rnybul.gismeteo.md
 rnyhid.pepperfry.com
 ro-ad-lgsmartad-com.aws-prd.net
 ro-go.experian.com
+ro-info-lgsmartad-com.aws-prd.net
 ro-up.vivoglobal.com
 roaddynamics.com
 roadsagain.com
@@ -29376,6 +29426,7 @@ rtb.axp.amazon-adsystem.com
 rtb.prod.carbonatixaudio.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
@@ -30621,6 +30672,8 @@ sdrive.skoda-auto.com
 sdtagging.azureedge.net
 se-ad-lgsmartad-com.aws-prd.net
 se-go.experian.com
+se-info-lgsmartad-com.aws-prd.net
+se-rdx2-lgtvsdp-com.aws-prd.net
 se-se.siemensplmevents.com
 se.netpartnering.com
 sea-log-rcv.vansound.com
@@ -31585,6 +31638,8 @@ shrillspoon.com
 shtptt.cupshe.com
 shydinosaurs.com
 si-ad-lgsmartad-com.aws-prd.net
+si-info-lgsmartad-com.aws-prd.net
+si-rdx2-lgtvsdp-com.aws-prd.net
 si.ptqy.gitv.tv
 sia.internet.apps.samsung.com
 siazlw.cetroloja.com.br
@@ -39531,6 +39586,7 @@ tr-domaincfg.vivoglobal.com
 tr-err-up.vivoglobal.com
 tr-experiments.parsely.com
 tr-gdpr-vgc-datacenter.vivoglobal.com
+tr-info-lgsmartad-com.aws-prd.net
 tr-ms.bosch-home.com
 tr-ms.profilo.com
 tr-ms.siemens-home.bsh-group.com
@@ -42711,9 +42767,12 @@ us-ad-lgsmartad-com.aws-prd.net
 us-central1-markuphero.cloudfunctions.net
 us-east.ono.axp.amazon-adsystem.com
 us-go.experian.com
+us-info-lgsmartad-com.aws-prd.net
 us-marketing.roxtec.com
 us-mesh-events-data-leafs.trafficmanager.net
 us-now.experian.com
+us-rdx2-lgtvsdp-com.aws-prd.net
+us-report.gras.samsungdm.com
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us.lucanet.com
 us.mattamyhomes.com
