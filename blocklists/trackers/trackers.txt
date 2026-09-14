@@ -5486,6 +5486,7 @@ analytics.belgacom.be
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bigdata.samsung.com
 analytics.bigfishgames.com
 analytics.bitchute.com
@@ -8216,6 +8217,8 @@ bloomsend.com
 blsoof.wirwinzer.de
 blue-rocket.actonservice.com
 blue.nbc4i.com
+bluebellbooks.com
+bluebirdteam.com
 bluebusiness.actonservice.com
 bluecollarmuse.com
 bluecore-email.branch.rocks
@@ -8568,6 +8571,7 @@ broadborder.com
 broadcastbed.com
 broaddoor.com
 broadstreet.ai
+broflask.com
 bronxvanilla.openapp.link
 brooklynway.openapp.link
 brotherslocket.com
@@ -8891,6 +8895,7 @@ caapp.levi.com
 cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 cache2.delvenetworks.com
+cactus.jd.com
 cactus.joybuy.com
 caderonline.bu.edu
 cadsuta.net
@@ -10620,6 +10625,7 @@ crypto-dsf-sg.allawnos.com
 crypto-dsf-us.allawnos.com
 crypto.egghead.link
 crystalboulevard.com
+crystaldewfarm.com
 crzohw.intersport.gr
 cs.analytics.lego.com
 cs.bankmillennium.pl
@@ -11797,6 +11803,7 @@ debug-inform.liilix.com
 debug-r.rover.com
 dec-visio-telemetry.officeapps.live.com
 decidedrum.com
+decimalnet.com
 decisionhut.com
 decisivebase.com
 decisivedrawer.com
@@ -13905,6 +13912,7 @@ es-ad-lgsmartad-com.aws-prd.net
 es-business.vodafone.com
 es-es.siemensplmevents.com
 es-go.experian.com
+es-info-lgsmartad-com.aws-prd.net
 es-mktg.vodafone.com
 es-sa.siemensplmevents.com
 es.adpinfo.com
@@ -14218,6 +14226,7 @@ events.paramount.tech
 events.pella.com
 events.pickrr.com
 events.plus.yandex.net
+events.plutus.ninja
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -16591,6 +16600,7 @@ helpingbits.com
 hemblx.vans.cl
 herbgreencolumn.com
 herbstarsbuilding.com
+hermes.jd.com
 herpes2.pa-ruit.jp
 hesconet.actonservice.com
 hesprh.sony.jp
@@ -16998,8 +17008,6 @@ ibclick.stream
 ibf.smrtp.link
 ibkups.rci.com
 ibmtechnology.arrow.com
-ibs.nextlgsdp.com
-ibsstat.nextlgsdp.com
 ibtmla.discovery-expedition.com
 icahealth.actonservice.com
 icas.ikea.com
@@ -18607,6 +18615,7 @@ ingress.linktr.ee
 ingress.trendii.com
 inkcoupon.com
 inkubate.actonservice.com
+inmobicdn.net
 inmtuj.jobs.ie
 inmuzp.popsockets.com
 innerskinresearch.com
@@ -20968,6 +20977,7 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 log-eap.coloros.com
 log-gateway.zoom.us
+log-h5.imdada.cn
 log-hl.snssdk.com
 log-i18n.tiktokv.com
 log-lb.skyperfectv.co.jp
@@ -23690,6 +23700,7 @@ merchant-app.th3rdwave.coffee
 merchant-mail.neosurf.com
 merchant.libertycarz.com
 mercury-sdk.snssdk.com
+mercury.jd.com
 mercuryace.com
 meremark.com
 merequartz.com
@@ -25454,6 +25465,7 @@ mlinks.fluz.app
 mlinks.helloalfred.com
 mlkblr.la-becanerie.com
 mlkklg.suncamp.de
+mllog.jd.com
 mlmswk.janpara.co.jp
 mlog.search.xiaomi.net
 mlqzau.koffer.com
@@ -37875,6 +37887,7 @@ sync-a8.cocolocala.jp
 sync.adap.tv
 sync.rambler.ru
 sync.shinobi.jp
+synccache.com
 syncingbridge.com
 synonymoussticks.com
 synthesizescarecrow.com
@@ -40809,6 +40822,7 @@ track.docusign.jp
 track.docusign.mx
 track.docusign.nl
 track.dunedinincomegrowth.co.uk
+track.dws.com
 track.dws.de
 track.eadv.it
 track.education.intostudy.com
@@ -42693,6 +42707,7 @@ uqckxr.chilli.se
 uqd.io
 uqhpej.wiberrentacar.com
 ur.b.inhaabit.com
+uranus.jd.com
 urbanairship.com
 urbanlaurel.com
 urbanopus.net
@@ -44190,6 +44205,7 @@ wkympu.agnesb.co.jp
 wl-analytics.tsp.li
 wl-pixel.index.digital
 wl.bl.frequentvalues.com.au
+wl.jd.com
 wl.voip.game.xiaomi.com
 wlct-one.de
 wlct-two.de
