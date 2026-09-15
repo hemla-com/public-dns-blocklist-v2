@@ -6229,7 +6229,6 @@ api.setting.intl.miui.com
 api.sms.intl.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
-api.wipmania.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apilog-web.acfun.cn
@@ -30990,7 +30989,6 @@ secure.roar9beer.com
 secure.rock5rice.com
 secure.rote8mino.com
 secure.ruth8badb.com
-secure.ryke4peep.com
 secure.said3page.com
 secure.sale0home.com
 secure.saon6harz.com
