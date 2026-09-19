@@ -13926,7 +13926,6 @@ es-ad-lgsmartad-com.aws-prd.net
 es-business.vodafone.com
 es-es.siemensplmevents.com
 es-go.experian.com
-es-info-lgsmartad-com.aws-prd.net
 es-mktg.vodafone.com
 es-sa.siemensplmevents.com
 es.adpinfo.com
@@ -19599,6 +19598,7 @@ kyvpze.vidaxl.co.uk
 kz-ad-lgsmartad-com.aws-prd.net
 kz-album-api.vivoglobal.com
 kz-cname-sin01-bigdata.vivoglobal.com
+kz-cota.vivoglobal.com
 kz-err-up.vivoglobal.com
 kz-monitor-stsdk.vivoglobal.com
 kz-onrt-stsdk.vivoglobal.com
@@ -25734,7 +25734,6 @@ mssdk-i18n.tiktok.com
 mssdk-i18n.tiktokv.com
 mssdk-phx.tiktokv.com
 mssdk-ru.tiktokv.com
-mssdk-ru.tiktokv.com.www.digmawifi.com
 mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktokv.com
@@ -28151,6 +28150,7 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
+prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -29464,7 +29464,6 @@ rtb.axp.amazon-adsystem.com
 rtb.prod.carbonatixaudio.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
-rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
