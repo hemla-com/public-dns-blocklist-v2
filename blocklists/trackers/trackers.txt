@@ -5780,6 +5780,7 @@ analytics.onlinehomeretail.co.uk
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.oyorooms.com
@@ -6246,6 +6247,7 @@ apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
+apm-rum.inf.miui.com
 apm.qwant.com
 apm.tnet.nl
 app-branch.yummybazaar-qa.com
@@ -7170,6 +7172,7 @@ apps.uquote.io
 apps.weekendgowhere.sg
 apps.wholefoodsmarket.com
 apps.zingeroo.com
+appsecstudio.com
 appsecurezomation.carte-gr.total.fr
 appstore-trace-h5sdk.vivo.com.cn
 appstore.cdn.pandora.xiaomi.com
@@ -8336,6 +8339,7 @@ boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
 bowl.actonservice.com
+bowlershut.com
 box.bossdata.be
 box.pandora.xiaomi.com
 boxandcover.com
@@ -9428,6 +9432,7 @@ click.gamersky.com
 click.glamsquad.com
 click.instacartemail.com
 click.kataweb.it
+click.lenovo.com
 click.lmbcustomersupport.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -10739,6 +10744,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 culliganwaterco.actonservice.com
 culture.intermedes.com
 culture.pandasuite.io
@@ -12444,6 +12450,7 @@ dmkt.solutions.cas.org
 dmndfrcstng.com
 dmp.citynews.ovh
 dmpcdn.el-mundo.net
+dmplog.qq.com
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -19907,6 +19914,8 @@ leecompany.actonservice.com
 leftliquid.com
 legacywatson.trafficmanager.net
 legalhold.ediscovery.com
+lego-tech.zhuanzhuan.com
+lego.zhuanzhuan.com
 legolas.monotote.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
@@ -21185,6 +21194,7 @@ logs.animaapp.com
 logs.betterstack.com
 logs.chatboost-cv.algoage.co.jp
 logs.dynamicauth.com
+logs.game.qq.com
 logs.hotstar.com
 logs.kaya.delfi.ee
 logs.mezmo.com
@@ -21726,6 +21736,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 mantual.pandora.xiaomi.com
@@ -26011,6 +26022,7 @@ neoncsr21.net.anwalt.de
 neonsites.com
 neosllc.actonservice.com
 neowiv.brumbrum.it
+nerdworldcon.com
 nerldv.ullapopken.pl
 nervoussummer.com
 nestbuyers.com
@@ -26701,6 +26713,9 @@ omfoom.thepoolfactory.com
 omftdc.morijuku.com
 omgcreative.actonservice.com
 omgthink.com
+omgup.didiglobal.com
+omgup.xiaojukeji.com
+omgup1.xiaojukeji.com
 omjtca.emlakjet.com
 omn.americanexpress.com
 omn.costumesupercenter.com
@@ -27776,6 +27791,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixel6.wp.pl
 pixeledhub.com
+pixelmoonstudio.com
 pixels.afcdn.com
 pixels.boxberry.ru
 pixels.zalify.com
@@ -35449,6 +35465,7 @@ spc.personalcreations.com
 spea.eko.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
+specialreview.net
 specialscissors.com
 specialtypin.com
 spectacularstamp.com
@@ -36207,6 +36224,7 @@ st-a.cdp.asia
 st-a8.tscubic.com
 st-ads-jssdk.vivo.com.cn
 st-nlyss1.plala.or.jp
+st-sentinel.vivo.com.cn
 st.amazon-adsystem.com
 st.anastasija.lt
 st.azcardinals.com
@@ -37476,6 +37494,7 @@ storedl5f.nearme.com.cn
 stormgate.production.raptive.com
 stormwind.actonservice.com
 stormyflower.com
+stpc.vivo.com.cn
 str.foodnetwork.ca
 str.globalnews.ca
 str1kee.com
@@ -37670,6 +37689,7 @@ superficialspring.com
 superficialsquare.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
+superstarorganizer.com
 superstats.observepoint.com
 supplyreward.com
 support.flex.com
@@ -37808,7 +37828,6 @@ swaljol72dgv.controlconceptsusa.com
 swankysquare.com
 swanwebcreations.com
 swasc.homedepot.ca
-swasc.homedepot.com
 swasc.kaufland.bg
 swasc.kaufland.com
 swasc.kaufland.cz
@@ -39314,6 +39333,7 @@ tk.bricoprive.com
 tk.bullebleue.fr
 tk.cadeaux.com
 tk.conforama.fr
+tk.d.mi.com
 tk.dietbon.fr
 tk.domitys.fr
 tk.dossier.co
@@ -40939,6 +40959,7 @@ track.kiomi.com
 track.kueez.com
 track.kyoads.com
 track.leady.cz
+track.lenovo.com.cn
 track.lesmills.com
 track.list-finder.jp
 track.livasoft.com.tr
@@ -41068,6 +41089,7 @@ tracker.eft.com
 tracker.ethicalcorp.com
 tracker.euroweb.net
 tracker.eyeforpharma.com
+tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.flightview.com.trafficmanager.net
 tracker.gamedock.io
@@ -45258,6 +45280,7 @@ xn-ex-adreq-asa-c5b.vivoglobal.com
 xnukcp.cpcompany.com
 xp.allianz.de
 xp.apple.com.edgekey.net
+xp.atlassian.com
 xpcpmr.gsm55.com
 xps.huk.de
 xps.huk24.de
