@@ -4821,6 +4821,7 @@ ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
 ads-collector.luizalabs.com
+ads-cps-in.heytapmobile.com
 ads-dra.platform.hihonorcloud.com
 ads-drcn.platform.hihonorcloud.com
 ads-dre.platform.hihonorcloud.com
@@ -6198,7 +6199,6 @@ api.accelerator.intl.miui.com
 api.account.preview.n.xiaomi.net
 api.ads.xiaomi.com
 api.apiok.net.iberostar.com
-api.applicationinsights.azure.cn
 api.aurogon.intl.miui.com
 api.autopilothq.com
 api.bbs.miui.com
@@ -7222,7 +7222,6 @@ arc.msn.com
 arc1.msn.com
 arc2.msn.com
 arc3.msn.com
-arc5.msn.com
 arc9.msn.com
 arch.net.jumia.ug
 arch.onjoyri.de
@@ -9786,7 +9785,10 @@ cntccc.publicrec.com
 cntxtfl.com
 cnxddc.lodenfrey.com
 co-ad-lgsmartad-com.aws-prd.net
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-onrt-stsdk.vivoglobal.com
+co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
@@ -9794,6 +9796,7 @@ co-stsdk.vivoglobal.com
 co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
+co-vcode-or.vivoglobal.com
 coalkitchen.com
 coastersim.com
 coatfood.com
@@ -11798,6 +11801,7 @@ ddsndt.azubiyo.de
 de-ad-lgsmartad-com.aws-prd.net
 de-de.siemensplmevents.com
 de-gdpr-err-up.vivoglobal.com
+de-gdpr-vcode-api.vivoglobal.com
 de-go.experian.com
 de-info-lgsmartad-com.aws-prd.net
 de-metalshop.m-shop.me
@@ -17777,6 +17781,7 @@ in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
 in-appprt-stsdk.vivoglobal.com
 in-business.vodafone.com
+in-cfg-stsdk.vivoglobal.com
 in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com
@@ -20963,6 +20968,7 @@ location.microsoft.com
 location.tiktok.com
 location.tiktokv.com
 location.tiktokv.eu
+location.tiktokv.us
 location.tiktokw.us
 location.us.tiktokv.com
 location16-normal-useastred.tiktokv.eu
