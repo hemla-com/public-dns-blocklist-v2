@@ -4053,6 +4053,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -4601,6 +4602,7 @@ adc-js.nine.com.au
 adcontroll.com
 addefend-platform.com
 addictedattention.com
+addmoves.com
 addressfriend.com
 ade.deskstyle.info
 ade.googlesyndication.com
@@ -5275,6 +5277,7 @@ ama.wdrmaus.de
 amahami.net.anwalt.de
 amalto.actonservice.com
 amandi.openapp.link
+amazinglea.com
 amazon-email.branch.rocks
 ambientdusk.com
 ambiguousafternoon.com
@@ -7248,7 +7251,9 @@ art.b.inhaabit.com
 art.carte-gr.total.fr
 art2wave.actonservice.com
 artbranch.net
+artcat.net
 artemis-cdn.ocdn.eu
+artfulsavage.com
 articledemon.com
 artisan.actonservice.com
 artistchristinacarmel.ericksonbuilt.com
@@ -8259,6 +8264,7 @@ bmnr.pw
 bmodjx.mgos.jp
 bmrg.reflected.net
 bmst.pw
+bmtrcs.com
 bmwebm.org
 bmyudk.clarins.de
 bmzuyj.nifty.com
@@ -8359,6 +8365,7 @@ bqoulb.nowo.pt
 bqstreamer.com
 bqvndd.ifood.com.br
 br-ad-lgsmartad-com.aws-prd.net
+br-cota.vivoglobal.com
 br-info-lgsmartad-com.aws-prd.net
 br-p.vivoglobal.com
 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -10789,6 +10796,7 @@ customfingerprints.bablosoft.com
 customize.titanfactorydirect.com
 cutecalculator.com
 cutechin.com
+cutsmarter.net
 cv-ad-lgsmartad-com.aws-prd.net
 cv-match.sharebase.jp
 cv-tracker.stanby.com
@@ -13682,6 +13690,7 @@ enchantingvalley.com
 encompassreport.elliemae.com
 encuestas.billeteramango.com
 endeavorbusinessmedia.actonservice.com
+endhairfall.com
 endlesstrust.com
 endljp.168chasa.bg
 endljp.abv.bg
@@ -13931,6 +13940,7 @@ es-ad-lgsmartad-com.aws-prd.net
 es-business.vodafone.com
 es-es.siemensplmevents.com
 es-go.experian.com
+es-info-lgsmartad-com.aws-prd.net
 es-mktg.vodafone.com
 es-sa.siemensplmevents.com
 es.adpinfo.com
@@ -16445,16 +16455,16 @@ h031.familydollar.com
 h1.msn.com
 h2.msn.com
 h353.ncadvertiser.com
-h4g3z1-native.amazon.web.app
-h4g3z1-native.apple.web.app
-h4g3z1-native.huawei.web.app
-h4g3z1-native.lgwebos.web.app
-h4g3z1-native.oppo-realme.web.app
-h4g3z1-native.samsung.web.app
-h4g3z1-native.tiktok.web.app
-h4g3z1-native.vivo.web.app
-h4g3z1-native.winoffice.web.app
-h4g3z1-native.xiaomi.web.app
+h4g3z1-native-amazon.web.app
+h4g3z1-native-apple.web.app
+h4g3z1-native-huawei.web.app
+h4g3z1-native-lgwebos.web.app
+h4g3z1-native-oppo-realme.web.app
+h4g3z1-native-samsung.web.app
+h4g3z1-native-tiktok.web.app
+h4g3z1-native-vivo.web.app
+h4g3z1-native-winoffice.web.app
+h4g3z1-native-xiaomi.web.app
 h5-ru.video.intl.xiaomi.com
 h5.analytics.126.net
 h5.tv.mi.com
@@ -26230,6 +26240,7 @@ noblecables.com
 noblefellow.com
 noc-visio-telemetry.officeapps.live.com
 nocaadobefpc.optus.com.au
+nodals.io
 nodenotify.com
 nodethisweek.com
 noflake-aggregator-http.narvar.com
@@ -28144,7 +28155,6 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
-prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -38929,7 +38939,6 @@ telemetry.microsoft.us
 telemetry.moveworks.com
 telemetry.nav.no
 telemetry.navispherecarrier.com
-telemetry.officeapps.live.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
 telemetry.portal.voltdeutschland.org
