@@ -5482,6 +5482,7 @@ analytics.andrewsmith.com.au
 analytics.animexx.de
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
+analytics.app.funnelish.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
@@ -8627,6 +8628,7 @@ browser.pipe.aria.microsoft.com
 browsercfg-drcn.cloud.dbankcloud.cn
 browserfiles.heytapmobile.com
 browserguides.net
+browsertdidticket.m.qq.com
 brpayless.eccocar.com
 brqory.notino.sk
 brquazzar.eccocar.com
@@ -10648,6 +10650,7 @@ crrm.onjoyri.de
 crs.actonservice.com
 crta.and.co.uk
 crta.dailymail.co.uk
+crta.dailymail.com
 crta.metro.co.uk
 cruisetourist.com
 crumbs.robinhood.com
@@ -13087,6 +13090,7 @@ edm.neoslife.com.au
 ednqjm.magnanni.com
 edpsmart.edpcomunicacao.com.br
 edriving.actonservice.com
+edshowpigs.com
 edtrainingcenter.actonservice.com
 edu.quizdom.gr
 education.bendigotafe.edu.au
@@ -14290,6 +14294,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events.santander.co.uk
+events.searchtap.net
 events.shareably.net
 events.shoplift.ai
 events.sk.ht
@@ -15098,9 +15103,11 @@ frog.yuanfudao.com
 frogator.com
 froglytics.eventfrog.ch
 fromhttptohttps.atea.fi
+frontier-us-ttp2.capcutw.us
 frontier.byteoversea.com
 frontier.capcutw.us
 frontier.capcutw.us.edgesuite.net
+frontier.us.capcut.com
 frontierconsul02.tsunagaru-office.com
 frontiermetal.actonservice.com
 fronttoad.com
@@ -15305,6 +15312,7 @@ gatan.actonservice.com
 gateway.aimia.com
 gateway.bingviz.microsoftapp.net
 gateway.foresee.com
+gatherer.m.qq.com
 gaudyairplane.com
 gawayez.e-postserv.com
 gay-hotvideo.net
@@ -15620,6 +15628,7 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
+gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -21097,6 +21106,7 @@ log.mediacategory.com
 log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
+log.news.baidu.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
@@ -21789,6 +21799,7 @@ mapp.jysk.nl
 mapp.peacocks.co.uk
 mapp.yesstyle.com
 marblediscussion.com
+marbleseeds.com
 marceline.wantsext.me
 march.landing.ni.com
 marcom.biodex.com
@@ -27291,6 +27302,7 @@ p.pagesjaunes.fr
 p.placed.com
 p.pmu.fr
 p.ryanhalliday.com
+p.sa7eer.com
 p.sec.miui.com
 p.skimresources.com
 p.spotidownloader.com
@@ -28484,6 +28496,7 @@ pulse.ecmapps.com
 pulse.genki.world
 pulse.munsonhealthcare.org
 pulse.shopflo.com
+pulsepoint.ideal.house
 puma-api.ptqy.gitv.tv
 pumlmb.netcologne.de
 pumpedpancake.com
@@ -28965,6 +28978,7 @@ realsolutions.americanexpress.it
 realsolutions.americanexpress.se
 realtime-profiling.datarize.ai
 realtime.bbcl.cl
+realtimeanalytics.yext.com
 realtimely.io
 realtors.eq.delwebb.com
 reaonq.xn--hdks770u8f0a8dvzft.net
@@ -38964,6 +38978,7 @@ techpump.com
 techservices.trapptechnology.com
 techsupport.balluff.com
 teczbq.amicashop.com
+ted.dailymail.co.uk
 tediousbear.com
 tedioustooth.com
 teefiksummin.visma.fi
@@ -39550,6 +39565,7 @@ tnc16-alisg.byteoversea.com
 tnc16-normal-ie.tiktokv.eu
 tnc16-normal-no1a.tiktokv.eu
 tnc16-normal-us-ttp.capcutapi.us
+tnc16-normal-us-ttp2.capcutapi.us
 tnc16-normal-useast5.tiktokv.us
 tnc16-normal-useast8.tiktokv.us
 tnc16-normal-useast8.us.tiktokv.com
@@ -40934,6 +40950,7 @@ track.concur.com.au
 track.concur.com.sg
 track.connectwise.com
 track.contently.com
+track.convertfox.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
@@ -41924,6 +41941,7 @@ traffic.shareaholic.com
 traffic.taktikal.is
 traffic.wdc.center
 trafficid.brandwell.ai
+trafik.koopit.ist
 trail-001.schleich-s.com
 trail.53kf.com
 trail.71baomu.com
@@ -44181,6 +44199,7 @@ webstat.4music.com
 webstat.garanti.com.tr
 webstat.qiumibao.com
 webstat.vodafone.com
+webstat.ws.126.net
 webstats.americanbar.org
 webstats.bijenpatel.com
 webstats.cbre.com
