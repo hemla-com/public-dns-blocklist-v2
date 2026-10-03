@@ -4053,7 +4053,6 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -7433,11 +7432,9 @@ asxxlo.interflora.es
 async-px-eu.dynamicyield.com
 async-px.dynamicyield.com
 at-ad-lgsmartad-com.aws-prd.net
-at-beta.amazon-adsystem.com
 at-cddc.actu-juridique.fr
 at-cdn.swisscom.ch
 at-ecomm.levi.com
-at-gamma-us-east.amazon-adsystem.com
 at-go.experian.com
 at-info-lgsmartad-com.aws-prd.net
 at-rdx2-lgtvsdp-com.aws-prd.net
@@ -8377,7 +8374,6 @@ bqoulb.nowo.pt
 bqstreamer.com
 bqvndd.ifood.com.br
 br-ad-lgsmartad-com.aws-prd.net
-br-cota.vivoglobal.com
 br-info-lgsmartad-com.aws-prd.net
 br-p.vivoglobal.com
 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -13966,7 +13962,6 @@ es-ad-lgsmartad-com.aws-prd.net
 es-business.vodafone.com
 es-es.siemensplmevents.com
 es-go.experian.com
-es-info-lgsmartad-com.aws-prd.net
 es-mktg.vodafone.com
 es-sa.siemensplmevents.com
 es.adpinfo.com
@@ -18735,7 +18730,6 @@ insights.avad3.com
 insights.biallo.de
 insights.bodogaffiliate.com
 insights.cdt.ch
-insights.cloud.microsoft
 insights.diamond-consultants.com
 insights.golubcapital.com
 insights.goodandprosper.com
@@ -25781,7 +25775,6 @@ msg.sqz.app
 msg.video.ptqy.gitv.tv
 msg2.video.ptqy.gitv.tv
 msga.ptqy.gitv.tv
-mshopbugsnag.irm.amazon.dev
 mshs.actonservice.com
 msi.msigts.com
 msigbs.actonservice.com
@@ -28219,6 +28212,7 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
+prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -29540,6 +29534,7 @@ rtb.axp.amazon-adsystem.com
 rtb.prod.carbonatixaudio.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
