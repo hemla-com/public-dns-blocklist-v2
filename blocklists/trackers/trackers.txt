@@ -5318,6 +5318,7 @@ ampltd2.medal.tv
 ampscamp.net
 ams.lelong.com.my
 ams.oraclecloud.com
+amspbs.com
 amsunsolar.actonservice.com
 amuckafternoon.com
 amusedbucket.com
@@ -5366,6 +5367,7 @@ analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
+analytic.is
 analytic.newmexico.aaa.com
 analytic.northernnewengland.aaa.com
 analytic.rollout.io
@@ -8772,6 +8774,7 @@ bwj4.hrhibiza.com
 bwkpkx.projectxparis.com
 bwmxdg.kimono-365.jp
 bwntyd.neuve-a.net
+bws.airwallex.com
 bwspqc.bloomonline.jp
 bwujxl.yoga-lava.com
 bx-cloud.com
@@ -9155,6 +9158,7 @@ cdn-eu.usefathom.com
 cdn-exp-sg-recommend.pt.xiaomi.com
 cdn-rum.ngenix.net
 cdn-t.amazon-adsystem.com
+cdn-vitals.com
 cdn-xp-ingest.edge.apple
 cdn.9gtb.com
 cdn.arcstudiopro.com
@@ -12591,6 +12595,7 @@ dp.tuex.ca
 dpckzt.mesrecettesfaciles.fr
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
+dppesulohfqre.cloudfront.net
 dppublishinginc.actonservice.com
 dptgdj.usagi-online.com
 dptkdh.joinhoney.com
@@ -14345,7 +14350,6 @@ exampleshake.com
 exbujk.glamood.com
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
-excelonline.nel.measure.office.net.cardano.com
 exchange.carte-gr.total.fr
 exchange.happ.social
 excitingdates.com
@@ -14369,7 +14373,6 @@ eximius.epoise.com
 exitachieve.myre.io
 exitblocked.com
 exmeqy.smartbuyglasses.de
-exo.nel.measure.office.net.cardano.com
 exp.notion.so
 expansioneggnog.com
 experianmatch.info
@@ -14621,6 +14624,7 @@ feedback.imsmetals.com
 feedback.lifeguardarena.com
 feedback.miui.com
 feedback.nslsc-csnpe.ca
+feedback.search.microsoft.com
 feedbackws.fe.apple-dns.cn
 feedbackws.fe.apple-dns.net
 feedbackws.fe2.apple-dns.net
@@ -14782,6 +14786,7 @@ flog.pressplay.cc
 floodedpixel.com
 floodprincipal.com
 floorforce.actonservice.com
+floors.dev
 flotech.actonservice.com
 flourishingcollaboration.com
 flourishingendeavor.com
@@ -15121,6 +15126,7 @@ fsegfy.lepoint.fr
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fsrv.io
 fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
@@ -17113,7 +17119,6 @@ ideadevice.actonservice.com
 ideas.nanawall.com
 identification.hotmart.com
 identity.browserapps.amazon.de
-identity.nel.measure.office.net.cardano.com
 identitypxl.app
 idg1.idgarages.com
 idgptg.esm-computer.de
@@ -18694,6 +18699,7 @@ innovations.luxaflex.com.au
 innovations.provisur.com
 inpney.warehouse-one.de
 inputicicle.com
+inputsuggestions.msdxcdn.microsoft.com
 inqjal.dickssportinggoods.com
 inqueritos-qa.cp.pt
 inqueritos.cp.pt
@@ -21230,6 +21236,7 @@ logs-partners.coupang.com
 logs.51cto.com
 logs.adplay.ru
 logs.animaapp.com
+logs.appsource.microsoft.com
 logs.betterstack.com
 logs.chatboost-cv.algoage.co.jp
 logs.dynamicauth.com
@@ -21632,7 +21639,6 @@ m.wishmindr.com
 m1.stadiumgoods.com
 m2.washmen.com
 m2t.actonservice.com
-m365cdn.nel.measure.office.net.cardano.com
 m3ds.subarumetropolitain.com
 m3uef4b38brmbntdzx.franchiseplus.nl
 m4zoxtrcea1k.controlconceptsusa.com
@@ -23651,6 +23657,7 @@ meanwellaustralia.actonservice.com
 meas.join-stories.com
 measlymiddle.com
 measure.ameblo.jp
+measure.microsoft.com
 measure.office.com
 measure.office.com.akamaized.net
 measure.office.net
@@ -26643,7 +26650,6 @@ offers.la-z-boy.com
 offers.storagepipe.com
 offgridcrops.com
 office-events-data.trafficmanager.net
-officehub.nel.measure.office.net.cardano.com
 officestylist.com
 offshoreassets.com
 offshorecyclone.com
@@ -28221,7 +28227,6 @@ prassas.openapp.link
 prasserie.openapp.link
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
-prd-qlik-telemetry.servicebus.windows.net
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
 pre-employmentservices.adp.com
@@ -29460,6 +29465,7 @@ roiscs.actonservice.com
 rollbar.actonservice.com
 rollconnection.com
 rolt7it2lhml5rxa.edge41.testandtarget.omniture.com
+romeccs.microsoft.com
 romotur.actonservice.com
 rooms.itsme.cool
 rooms.itsme.video
@@ -30663,6 +30669,7 @@ scentedkindly.com
 scheduling.qualifi.hr
 schinnerer.actonservice.com
 scholarloop.com
+scholarsark.com
 schoolpaws.com
 schwacke.autovistagroup.com
 schwaebischhall.efscle.com
@@ -35573,7 +35580,6 @@ spliceclub.com
 splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
-spo.nel.measure.office.net.cardano.com
 sponsored-ads-eu-south-2.amazon-adsystem.com
 sponsored-ads-eu.amazon-adsystem.com
 sponsored-ads-eu.amazon.ae
@@ -36321,6 +36327,7 @@ st.nylinvestments.com
 st.onemazdausa.com
 st.picshuffle.com
 st.preciousamber.com
+st.putler.com
 st.s-bahn-muenchen-magazin.de
 st.sawlive.tv
 st.tulastudio.se
@@ -38604,6 +38611,7 @@ tangycover.com
 tao.barstoolsports.com
 tap.carling.com
 tapi.kaufda.de
+tapoutmusic.com
 target-omtrdc.deka.de
 target-test.cisco.com
 target-us.samsung.com
@@ -38959,7 +38967,6 @@ team.moxtra.com
 teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
 teams-events-data.trafficmanager.net
-teams.nel.measure.office.net.cardano.com
 teamstatus.net
 tearfulglass.com
 tech.finalto.com
@@ -39651,6 +39658,7 @@ topcrazypress.com
 topicalcartel.com
 topicjungle.com
 toplaunch.net
+topratedwaterfilter.com
 topsecretapp.net
 topspin.npo.nl
 topthrowbacks.com
