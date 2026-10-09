@@ -5956,6 +5956,7 @@ analytics.trafficmanager.net
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics.tufos.com.br
 analytics.turnertv.com
 analytics.tver.jp
@@ -7241,6 +7242,7 @@ arclet.net
 argos.citruserve.com
 argyleforum.actonservice.com
 aria.inhaabit.com
+ariaclean.com
 ariane.abtasty.com
 arigng.door.ac
 arincol.arin-innovation.com
@@ -8146,6 +8148,7 @@ bikesboard.com
 bilahh.feuvert.fr
 bilder11.markt.de
 bilingualgeek.com
+billionpet.com
 billowybead.com
 billowybelief.com
 billtable.com
@@ -8336,6 +8339,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 boss.openapp.link
@@ -9345,6 +9349,7 @@ cisco-eagle.actonservice.com
 ciszhp.finanzfrage.net
 ciszhp.gesundheitsfrage.net
 ciszhp.motorradfrage.net
+citizensactive.com
 citizensclimate.actonservice.com
 citizenship.quantresear.ch
 citrixanalyticseh-alias.servicebus.windows.net
@@ -9487,6 +9492,7 @@ click360.io
 clickatell.actonservice.com
 clickcount.cnool.net
 clicked.ebates.com
+clickersdigest.com
 clickins.slixa.com
 clicks.6thstreet.com
 clicks.burgerking.co.uk
@@ -9695,6 +9701,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-ad-lgsmartad-com.aws-prd.net
 cm-exchange.toast.com
@@ -13698,7 +13705,6 @@ emptyboats.com
 emptyescort.com
 emq.xmpush.xiaomi.com
 emrdnt.sumaity.com
-emrld.cc
 ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
 emsexam.quantresear.ch
@@ -15631,7 +15637,6 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -21651,6 +21656,7 @@ ma.axiomatics.com
 ma.betterbusiness.se
 ma.brightby.se
 ma.cbre.com
+ma.gamersnexus.net
 ma.hitachi-systems.com
 ma.hmhco.com
 ma.kyloepartners.com
@@ -27853,6 +27859,7 @@ pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixeledhub.com
 pixelmoonstudio.com
@@ -37042,6 +37049,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -37435,6 +37443,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stats2.architecturaldigest.com
 stats2.bonappetit.com
 stats2.cntraveler.com
@@ -39683,6 +39692,7 @@ townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
 toysbasics.com
 toytakeover.com
+tp-em.cc
 tp.ackermann.ch
 tp.ambria.de
 tp.baur.de
