@@ -10857,7 +10857,6 @@ cznfum.lumas.com
 cznluk.urbangymwear.co.uk
 czsk.sharpmarketing.eu
 czujjs.crownandcaliber.com
-czx5eyk0exbhwp43ya.biz
 d-app.progressive.com
 d-kint.d-kintetsu.co.jp
 d-log.asahi.co.jp
@@ -11590,6 +11589,7 @@ dbex-tracker-v2.driveback.ru
 dbj.quebecregion.com
 dbl.cadriamarketing.com
 dbmbfe.pegipegi.com
+dbpbyh.americanas.com.br
 dbyoei.styleggom.co.kr
 dbzgtg.infostrada.it
 dbzpek.nike.com
@@ -39950,6 +39950,7 @@ tr.politicolive.eu
 tr.politicomarketing.eu
 tr.portail.afpa.fr
 tr.prevention.harmonie-mutuelle.fr
+tr.preventivo.risparmiazienda.it
 tr.price.com.hk
 tr.pro.odalys-vacances.com
 tr.pro.residencehappysenior.fr
