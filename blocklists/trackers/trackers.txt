@@ -4264,6 +4264,7 @@ abracon.actonservice.com
 abroad.api.comm.intl.miui.com
 abs.proxistore.com
 absentairport.com
+absinfo.eagle.org
 absoft.actonservice.com
 absolutering.com
 absorbingband.com
@@ -5580,6 +5581,7 @@ analytics.fatmedia.io
 analytics.favcy.com
 analytics.ferguson.com
 analytics.ff.avast.sec.miui.com
+analytics.fibwatch.com
 analytics.firespring.com
 analytics.firstbankcardcenter.com
 analytics.firstbankcardplcc.com
@@ -9867,6 +9869,7 @@ colossalcoat.com
 colossalcry.com
 columbustech.tcsg.edu
 colvk.viki.io
+colwinners.com
 com.carte-gr.total.fr
 com.econa.com
 combativedetail.com
@@ -9885,6 +9888,7 @@ commercial-analytics-collector.news.co.uk
 commercial.davey.com
 commercial.equifax.com
 commercial.inform.equifax.com
+commitlogs.com
 commondreams.actonservice.com
 comms.adss.com
 comms.bps.org.uk
@@ -11599,6 +11603,7 @@ dbex-tracker-v2.driveback.ru
 dbj.quebecregion.com
 dbl.cadriamarketing.com
 dblarson.com
+dblendcoatings.com
 dbmbfe.pegipegi.com
 dbyoei.styleggom.co.kr
 dbzgtg.infostrada.it
@@ -11921,6 +11926,7 @@ dgmolb.irishjobs.ie
 dgynnj.koctas.com.tr
 dgztiz.conrad.se
 dh0c1bz67fuho.cloudfront.net
+dharmabrats.com
 dhdaa.duke.edu
 dhfs-id.heytapimage.com
 dhfs-id.oppomobile.com
@@ -12402,6 +12408,7 @@ doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
 doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
+dorsalapp.com
 dotdotlab.com
 dotshellmain.com
 dotvox.actonservice.com
@@ -12538,6 +12545,7 @@ dtzrrz.green-japan.com
 du4rq1xqh3i1k.cloudfront.net
 dual-s-ring.msedge.net
 dualping.com
+duetcode.com
 dujgiq.trendhim.pl
 dumpster.cam4.com
 dup.baidustatic.com
