@@ -10943,7 +10943,6 @@ d.lilstts.com
 d.m-net.de
 d.mail.levi.com
 d.nativendo.de
-d.omsnative.de
 d.rp-online.de
 d.santemagazine.fr
 d.shareaholic.com
