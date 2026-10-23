@@ -5612,7 +5612,6 @@ analytics.fatmedia.io
 analytics.favcy.com
 analytics.ferguson.com
 analytics.ff.avast.sec.miui.com
-analytics.fibwatch.com
 analytics.firespring.com
 analytics.firstbankcardcenter.com
 analytics.firstbankcardplcc.com
@@ -5984,7 +5983,6 @@ analytics.vitalsignstracker.com
 analytics.viture.dev
 analytics.vixcloud.co
 analytics.vk.asahi.co.jp
-analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wask.co
 analytics.wavebox.io
@@ -6036,7 +6034,6 @@ analytics.yola.net
 analytics.yolacdn.net
 analytics.yollamedia.com
 analytics.yomedia.vn
-analytics.yugen.to
 analytics.yyggames.com
 analytics.zagg.com
 analytics.zevvle.com
@@ -21182,7 +21179,6 @@ losslace.com
 lostwaxlab.com
 lotte.myomee.com
 loudlunch.com
-love.vidora.su
 loveeveryday.brighterkind.com
 lovelydrum.com
 lovesbooks.com
@@ -36383,7 +36379,6 @@ statistics.jfmedier.dk
 statistics.klicktel.de
 statistics.rbi-nl.com
 statistics.riskommunal.net
-statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.werkenntdenbesten.de
@@ -36663,7 +36658,6 @@ stats.fungus.computer
 stats.g.doubleclick.net.iberostar.com
 stats.galeb.org
 stats.galleriacortona.com
-stats.gateio.ch
 stats.geobox.app
 stats.gesund-vital-lebensfreude.com
 stats.getdoks.org
@@ -37163,7 +37157,6 @@ stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
 stats.vican.me
-stats.vidbinge.com
 stats.viddler.com
 stats.videasy.net
 stats.vidyome.com
@@ -37339,7 +37332,6 @@ stonepole.com
 stonetumble.com
 stopcast.net
 stopstomach.com
-storage.lulu-row1.com
 storagetechnology.arrow.com
 store.echovisuals.com
 store.esquirrel.at
