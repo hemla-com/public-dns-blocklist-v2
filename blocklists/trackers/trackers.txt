@@ -6222,7 +6222,6 @@ api.installer.xiaomi.com
 api.jr.mi.com
 api.june.so
 api.launcher.intl.miui.com
-api.metrics.eu-central-1.iris.apx.amazon.dev
 api.metrics.us-west-2.iris.apx.amazon.dev
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
@@ -7991,6 +7990,7 @@ beacon.shazam.com
 beacon.shutterfly.com
 beacon.sina.com.cn
 beacon.sojern.com
+beacon.viafoura.io
 beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.webpresence.work
@@ -9155,6 +9155,7 @@ cdpbeacon.lgtvcommon.com
 cdpbeacon2.lgtvcommon.com
 cdrive.compellent.com
 cdtm.cdiscount.com
+cedarkits.com
 ceggfe.msc-kreuzfahrten.de
 celestialeuphony.com
 celestialquasar.com
@@ -9365,6 +9366,7 @@ claycandle.com
 claynelsonlifebalance.actonservice.com
 clb.yahoo.co.jp
 clck.dzen.ru
+clcksrv.com
 clcktrax.com
 cldata-ads-fr.heytapmobile.com
 cldata-ads-ru.heytapmobile.com
@@ -14296,6 +14298,7 @@ execgroup.convio.com
 execreps.actonsoftware.com
 executeknowledge.com
 execution-ci360.rai.it
+exfdg.com
 exhibit.coteriefashionevents.com
 exhibit.firex.co.uk
 exhibit.kbb.co.uk
@@ -14480,6 +14483,7 @@ farmergoldfish.com
 farsnails.com
 fashion.edm.globalsources.com
 fashion.tradeshow.globalsources.com
+fashionposter.com
 fast.icars.cc
 fast.samsungsingapore.demdex.net
 fastemu.co
@@ -14526,6 +14530,7 @@ fculcz.joann.com
 fd.bawag.at
 fd.ivoclar.com
 fdbs.actonservice.com
+fdgcore.com
 fdiinc.actonservice.com
 fdixsh.platypusshoes.com.au
 fdkeip.azafashions.com
@@ -14774,6 +14779,7 @@ fly.caljetelite.com
 flyflightstar.com
 flystranger.com
 flysupercars.com
+flyyoung.net
 flznib.weblio.jp
 fma7.aegon.es
 fmbankva.actonservice.com
@@ -14910,6 +14916,7 @@ fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
 fp.msedge.net
+fp.uncensored.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
 fpadga.mcruises.ru
@@ -15054,6 +15061,7 @@ fscareers.epoise.com
 fscareerstest.epoise.com
 fse.net.anwalt.de
 fsegfy.lepoint.fr
+fservr.com
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
@@ -15222,6 +15230,7 @@ gaafbi.fashiondays.hu
 gaccwr.dutramaquinas.com.br
 gagysn.floward.com
 gahhfg.bobo.com.br
+gaij.app
 gak.webtoons.com
 galileotelemetry.tencent.com
 gallery.cdn.pandora.xiaomi.com
@@ -15299,6 +15308,7 @@ gemorganic.com
 generaleducation.graduateprogram.org
 generalprose.com
 genesis.malwarebytes.com
+genomicswire.com
 gentian-frd.hjapi.com
 geo.bdg.com
 geo.brobible.com
@@ -16468,6 +16478,7 @@ happyholidays.coniferhealth.com
 harborcaption.com
 harborcontrol.com
 hardinet.actonservice.com
+hardsixhockey.net
 harlan.actonservice.com
 harman.epoise.com
 harmantest.epoise.com
@@ -16764,6 +16775,7 @@ homeyware.com
 honestharbor.com
 honeybulb.com
 honeybutterbliss.com
+honeyscene.com
 honorableland.com
 honorsearch-dra.hiboard.hihonorcloud.com
 honorsearch-drcn.hiboard.hihonorcloud.com
@@ -16785,6 +16797,7 @@ hospitablehat.com
 hospitality.redbull.racing
 host.roxiapp.com
 host11.traffic-builders.com
+hostchutney.com
 hot.browser.intl.miui.com
 hotel-marketing.hrs.com
 houston-content.cresa.com
@@ -19451,6 +19464,7 @@ knapia.weightwatchers.com
 knewpenny.com
 knfjhy.echo.msk.ru
 knifetreasury.com
+knightface.com
 knitstamp.com
 knjybs.luminis-films.com
 knlqeu.jewlr.com
@@ -19588,6 +19602,7 @@ l.bigbasket.com
 l.biglion.ru
 l.brightside.com
 l.bspace.io
+l.ca.ovhcloud.com
 l.civic.com
 l.claphere.com
 l.closermag.fr
@@ -19739,6 +19754,7 @@ lapkhy.aventon.com
 laplink.actonservice.com
 lapwkd.feelgood-shop.com
 largebrass.com
+largetony.com
 laserconcepts.actonservice.com
 lastanonymous.com
 lasttaco.com
@@ -24256,6 +24272,7 @@ metrics.esignal.com
 metrics.etihad.com
 metrics.etihadengineering.com
 metrics.etihadguest.com
+metrics.eu-central-1.iris.apx.amazon.dev
 metrics.eu-south-2.iris.apx.amazon.dev
 metrics.eu-west-1.iris.apx.amazon.dev
 metrics.eu.playstation.com
@@ -25243,6 +25260,7 @@ mgixgn.wittchen.com
 mgn.ebis.xn--olsz5f0ufw02b.net
 mgntat.mno.link
 mgptul.finson.com
+mgrace.net
 mgt7.madeindesign.it
 mh9qqwotr890.koelewijn.nl
 mhauev.glasses.com
@@ -25779,6 +25797,7 @@ mx.information.maileva.com
 mx.mywd.com
 mx2.carte-gr.total.fr
 mx2.happ.social
+mxanalytics.youruncensoredai.workers.dev
 mxdzxd.mister-auto.com
 mxhunv.kurz-mal-weg.de
 mxmwqo.biosante.com.br
@@ -26070,6 +26089,7 @@ newsuccesssecret.com
 newsvehicles.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
+nextsmarty.com
 nexttopchef.com
 nexus.officeapps.live.com
 nexusrules.live.com
@@ -26373,6 +26393,7 @@ nzqrfa.hushpuppies.com
 nzueib.dice.com
 nzuwat.miliboo.it
 nzzvvf.goldengoose.com
+o-api.hotukdeals.com
 o.bluewin.ch
 o.carmax.com
 o.catalyst.com.sa
@@ -26481,8 +26502,14 @@ ocmxbu.hanatour.com
 ocpgll.bannerbuzz.ca
 ocpi.americanexpress.ca
 ocs.hagerty.com
+ocular.chollometro.com
 ocular.dealabs.com
 ocular.hotukdeals.com
+ocular.mydealz.de
+ocular.pepper.pl
+ocular.pepperdeals.com
+ocular.pepperdeals.se
+ocular.preisjaeger.at
 ocular.promodescuentos.com
 ocwlhv.ecid.com.br
 oda.markitondemand.com
@@ -27321,6 +27348,7 @@ paintersusainc.actonservice.com
 paintmogul.com
 paintpear.com
 pairin.actonservice.com
+pajamabrand.com
 pakdru.altrarunning.com
 pal-v.actonservice.com
 paladion.actonservice.com
@@ -27690,6 +27718,7 @@ pixel.patch.com
 pixel.poptok.com
 pixel.propublica.org
 pixel.pub.lilyai.net
+pixel.quantserve.com
 pixel.redgifs.com
 pixel.roymorgan.com
 pixel.s3xified.com
@@ -28844,6 +28873,7 @@ rec.banggood.com
 receive.wmcdp.io
 receptivereaction.com
 recessrain.com
+recipearena.com
 recipepile.net
 recipepin.com
 reco.target2sell.com
@@ -29027,6 +29057,7 @@ report.appmetrica.yandex.net.iberostar.com
 report.gras.samsungdm.com
 report.meituan.com
 report.n.xiaomi.com
+report.senzia.cc
 reportic.app
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
@@ -31710,6 +31741,7 @@ skillfullyfrugal.com
 skillpuppy.com
 skillshouse.actonservice.com
 skincheckwa-app.hotdoc.com.au
+skinnytea.net
 skisofa.com
 skmcwz.haselmode.co.kr
 skosgrill.openapp.link
@@ -35332,7 +35364,6 @@ spc.personalcreations.com
 spea.eko.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
-specialreview.net
 specialscissors.com
 specialtypin.com
 spectacularstamp.com
@@ -35423,6 +35454,7 @@ spuriousair.com
 spurioussquirrel.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
+spyrep.com
 spysubstance.com
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
@@ -38232,6 +38264,7 @@ t.usctrojans.com
 t.utahstateaggies.com
 t.utrockets.com
 t.valcyte.com
+t.venice.ai
 t.veranstaltungsticket-bahn.de
 t.vibe.co
 t.villanova.com
@@ -41685,6 +41718,7 @@ tracks3.ferrari.com
 trackside.redbull.racing
 tracksrv.zdf.de
 trackv-test.esearchvision.com
+tradedeli.com
 traderbyte.com
 tradeshow.edm.globalsources.com
 tradeshows.aem.org
@@ -42543,6 +42577,7 @@ unbecominglamp.com
 uncanny.marvel.com
 uncanny.marvelkids.com
 uncmbg.timberland.de
+uncommonalias.com
 uncoveredexpert.com
 understoodocean.com
 undurs.1md.org
@@ -44013,6 +44048,7 @@ welcome.peek.com
 welcome.qualicoliving.com
 welcome.visitthelandmark.com
 welcome.vodafone.com
+wellbeingforce.com
 wellgroomedhydrant.com
 wellness.palomarhealth.org
 wemqip.misli.com
@@ -44093,6 +44129,7 @@ wissen.sage.de
 wistfulwaste.com
 withsounds.com
 withyou.shorr.com
+wittyfamous.com
 wittypopcorn.com
 wittyshack.com
 wiz.empowerhearing.com
@@ -45345,6 +45382,7 @@ yqqhbd.yotsuyaotsuka.com
 yrepmy.jochen-schweizer.de
 yrjpgjv35y9x.salud-masculina.info
 yrrudp.inven.co.kr
+yrtace.com
 ysaaks.mobiauto.com.br
 yskvdo.gebrauchtwagen.at
 ysl3.destinia.ec
