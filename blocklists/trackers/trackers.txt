@@ -19686,6 +19686,7 @@ l.urban.com.au
 l.uvcr.me
 l.voalearningenglish.in
 l.voleousa.com
+l.web.huya.com
 l.whizzl.com
 l.workoutparty.co
 l.your.md
@@ -41763,7 +41764,6 @@ tranquilveranda.com
 transact.blackboard.com
 transfer.sec.miui.com
 transit.ncsecu.org
-transmapp.com
 transmissionapp.jacoblegrone.com
 transplant.care.uhssa.com
 transplant.universityhealth.com
@@ -42224,7 +42224,6 @@ trust.titanhq.com
 trust.zebra.com
 trusted-web-seal.cybertrust.ne.jp
 trustid.actonservice.com
-trustisimportant.fun
 trustmodule.com
 trvonu.k-manga.jp
 trx-cdn.zip.co
