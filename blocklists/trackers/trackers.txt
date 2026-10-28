@@ -12414,6 +12414,7 @@ dls-account.di.atlas.samsung.com
 dls-b23-link.ip.twelve99.net.iberostar.com
 dls-ddc.dqa.samsung.com
 dls-udc.dqa.samsung.com
+dls.di.atlas.samsung.com
 dls.di.runestone.samsung.com
 dls.guidrr.com
 dlthst9q2beh8.cloudfront.net
@@ -15199,6 +15200,7 @@ g1386590346.co
 g1584674682.co
 g1584674683.co
 g1584674684.co
+g1782759015.co
 g1782759016.co
 g1980843350.co
 g1be.swisslife-direct.fr
@@ -19686,7 +19688,6 @@ l.urban.com.au
 l.uvcr.me
 l.voalearningenglish.in
 l.voleousa.com
-l.web.huya.com
 l.whizzl.com
 l.workoutparty.co
 l.your.md
