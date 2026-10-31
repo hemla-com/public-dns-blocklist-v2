@@ -5018,6 +5018,7 @@ adx-u-in.heytapmobile.com
 adx-u-ru.heytapmobile.com
 adx-u-sg.heytapmobile.com
 adx.tv.mi.com
+adxh3-op-sg.heytapmobile.com
 adxlog-adnet.vivo.com.cn
 adxu-bigo-sg.heytapmobile.com
 adxzju.penti.com
@@ -7248,6 +7249,7 @@ archived.first.eloqua.extrahop.com
 archived.learn.eloqua.extrahop.com
 archswimming.com
 arclet.net
+arctb53wmig1gagbqjqgolj2ig.msn.com
 argos.citruserve.com
 argyleforum.actonservice.com
 aria.inhaabit.com
@@ -14044,6 +14046,7 @@ etx.indiatimes.com
 etznkn.ec-store.net
 eu-1-id5-sync.com
 eu-album-api.vivoglobal.com
+eu-api-stsdk.vivoglobal.com
 eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
@@ -17867,6 +17870,7 @@ in-adlog.vivoglobal.com
 in-adreq.vivoglobal.com
 in-adsjssdk.vivoglobal.com
 in-analyzer-appstore.vivoglobal.com
+in-api-stsdk.vivoglobal.com
 in-apponrt-stsdk.vivoglobal.com
 in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
@@ -17887,6 +17891,7 @@ in-miuilog.sms.intl.xiaomi.com
 in-mktg.vodafone.com
 in-monitor-stsdk.vivoglobal.com
 in-news-abroad-backstage-interface.vivoglobal.com
+in-nrt-stsdk.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
 in-os-config-appstore.vivoglobal.com
