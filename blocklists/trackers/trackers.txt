@@ -15282,6 +15282,7 @@ fxfezg.bodylab24.de
 fxipca.americanexpress.ca
 fxipreferral.americanexpress.com
 fxipwelcome.americanexpress.ca
+fxltsbl.com
 fxmdjr.mamastar.jp
 fxmdjr.saita-puls.com
 fxmdjr.yogajournal.jp
@@ -17103,6 +17104,7 @@ hzzyhl.jobs.ch
 i-cn01a.ocloud.heytapmobi.com
 i-dev.villa.ge
 i-in.browser.heytapmobile.com
+i-insurance.finzfin.com
 i-ready.curriculumassociates.com
 i-sg.browser.heytapmobile.com
 i-sg01a.ocloud.heytapmobi.com
@@ -26725,6 +26727,7 @@ obseu.netgreencolumn.com
 obsidiangems.com
 obtfhl.bellemaison.jp
 obus-cn.dc.heytapmobi.com
+obus-conf-cn.heytapmobi.com
 obus-conf-fr.heytapmobile.com
 obus-conf-in.heytapmobile.com
 obus-conf-sg.heytapmobile.com
@@ -28681,6 +28684,7 @@ purpose.maxizoo.fr
 purpose.maxizoo.ie
 purpose.maxizoo.pl
 purposepipe.com
+push-ads-cn.heytapmobi.com
 push-dc-us.heytapmobile.com
 push.heytapmobile.com
 pushd.netky.tech
