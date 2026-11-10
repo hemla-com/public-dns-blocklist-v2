@@ -187,7 +187,6 @@
 9786.pandasuite.io
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
-9955951.pillar.app
 9984342.reddoorz.in
 9b55.pandasuite.io
 9b5gjkrnw71r.it.themoneytizer.com
@@ -3675,7 +3674,6 @@ a8cv.pilates-k.jp
 a8cv.pocket-sommelier.com
 a8cv.postcoffee.co
 a8cv.pre-sana.com
-a8cv.premium.aidemy.net
 a8cv.presence.jp
 a8cv.print-gakufu.com
 a8cv.pro.omobic.com
@@ -4484,7 +4482,6 @@ acxajt.jimmykey.com
 ad-a8.www.zeiri4.com
 ad-bls-tracking.lemino.docomo.ne.jp
 ad-drcn.media.dbankcloud.cn
-ad-drcn.media.dbankcloud.ru
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
@@ -4724,7 +4721,6 @@ adixkr.culturekings.com.au
 adl.bankofthewest.com
 adl.kkguan.com
 adlc-exchange.toast.com
-adless.io
 adlog.com.com
 adlog.vivo.com
 adlog.vivo.com.cn
@@ -6214,15 +6210,12 @@ api-analytics-qa.samsungknox.com
 api-analytics.samsungknox.com
 api-cn.cdo.heytapmobi.com
 api-gl.cdo.heytapmobi.com
-api-gl.cdo.heytapmobile.com
 api-hotmart-tracking-manager.hotmart.com
-api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
 api-id.game.heytapmobile.com
 api-id.play.heytapmobile.com
 api-id.theme.heytapmobi.com
 api-id.theme.heytapmobile.com
-api-in.cdo.heytapmobile.com
 api-js.mixpanel.com
 api-metric.gosweb.gosuslugi.ru
 api-rec.stellar.intl.miui.com
@@ -6284,9 +6277,15 @@ apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
+apm-ap.yun.hihonor.com
+apm-eu.yun.hihonor.com
+apm-fr.yun.hihonor.com
+apm-ru.yun.hihonor.com
 apm-rum.inf.miui.com
+apm-sg.yun.hihonor.com
 apm.qwant.com
 apm.tnet.nl
+apm.yun.hihonor.com
 app-branch.yummybazaar-qa.com
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
@@ -8529,7 +8528,6 @@ branch.totalbrain.com
 branch.trevo.my
 branch.tripcody.com
 branch.uat.bfsgodirect.com
-branch.udl.io
 branch.vcf-test.vzw.dev.llabs.io
 branch.verintsystemsinc.com
 branch.vsco.ninja
@@ -8539,7 +8537,6 @@ branch.weeblme.com
 branch.wellsitenavigator.com
 branch.whatsnxt.app
 branch.xoxloveheart.com
-branch2.udl.io
 branchborder.com
 branchct.ncapp04.com
 branchcust.zulln.se
@@ -8657,7 +8654,6 @@ browser.covatic.io
 browser.miui.com
 browser.pipe.aria.microsoft.com
 browsercfg-drcn.cloud.dbankcloud.cn
-browserfiles.heytapmobile.com
 browserguides.net
 browsertdidticket.m.qq.com
 brpayless.eccocar.com
@@ -8692,7 +8688,6 @@ bs-pro-origin-pull.kwai.net.iberostar.com
 bs.nakanohito.jp
 bs.yandex.ru
 bsbmex.flaschenpost.ch
-bsf.sc.heytapmobile.com
 bsjgdn.supergoop.com
 bskblt.6thstreet.com
 bsna.galeria-kaufhof.de
@@ -9217,6 +9212,7 @@ cdnlogs.org
 cdnral.com
 cdns.brsrvr.com
 cdnwidget.com
+cdo.heytapmobile.com
 cdp.cifinancial.com
 cdp.howtotrade.com
 cdpbeacon.lgtvcommon.com
@@ -10141,23 +10137,17 @@ confirm.ptvgroup.com
 confirmglobal.com
 confusedcart.com
 conimicutlighthouse.viessmann-us.com
-conn-service-cn-01.allawntech.com
 conn-service-cn-03.allawntech.com
 conn-service-cn-04.allawntech.com
 conn-service-cn-05.allawntech.com
 conn-service-cn-07.allawntech.com
 conn-service-cn-08.allawntech.com
-conn-service-eu-01.allawnos.com
-conn-service-eu-02.allawnos.com
 conn-service-eu-03.allawnos.com
 conn-service-eu-04.allawnos.com
 conn-service-eu-05.allawnos.com
 conn-service-eu-07.allawnos.com
 conn-service-eu-08.allawnos.com
 conn-service-gl-01.allawntech.com
-conn-service-gl-03.allawntech.com
-conn-service-gl-04.allawntech.com
-conn-service-in-01.allawnos.com
 conn-service-in-03.allawnos.com
 conn-service-in-04.allawnos.com
 conn-service-in-05.allawnos.com
@@ -16132,7 +16122,6 @@ go.peppermarketing.com.au
 go.petmire.com
 go.petrelocation.com
 go.pgx.com
-go.pheasant.com
 go.phhlending.com
 go.piccolo.mobi
 go.picsart.com
@@ -16420,6 +16409,7 @@ gravitykick.com
 graychalk.com
 graylog.prod.cams.run
 grayoranges.com
+grayr.abx.ipd.hihonor.com
 grayreceipt.com
 grayscaleart.com
 graywords.net
@@ -16791,6 +16781,7 @@ highnoongear.com
 highscoresport.com
 hightouch-events.com
 highway.cablecar.sph.com.sg
+hihonor.api.useinsider.com
 hijxfm.gaspedaal.nl
 hikmxb.botovo.cz
 hiknhe.tanabesports.com
@@ -19421,6 +19412,7 @@ js1.cdn.applicationinsights.io
 js1.tst.applicationinsights.io
 js2.cdn.applicationinsights.io
 js2.tst.applicationinsights.io
+jscatch-sg-frontend.heytapmobile.com
 jshkyh.29cm.co.kr
 jslog.post.cz
 jsomtq.telescope.com
@@ -24086,7 +24078,6 @@ metrics-dra.dt.dbankcloud.cn
 metrics-dra.dt.dbankcloud.com
 metrics-dra.dt.hicloud.com
 metrics-drcn.dt.dbankcloud.cn
-metrics-drcn.dt.dbankcloud.com
 metrics-dre.data.dbankcloud.cn
 metrics-dre.dt.dbankcloud.cn
 metrics-go.experian.com
@@ -25566,7 +25557,6 @@ mincharge.com
 mindfulgem.com
 mine.nahnoji.cz
 mineinvoice.com
-minerad.com
 minerva.devices.a2z.com
 mini-site.larksuite-marketing.com
 minibilling.com
@@ -26734,6 +26724,8 @@ obus-conf-in.heytapmobile.com
 obus-conf-sg.heytapmobile.com
 obus-conf-us.heytapmobile.com
 obus-config-cn.heytapmobi.com
+obus-config-in.heytapmobile.com
+obus-config-sg.heytapmobile.com
 obus-dc-eu.heytapmobile.com
 obus-dc-ru.heytapmobile.com
 obus-dc-us.heytapmobile.com
@@ -26759,6 +26751,8 @@ obus-dctech-sg.heytapmobile.com
 obus-dcyitai-cn.heytapmobi.com
 obus-dcyitai-in.heytapmobi.com
 obus-dcyitai-sg.heytapmobile.com
+obus-hid-in.heytapmobile.com
+obus-hid-sg.heytapmobile.com
 obus-jssdk-cn.heytapmobi.com
 obus-jssdk-fr.heytapmobile.com
 obus-jssdk-in.heytapmobile.com
@@ -27178,6 +27172,7 @@ oossod.potterybarn.ae
 op-mobile.opera.com
 op.dragonfru.it
 opalquill.com
+opay.heytapmobile.com
 opbdps.bonprix.fi
 open-test.wynk.in
 open.ailo.app
@@ -29286,6 +29281,10 @@ remixbistro.com
 remixslot.com
 remnkv.doda.jp
 remote.carte-gr.total.fr
+remoteconfig-dra.platform.hihonorcloud.com
+remoteconfig-drcn.platform.hihonorcloud.com
+remoteconfig-dre.platform.hihonorcloud.com
+remoteconfig-uat-drcn.platform.hihonorcloud.com
 removeads.workers.dev
 remp-beam.golem.de
 remp.nv.ua
@@ -29337,11 +29336,6 @@ repfineart.com
 replaceroute.com
 replantable.com
 reply.osv.com
-report-eu.uc.heytapmobile.com
-report-in.opay.heytapmobile.com
-report-in.uc.heytapmobile.com
-report-sg.opay.heytapmobile.com
-report-sg.uc.heytapmobile.com
 report.23video.com
 report.appmetrica.yandex.net.iberostar.com
 report.diagnostic.networking.aws.dev
@@ -29597,6 +29591,7 @@ rmgdapfnccsharpprd.azurewebsites.net
 rmhoffman.actonservice.com
 rmmskb.fnacspectacles.com
 rmp4.destinia.uy
+rms-behavior-collect-drcn.hihonorcdn.com
 rmxhti.zpacks.com
 rnd-cbgpas01.huawei.com
 rnnstu.rentbeforeowning.com
@@ -30787,6 +30782,7 @@ sc.coutts.com
 sc.cvent.com
 sc.disneylandparis.com
 sc.doctorwho.tv
+sc.heytapmobile.com
 sc.hl.co.uk
 sc.hm.com
 sc.holtsmilitarybank.co.uk
@@ -42812,6 +42808,7 @@ ubuyanalytics.ubuy.com
 ubvsjh.pointtown.com
 ubyjor.distrelec.ch
 ubykct.teufel.ch
+uc.heytapmobile.com
 uc.xddi.ru
 ucaas.avaya.com
 ucdvze.gudrunsjoden.com
@@ -45664,7 +45661,6 @@ ybzcmz.momoshop.com.tw
 ycembr.net-a-porter.com
 ychqww.aboutyou.lv
 ycjhuh.stripe-club.com
-yctjw54slxrwwlh.trybawaryjny.pl
 ydbcct.nikigolf.jp
 ydbeuq.superpharm.pl
 ydccky.direnc.net
