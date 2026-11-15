@@ -17146,9 +17146,15 @@ htcnbx.odkarla.cz
 htewng.plesio.bg
 hthzoa.notino.hu
 htmgrl.jollyroom.no
+htms.heytapmobile.com
 htplayground.com
 htqfxh.vuch.cz
 htrace.wetvinfo.com
+httpdns-euex-push.heytapmobile.com
+httpdns-ocloud.heytapmobile.com
+httpdns-push.heytapmobile.com
+httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httr.redskins.com
 hu-ad-lgsmartad-com.aws-prd.net
 hu-business.vodafone.com
@@ -20037,6 +20043,7 @@ l.urban.com.au
 l.uvcr.me
 l.voalearningenglish.in
 l.voleousa.com
+l.web.huya.com
 l.whizzl.com
 l.workoutparty.co
 l.your.md
@@ -27384,6 +27391,7 @@ onsitestats.bluecore.com
 ontxgr.hofer-reisen.at
 oo.ooshop.com
 oocrzh.byojet.com
+oop-installer-gl.heytapmobile.com
 oopt.norauto.es
 ooqbml.tac-school.co.jp
 oossod.potterybarn.ae
@@ -44147,6 +44155,7 @@ vipwao.nutrimuscle.com
 vipyou.bulkpowders.es
 viralfoodie.net
 virtualvincent.com
+virusinfo-cloudscan-in.heytapmobile.com
 visio-telemetry.officeapps.live.com
 vision.cbre.com.au
 vision.cbresi.com.au
